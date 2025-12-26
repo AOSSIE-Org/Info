@@ -45,9 +45,9 @@ We appreciate perseverance. We have had many cases of candidates who did not get
 
 Google allows different project sizes and lengths.
 
-AOSSIE strongly prefers **Large** projects with a duration of **22 weeks**. 
+AOSSIE strongly prefers **large** projects with a duration of **22 weeks**. 
 
-Larger projects are better, because the administrative overhead is the same, independently of the project size, but a larger project size allows more significant contributions. This is better both for AOSSIE and for the contributor, who will have more interesting results to show.
+Larger projects are better, because the administrative overhead is the same independently of the project size, but a larger project size allows more significant contributions. This is better both for AOSSIE and for the contributor, who will have more interesting results to show.
 
 A duration of 22 weeks allows recovery from unexpected challenges (roadblocks in the project itself, personal issues, health issues, communication delays, ...). We strongly encourage that you select 22 weeks as the duration for your project, but plan to complete most of it in the first 12 weeks (during the summer vacation period, when you are likely to have more free time). 
 
@@ -79,10 +79,11 @@ During the coding period, the selected contributors will be required to **show w
 * Communicate at least once per week with your mentors through messages in the public discord channel of your project.
 * Write a post in Twitter and LinkedIn about your weekly progress.
 
-In order to pass an evaluation, the number of weeks in which you do not do any of these items should not be greater than 33% of the weeks preceeding your evaluation, unless you have completed your project ahead of schedule.
+In order to pass an evaluation, the number of weeks in which you do not do any of these tasks should not be greater than 33% of the weeks preceeding your evaluation, unless you have completed your project ahead of schedule.
 
 Furthermore, **once during the coding period**, you will have to present your project in one of the weekly meetings.
 
-For the **final evaluation**, in addition to the requirements by Google, AOSSIE requires the recording of two videos:
-* A demo video for end-users of your project.
-* A video explaining the what you have done in GSoC.
+For the **final evaluation**, in addition to the requirements by Google, AOSSIE requires you:
+* Record a demo video for end-users of your project.
+* Record a video explaining what you have done in GSoC.
+* Fill an internal feedback form.
