@@ -25,10 +25,10 @@ The main selection criteria are:
 * Pull Requests made to projects in any of the above-mentioned github spaces.
    * We take into account the quality, quantity and difficulty of the submitted PRs.
       * Quality of the PR involves not only quality of the code itself, but also of the PR's scope, the PR's description and PR's readiness.
-      * Submitting PR with code that was AI-generated is allowed, but you must be responsible for the code. Use AI responsibly.
+      * Submitting PRs with code that was AI-generated is allowed, but you must be responsible for the code. Use AI responsibly.
       * Spamming our repos with untested, broken, AI-generated code will make you ineligible.
    * We also take into account whether the submitted PRs demonstrate that you have the skill to do what you are proposing.
-      * While using AI to genrate code is allowed and even encouraged, since it may increase productivity, we are looking for contributors who are more than just "AI pilots".
+      * While using AI to generate code is allowed and even encouraged, since it may increase productivity, we are looking for contributors who are more than just "AI pilots".
    * We also take into account your behavior during the PR review process, such as your ability to improve your PR based on feedback in our reviews of your PR.
    * Pull requests made to any of our projects count, even the project is not related to your proposal or if the project is not going to participate in GSoC. In fact, we like contributors who contribute to our organization as a whole and not just to a single project. 
 * Quality of the Proposal
@@ -38,18 +38,51 @@ The main selection criteria are:
 We also take mentoring capacity and project capacity into account. So, if too many candidates apply with proposals related to the same project and 
 that project does not have capacity to have many contributors simultaenously or does not have enough mentors, then we may be unable to select even excellent candidates.
 
+We appreciate perseverance. We have had many cases of candidates who did not get selected in one year, but continued contributing and got selected in another year. We take into account all your PRs, independently of when they were made. Please list them all in your application.
+
+
+# Project Size and Length
+
+Google allows different project sizes and lengths.
+
+AOSSIE strongly prefers **Large** projects with a duration of **22 weeks**. 
+
+Larger projects are better, because the administrative overhead is the same, independently of the project size, but a larger project size allows more significant contributions. This is better both for AOSSIE and for the contributor, who will have more interesting results to show.
+
+A duration of 22 weeks allows recovery from unexpected challenges (roadblocks in the project itself, personal issues, health issues, communication delays, ...). We strongly encourage that you select 22 weeks as the duration for your project, but plan to complete most of it in the first 12 weeks (during the summer vacation period, when you are likely to have more free time). 
+
 
 # Rules to Ensure Fairness and Prevent Conflicts of Interest
 
 AOSSIE is interested in selecting the best contributors according to the criteria above. Favoritism, bias and conflict of interest have no place in our selection process.
 
-Our rules to prevent conflicts of interests are stricter than Google's. In addition to all the rules by Google, AOSSIE's mentors, contributors and candidates must also respect the foloowing to be eligible:
+Our rules to prevent conflicts of interests are stricter than Google's. In addition to all the rules by Google, AOSSIE's mentors, contributors and candidates must also respect the following rules to be eligible:
 
 * All communications between mentors and candidates must occur through our communication channels. See our [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md) for more details.
-* A contributor cannot be mentored by a mentor from the same university or city.
+* A contributor cannot be mentored by a mentor from the same university, institution or city.
 * A contributor who participated in GSoC in a previous year with AOSSIE is not eligible to apply again for GSoC with AOSSIE.
+* If you are a mentor with any affiliation or relationship, even if temporary and even if unpaid, with any entity from where there might be candidates applying for GSoC with AOSSIE, you must disclose this relationship to an admin prior to the GSoC application phase.
+   * Failure to disclose may lead to the ineligibility of candidates from that entity.
+* If you are a mentor, you are welcome and encouraged to talk about GSoC and AOSSIE online (e.g. in YouTube videos) or in local events (e.g. hackathons). However, if you do, you must inform the org admins.
 
-If you suspect that these rules are being violated, please contact AOSSIE's admins.
+If you suspect that these rules are being violated, please contact AOSSIE's org admins.
 
 
+# Rules for the Coding Period
 
+During the coding period, the selected contributors will be required to **show weekly progress**, by doing all of the following:
+
+* Submit at least one PR per week.
+   * Break down your project and plan your project's timeline to ensure that you can submit at least one PR per week.
+   * Small PRs, which are easier to review by your mentors and peers, are a good coding habit in collaborative software development. If you submit a huge PR just before an evaluation deadline, you may fail even if the PR completes the project. It is your responsibility to ensure that your mentor has sufficient time to evaluate whether you completed your project, and the best way to do this is by submitting small PRs weekly.
+* Attend our weekly meetings.
+* Communicate at least once per week with your mentors through messages in the public discord channel of your project.
+* Write a post in Twitter and LinkedIn about your weekly progress.
+
+In order to pass an evaluation, the number of weeks in which you do not do any of these items should not be greater than 33% of the weeks preceeding your evaluation, unless you have completed your project ahead of schedule.
+
+Furthermore, **once during the coding period**, you will have to present your project in one of the weekly meetings.
+
+For the **final evaluation**, in addition to the requirements by Google, AOSSIE requires the recording of two videos:
+* A demo video for end-users of your project.
+* A video explaining the what you have done in GSoC.
