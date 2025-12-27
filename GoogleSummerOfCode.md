@@ -59,13 +59,30 @@ AOSSIE is interested in selecting the best contributors according to the criteri
 Our rules to prevent conflicts of interests are stricter than Google's. In addition to all the rules by Google, AOSSIE's mentors, contributors and candidates must also respect the following rules to be eligible:
 
 * All communications between mentors and candidates must occur through our communication channels. See our [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md) for more details.
-* A contributor cannot be mentored by a mentor from the same university, institution or city.
+* A contributor cannot be mentored by a mentor from the same university or institution.
 * A contributor who participated in GSoC in a previous year with AOSSIE is not eligible to apply again for GSoC with AOSSIE.
 * If you are a mentor with any affiliation or relationship, even if temporary and even if unpaid, with any entity from where there might be candidates applying for GSoC with AOSSIE, you must disclose this relationship to an admin prior to the GSoC application phase.
    * Failure to disclose may lead to the ineligibility of candidates from that entity.
 * If you are a mentor, you are welcome and encouraged to talk about GSoC and AOSSIE online (e.g. in YouTube videos) or in local events (e.g. hackathons). However, if you do, you must inform the org admins.
 
 If you suspect that these rules are being violated, please contact AOSSIE's org admins.
+
+
+# Rules for the Application Phase
+
+If you are a candidate:
+* do not pretend to be a mentor.
+* do not try to intimidate or harass other candidates.
+* do not criticize the contributions of other candidates.
+* do not try to persuade other candidates not to apply.
+* do not try, by any means, to gain any unfair competitive advantage over other candidates.
+
+We are looking for honest, cooperative contributors. The behaviours described above are incompatible with what we are looking for.
+
+Keep in mind that mentors are volunteering their time and also have other responsibilities. 
+Because of this, there may be delays in answering your questions and reviewing your pull requests.
+Do not interpret such delays negatively about you or your contributions.
+
 
 
 # Rules for the Coding Period
@@ -83,7 +100,12 @@ In order to pass an evaluation, the number of weeks in which you do not do any o
 
 Furthermore, **once during the coding period**, you will have to present your project in one of the weekly meetings.
 
-For the **final evaluation**, in addition to the requirements by Google, AOSSIE requires you:
+For the **final evaluation**, in addition to the requirements by Google, AOSSIE requires that you:
 * Record a demo video for end-users of your project.
 * Record a video explaining what you have done in GSoC.
 * Fill an internal feedback form.
+
+Throughout the coding period, keep in mind that mentors are volunteering their time and also have other responsibilities. 
+Because of this, they may not always be able to check in frequently. It is your responsibility to maintain contact with the mentors.
+The mentors should not have to chase you to find out about your progress.
+Contributors should take ownership of their work and continue making progress even if the mentor is unavailable for a few days.
