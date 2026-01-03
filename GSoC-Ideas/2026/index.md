@@ -8,6 +8,7 @@ Organization-Wide Ideas:
 * [Redundancy and Choice for External Dependencies](TODO)
 * [Making our Projects Independent from Cloud Hosting](TODO)
 * [Improve and Modernize UI/UX of our Projects](https://github.com/AOSSIE-Org/Info/tree/main/GSoC-Ideas/2026/UI.md)
+* [Design and Implement Great-Looking Landing Pages for our Projects](TODO)
 * [Search-Engine Optimization](TODO)
 
 Project-Specific Ideas, grouped by theme: 
