@@ -59,13 +59,16 @@ AOSSIE is interested in selecting the best contributors according to the criteri
 Our rules to prevent conflicts of interests are stricter than Google's. In addition to all the rules by Google, AOSSIE's mentors, contributors and candidates must also respect the following rules to be eligible:
 
 * All communications between mentors and candidates must occur through our communication channels. See our [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md) for more details.
-* A contributor cannot be mentored by a mentor from the same university or institution.
 * A contributor who participated in GSoC in a previous year with AOSSIE is not eligible to apply again for GSoC with AOSSIE.
 * If you are a mentor with any affiliation or relationship, even if temporary and even if unpaid, with any entity from where there might be candidates applying for GSoC with AOSSIE, you must disclose this relationship to an admin prior to the GSoC application phase.
    * Failure to disclose may lead to the ineligibility of candidates from that entity.
-* If you are a mentor, you are welcome and encouraged to talk about GSoC and AOSSIE online (e.g. in YouTube videos) or in local events (e.g. hackathons). However, if you do, you must inform the org admins.
+* If you are a mentor, you are welcome and encouraged to talk about GSoC and AOSSIE online (e.g. in YouTube videos) or in local events (e.g. hackathons). However, if you do, you must inform the admins.
+* Contributors and mentors from the same university or institution, even if already graduated, are considered to have a potential (even if not actual) conflict of interest. Such potential conflicts of interest must be disclosed to admins.
+   * Failure to disclose may lead to ineligibility of the candidate.
+* For any other types of potential conflict of interest not explicitly listed above, admins should be informed.
+* Proposals will only be evaluated by mentors who do not have any potential conflict of interest with the candidates. If there are no mentors capable of evaluating the application without a potential conflict of interest, the application will not be selected. 
 
-If you suspect that these rules are being violated, please contact AOSSIE's org admins.
+If you suspect that these rules are being violated, please contact AOSSIE's admins.
 
 
 # Rules for the Application Phase
