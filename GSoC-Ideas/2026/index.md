@@ -21,6 +21,7 @@ Project-Specific Ideas, grouped by theme:
   - [Orb](TODO)
   - [Porting our Projects from EVM to Ergo](TODO)
   - [Zplit](TODO)
+  - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange.md](OrderBookAuctionExchange.md)
 * AI
   - [Our Own LLM](TODO)
 * Trust
