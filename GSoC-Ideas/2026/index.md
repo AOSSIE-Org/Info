@@ -28,6 +28,7 @@ Project-Specific Ideas, grouped by theme:
 * Education
 * Environment
 * Communication
+  - [Resonate](Resonate.md)
 * Governance
   - [Discord/Github Bot](Bot.md)
 
