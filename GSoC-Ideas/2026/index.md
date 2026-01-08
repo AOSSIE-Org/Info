@@ -4,7 +4,7 @@ Organization-Wide Ideas:
 
 * [DevOps](https://github.com/AOSSIE-Org/Info/tree/main/GSoC-Ideas/2026/devops.md)
 * [Discord/Github Bot](TODO)
-* [Fundraising and Monetization](TODO)
+* [Fundraising and Monetization](FundraisingMonetization.md)
 * [Redundancy and Choice for External Dependencies](TODO)
 * [Making our Projects Independent from Cloud Hosting](TODO)
 * [Improve and Modernize UI/UX of our Projects](https://github.com/AOSSIE-Org/Info/tree/main/GSoC-Ideas/2026/UI.md)
