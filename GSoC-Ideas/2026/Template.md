@@ -16,7 +16,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 ## Resources
 
-* Python Software Foundation sponsorship approach: https://pypi.org/sponsors/
+* TODO
 
 ## Ideators
 
