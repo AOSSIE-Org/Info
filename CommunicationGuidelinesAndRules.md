@@ -2,7 +2,7 @@
 
 * AOSSIE's official communication channels are:
     * [AOSSIE's Main Discord](https://discord.gg/xnmAPS7zqB).
-    * [Stability Nexus's Discord](https://discord.gg/fuuWX4AbJt), for projects related to bockchains and cryptocurrencies.
+    * [Stability Nexus's Discord](https://discord.gg/fuuWX4AbJt), for projects related to blockchains and cryptocurrencies.
 
 * All communication should happen in the official communication channels, to ensure openness and visibility to all organization members.
 
