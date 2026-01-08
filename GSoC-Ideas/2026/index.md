@@ -14,11 +14,11 @@ Organization-Wide Ideas:
 Project-Specific Ideas, grouped by theme: 
 
 * Economic Stability, Cryptocurrencies and Blockchains
-  - [Gluon](TODO)
-  - [Djed](TODO)
-  - [StablePay](TODO)
+  - [Gluon](Gluon.md)
+  - [Djed](Djed.md)
+  - [StablePay](StablePay.md)
   - [Fate](TODO)
-  - [Orb](TODO)
+  - [Orb](Orb.md)
   - [Porting our Projects from EVM to Ergo](TODO)
   - [Zplit](TODO)
   - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange](OrderBookAuctionExchange.md)
