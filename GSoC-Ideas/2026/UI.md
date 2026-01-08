@@ -2,26 +2,32 @@
 
 ## Background and Motivation
 
+UI/UX is a rapidly evolving field. From time to time, we need to update the UI/UX pf some of our projects to align them with the latest trends and expectations.
+
+AOSSIE is 10 years old and some of its projects are 15 years old. Some of our interfaces are a bit outdated from a UI/UX point of view.
+
+We are looking for contributors with good design and frontend skills and good artistic and usability sensibility to improve our user interfaces.
+
+
 ## Overview of Tasks
 
-* TODO
-* TODO
+* For each of our projects, analyze the current UI/UX and propose improvements. After the proposed improvements are accepted, execute them.
 
-Candidates are expected to refine these tasks in their GSoC proposals.
+Do this for as many of our projects as possible.
 
 ## Requirements
 
-* TODO
-* TODO
+* UIs should be clean and minimalistic.
+* UIs/UXs should be easy to maintain and update. We don't want to have to throw away and redo interfaces every year.
 
 ## Resources
 
-* Python Software Foundation sponsorship approach: https://pypi.org/sponsors/
+* 
 
 ## Ideators
 
 * GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
+  
 
 ## Mentors
 
@@ -30,4 +36,4 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 ## Communication Channel
 
-Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in TODO.
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in https://discord.com/channels/1022871757289422898/1458873922664792124.
