@@ -1,27 +1,42 @@
-# Search Engine Optimization
+# Search Engine Optimization, Social Sharing and Marketing
+
 
 ## Background and Motivation
 
+Most of our projects need improved marketing and SEO (Search Engine Optimization), 
+so that they are more easily discoverable by users and so that users are more likely to want to use our projects. In the past years, we have often focused more on the pure engineering side of our projects and neglected features that would facilitate project discovery and viral marketing.
+
+To be clear, this is not a pure marketing idea (which would not be eligible for GSoC). It is a coding idea to develop marketing-related features into our projects.
+
+
 ## Overview of Tasks
 
-* TODO
-* TODO
+Here is a non-exhaustive list of tasks related to this idea:
 
-Candidates are expected to refine these tasks in their GSoC proposals.
+* Many of our projects need better open-graph metadata to be displayed nicely when shared in Twitter, Discord, Telegram, LinkedIn, ...
+
+* All our projects need to be shareable more easily, so that they can be discovered by users more easily. We should add discrete, but visible "Share" buttons in their frontends. Clicking on the share buttons should open a modal allowing the user to choose a social media platform and then redirect the user to the chosen social media platform, preferably with a pre-filled message already written. The pre-filled message should tag our accounts.
+
+* Ensure metadata, indexing and content signals align with SEO best practices.
+
+* Our interfaces could actively ask users, in a non-annoying way, to leave a good review in review sites (e.g. producthunt) and app stores or to share the project in social media.
+
+* Our interfaces could refer back to the AOSSIE home-page or YouTube channel, where users could then discover other AOSSIE projects.
+
+
 
 ## Requirements
 
-* TODO
-* TODO
+* Make a clear executable strategy that involves improving as many of our projects as possible in ways that would make them more discoverable, and make users more likely to want to use them.
+
 
 ## Resources
 
-* Python Software Foundation sponsorship approach: https://pypi.org/sponsors/
+* Social Share Button: https://github.com/AOSSIE-Org/SocialShareButton
 
 ## Ideators
 
 * GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
 
 ## Mentors
 
@@ -30,4 +45,4 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 ## Communication Channel
 
-Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in TODO.
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in https://discord.com/channels/1022871757289422898/1458870711702786068.
