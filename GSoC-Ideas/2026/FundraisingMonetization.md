@@ -2,27 +2,40 @@
 
 ## Background and Motivation
 
+AOSSIE is a not-for-profit charity in Australia, capable of receiving tax-deductible donations. Yet, we have never tried to raise funding besides the funds provided by Google Summer of Code. Furthermore, our projects are all free, ad-free and have no revenue stream.
+
+If AOSSIE could have additional revenue streams or additional sources of funding, we could do more of the great things we have been doing.
+
+This idea is to brainstorm and execute ways of increasing AOSSIE's capacity to raise funds, diversify its revenues and make its projects financially self-sustainable.
+
+
 ## Overview of Tasks
 
-* TODO
-* TODO
+Here is a non-exhaustive list of things that could be done:
+
+* Set up all our repos to receive donations/support.
+* Create a sponsorship program and implement it in AOSSIE's website.
+* For each of our projects, find a way of monetizing it without degrading the user experience, and implement it.
+* For each of our projects, implement a way to allow users to donate to AOSSIE.
+
 
 Candidates are expected to refine these tasks in their GSoC proposals.
 
 ## Resources
 
-* Python Software Foundation sponsorship approach: https://pypi.org/sponsors/
+* Here is Python Software Foundation's sponsorship approach: https://pypi.org/sponsors/
+* Look for inspiration in what other umbrella organizations and open-source projects do to raise funds and sustain themselves.
+  
 
 ## Ideators
 
 * GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
 
 ## Mentors
 
-* GitHub: TODO; Discord: TODO
-* GitHub: TODO; Discord: TODO
+* GitHub: @Zahnentferner ; Discord: @b.wp
+* TODO
 
 ## Communication Channel
 
-Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in TODO.
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in https://discord.com/channels/1022871757289422898/1458830520447275040.
