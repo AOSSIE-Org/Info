@@ -13,6 +13,8 @@ We are looking for contributors with good design and frontend skills and good ar
 
 * For each of our projects, analyze the current UI/UX and propose improvements. After the proposed improvements are accepted, execute them.
 
+* Make our interfaces display well independently of screen size, device type and browser.
+
 Do this for as many of our projects as possible.
 
 ## Requirements
