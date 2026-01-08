@@ -2,26 +2,33 @@
 
 ## Background and Motivation
 
+Many of our projects have external dependencies on services and APIs that are often closed-source and subscription-based, such as AI LLMs, translation services, map providers. Even when these external services are free or offer a free tier or free credits, there is no guarantee that they will remain so forever. This brings a risk that our projects may suddenly stop working if these external dependencies become unaffordable or unavailable.
+
+We need to reduce the criticality of our dependency on such external dependencies. One way to do this is to offer choice to the user.
+
 ## Overview of Tasks
 
-* TODO
-* TODO
+For every project of ours that has an external dependency that requires an API key (Find such projects!), do the following:
 
-Candidates are expected to refine these tasks in their GSoC proposals.
+* Implement a "bring your own key" approach. Instead of AOSSIE having its own API key, each project user should input his/her own key in the project's settings. There should be clear instructions for what the user should do to obtain his/her own API key.
+
+* Implement a "decentralization of choice" approach. Find alternatives to a given API dependency, and make it possible for the users to choose (in the project's settings), which APIs they want to use. For example, if one of our projects is currently depending on ChatGPT's API, make it possible for the project to use Gemini as well and ensure that the user can choose which one to use.
+
+Candidates are expected to refine these tasks in their GSoC proposals and clearly specify which projects they are going to handle and which approach and which alternaives they are going to use in each project.
 
 ## Requirements
 
-* TODO
-* TODO
+* The settings chosen by the user should be stored in local storage.
+* If necessary/applicable, the user should be guided to configure the project's setting when the user uses the project for the first time.
 
 ## Resources
 
-* Python Software Foundation sponsorship approach: https://pypi.org/sponsors/
+* 
 
 ## Ideators
 
 * GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
+
 
 ## Mentors
 
@@ -30,4 +37,4 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 ## Communication Channel
 
-Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in TODO.
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in https://discord.com/channels/1022871757289422898/1458761301819133983.
