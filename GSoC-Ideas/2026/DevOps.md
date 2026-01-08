@@ -1,0 +1,36 @@
+# DevOps and Repo Quality
+
+## Background and Motivation
+
+Many of our repos were created with limited resources and thus tasks related to DevOps (e.g. setting up CI/CD workflows and github actions, releases, changelogs, licenses, readmes, tests, badges, templates) have often been neglected. Furthermore, even when we did some of these tasks in some of our repos, they were done by different people, without following common standards and possibly without following the state-of-the art.
+
+We need a common standard for our entire orgs in github, and we must ensure that all our repos are following these standards.
+
+## Overview of Tasks
+
+* Create templates, standards and default workflows/actions, according to the latest state-of-the-art and to the needs of our orgs
+* Update all our repos to conform to the created templates and standards and to utilize the created default workflows/actions
+
+Candidates are expected to refine these tasks in their GSoC proposals.
+
+## Requirements
+
+* 
+
+## Resources
+
+* 
+
+## Ideators
+
+* GitHub: @Zahnentferner ; Discord: @b.wp
+
+
+## Mentors
+
+* GitHub: TODO; Discord: TODO
+* GitHub: TODO; Discord: TODO
+
+## Communication Channel
+
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in https://discord.com/channels/1022871757289422898/1458764598562783323.

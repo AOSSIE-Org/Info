@@ -1,0 +1,25 @@
+# StablePay: Multi-Djed Payment Experience
+
+StablePay currently processes payments only for Djed Osiris, even though Solidity implementations for Djed Shu, Tefnut, and Isis are emerging. The widget, merchant dashboard, and demo sites need to evolve so that merchants can accept any Djed variant (ETH-backed or ERC-20-backed) with consistent UX, auto-discovery of parameters, and clear safety checks.
+
+## Opportunity
+
+* StablePay is composed of a reusable payment widget plus supporting projects (Merchant Website Demo, Merchant Dashboard, Landing Page), all open-source under the DjedAlliance GitHub organization.
+* As Djed Tefnut (ETH-backed) and Djed Isis (ERC-20-backed) launch, integrations must support new contract addresses, fee models, and oracle requirements without hardcoding assumptions from Osiris.
+* Merchants want better tooling for onboarding, key management, invoicing, and analytics tied to specific Djed deployments.
+
+## Proposed GSoC Tasks
+
+1. **Protocol adapters** – Refactor the payment widget/contracts to interact with abstracted Djed interfaces so that Osiris, Shu, Tefnut, and Isis can be plugged in by configuration. Include support for ETH-backed and ERC-20-backed collateral flows (deposit, redemption, treasury fees).
+2. **Merchant dashboard upgrades** – Enable multi-stablecoin management: allow merchants to register multiple Djed deployments, set preferred price feeds, configure fallback wallets, and monitor per-stablecoin revenue/settlement status.
+3. **Deployment and config tooling** – Provide scripts and docs that fetch on-chain metadata (from Djed deployments and OrbOracle feeds) to autogenerate StablePay config bundles for each network; expose an admin UI to import/export those bundles.
+4. **Payments UX improvements** – Update the widget/demo site to guide end-users through selecting a stablecoin, verifying oracle status, and handling fee/retry logic if a chosen Djed variant is temporarily unavailable.
+5. **Testing and documentation** – Add integration tests (Foundry/Hardhat + frontend e2e) spanning at least one ETH-backed and one ERC-20-backed Djed instance. Document how to add new networks/protocol versions and provide troubleshooting guides for merchants.
+
+## Resources
+
+* [StablePay widget](https://github.com/DjedAlliance/StablePay)
+* [Merchant Website Demo](https://github.com/DjedAlliance/StablePay-MerchantWebsiteDemo)
+* [Merchant Dashboard](https://github.com/DjedAlliance/StablePay-MerchantDashboard)
+* [Landing Page](https://github.com/DjedAlliance/StablePay-LandingPage)
+* [Djed overview](/stablecoins/djed-overview) and individual protocol repos (Djed-Solidity, Djed-Solidity-ERC20BaseCoin) for contract interfaces
