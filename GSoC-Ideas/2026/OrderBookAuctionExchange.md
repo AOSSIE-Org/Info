@@ -12,7 +12,7 @@ variation of Maelstrom that is based on order books instead of liquidity pools.
 
 In a traditional order-book exchange, orders are matched at a fixed limit price. In this project, instead of static pricing, the exchange will use a **dynamically varying price mechanism inspired by reverse Dutch auctions**, similar to the approach used in Maelstrom.
 
-The primary challenge is to **design efficient on-chain data structures and matching logic** that can handle dynamic pricing, order storage, and execution **entirely on-chain**, without relying on any centralized or off-chain backend.
+The primary challenge is to **design efficient on-chain data structures and matching logic** that can handle dynamic pricing, order storage, and execution without relying on any centralized or off-chain backend.
 
 Key tasks include modeling the pricing function, storing and updating orders efficiently, and ensuring fair and gas-efficient matching under EVM constraints.
 
@@ -40,4 +40,4 @@ Candidates are expected to refine above tasks in their GSoC proposals.
 
 ## Communication Channel
 
-Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in TODO.
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in (https://discord.com/channels/995968619034984528/1458849723296256050).
