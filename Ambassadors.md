@@ -43,7 +43,7 @@ All communication between you and contributors or prospective contributors from 
 
 If you are eligible and would like to apply to be an ambassador, create a PR adding your name to the table above.
 
-If you are a prospective contributor from a unviersity or region where AOSSIE still does not have an ambassador, 
+If you are a prospective contributor from a university or region where AOSSIE still does not have an ambassador, 
 you are welcome to contact any ambassador from the closest university or region. AOSSIE is keen to expand to as many regions as possible. 
 Start contributing and you may eventually fill the gap and become the ambassador for your university or region.
 
