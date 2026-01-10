@@ -5,18 +5,22 @@ Resonate is an Open Source Social Voice Platform ideated and built as an alterna
 
 While the app is nearing the limit of features that can be added without it getting bloated, the codebase has poor maintainability and testability, and it is hard to find issues because of the way Data Flow is structured.
 
-For this reason, the Project Ideas are focused on improving the code quality of Resonate for more robust functionalities and better developer experience
+For this reason, the Project Ideas are focused on improving the code quality of Resonate for more robust functionalities and better developer experience.
 
 ## Overview of Tasks
 
 #### State Management Overhaul with Riverpod
 The currently implemented State Management with GetX is not scalable and redundant, along with being hard to track. For this reason, it is better to overhaul the state management using a more maintainable and testable framework like Riverpod. This will also include improving the current Data models.
+
 #### Controller Decoupling
 Currently, controllers are closely coupled with the UI, meaning that Business Logic and UI are not exclusive, as they should be. This again reduces robustness and makes automated testing difficult. A decoupling of business logic from the UI is necessary to improve Resonate.
+
 #### Backend Refactor
 Resonate uses Appwrite for it's backend, and when the backend was originally designed, a number of new features didn't exist, like Relationships. For this reason, the architecture of the Backend is unnecessarily complicated and redundant, and can be simplified a lot. This will also reduce load on the backend, as lesser reads will be required for the same data.
+
 #### Improve Test Coverage
-Because of the close coupling of the business and UI Logic, 100% test coverage could not be acheived. After decoupling and the overhaul, this test coverage should be brought upto 100%, to further reduce the risk of errors popping up over time.
+Because of the close coupling of the business and UI Logic, 100% test coverage could not be achieved. After decoupling and the overhaul, this test coverage should be brought up to 100%, to further reduce the risk of errors popping up over time.
+
 #### Track recorded chapters
 A feature to start Live Chapters was added, which also features an automatic recording flow for said chapters. However, these recordings are permanently stored in memory. It is required to add screens and functionality to track these recordings and delete them, as well as view the automatically generated transcripts and edit them.
 
@@ -33,7 +37,6 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 ## Ideators
 
-* GitHub: @Zahnentferner ; Discord: @b.wp
 * GitHub: @chandansgowda; Discord: @chandansgowda
 * GitHub: @jddeep; Discord: @jddeep
 * GitHub: @Aarush-Acharya; Discord: @aarush_acharya
@@ -42,6 +45,8 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 ## Mentors
 
 * GitHub: @M4dhav; Discord: @m4dhav
+* GitHub: @chandansgowda; Discord: @chandansgowda
+* GitHub: @jddeep; Discord: @jddeep
 
 ## Communication Channel
 
