@@ -13,17 +13,6 @@ Fate Protocol currently enables users to:
 
 Fate Protocol is deployed across multiple EVM-compatible networks: Ethereum, Base, BNB Smart Chain, Ethereum Classic, and Polygon. The protocol uses a dual-vault system with separate vaults for bullCoins and bearCoins, featuring dynamic fee structures and automated reserve balancing.
 
-## Opportunity
-
-Today, Fate Protocol relies entirely on external oracles (Chainlink, Hebeswap) for price feeds. While these provide reliable data, adding native oracle capabilities derived from bull/bear coin trading activity offers several advantages:
-
-* Provide an additional oracle option alongside existing external oracles
-* Enable real-time price updates with every trade
-* Create composable oracles usable by other DeFi protocols
-* Enhance market efficiency through sentiment aggregation
-* Offer decentralized price feeds derived from market activity
-
-The bull/bear coin trading dynamics inherently reflect market sentiment and price expectations. By deriving price feeds from these trading pairs' reserves, supply ratios, and volume, we can create a robust, decentralized oracle system that updates continuously as users trade. External oracles will remain available as an option, ensuring users have flexibility in their oracle selection.
 
 ## Proposed GSoC Tasks
 
