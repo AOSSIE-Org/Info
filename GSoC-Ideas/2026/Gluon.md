@@ -26,3 +26,17 @@ Because Gluon spans Solidity contracts plus the Reactor creation web UI, the sel
 * [Pyth Network docs](https://docs.pyth.network/)
 * [Chainlink Data Feeds docs](https://docs.chain.link/data-feeds)
 * Djed adapter references (ask Yogesh / see Djed-Solidity repositories) for multi-oracle patterns
+
+## Ideators
+
+* GitHub: @Zahnentferner ; Discord: @b.wp
+* GitHub: TODO; Discord: TODO
+
+## Mentors
+
+* GitHub: DengreSarthak ; Discord: @sarthak_09385
+* GitHub: TODO; Discord: TODO
+
+## Communication Channel
+
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in development.
