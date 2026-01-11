@@ -32,7 +32,7 @@ Depending on the complexity of the project, it may be possible to port more than
 
 ## Mentors
 
-* GitHub: TODO; Discord: TODO
+* GitHub: 0xf965; Discord: jossemii
 * GitHub: TODO; Discord: TODO
 
 ## Communication Channel
