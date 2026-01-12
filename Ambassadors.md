@@ -24,22 +24,22 @@ All communication between you and contributors or prospective contributors from 
 
 ## List of Current Ambassadors
 
-| Region              | University                                    |          Ambassador                    | Discord Username | Github Username |
-| -------------       | -------------                                 | ---                                    | ---              | ---             |
-| Australia           | --                                            | Dr. Bruno Woltzenlogel Paleo           | @b.wp            | @Zahnentferner  |
-| Australia           | Australian National University (ANU)          | Dr. Bruno Woltzenlogel Paleo           | @b.wp            | @Zahnentferner  |
-| Austria             | --                                            | TODO          | TODO            | TODO  |
-| Austria             | Vienna University of Technology (TU-Wien)     | Dr. Bruno Woltzenlogel Paleo           | @b.wp            | @Zahnentferner  |
-| Argentina           | --                                            | TODO          | TODO            | TODO  |
-| Brazil              | --                                            | Dr. Bruno Woltzenlogel Paleo           | @b.wp            | @Zahnentferner  |
-| Brazil              | Instituto Tecnológico de Aeronáutica (ITA)    | Dr. Bruno Woltzenlogel Paleo           | @b.wp            | @Zahnentferner  |
-| Canada              | --                                            | TODO          | TODO            | TODO  |
-| Germany             | --                                            | TODO          | TODO            | TODO  |
-| Germany             | Dresden University of Technology (TU-Dresden) | Dr. Bruno Woltzenlogel Paleo           | @b.wp            | @Zahnentferner  |
-| Egypt               | --                                            | TODO          | TODO            | TODO  |
-| India               | --                                            | TODO          | TODO            | TODO  |
-| Slavic Countries    | --                                            | TODO          | TODO            | TODO  |
-| Sri Lanka           | --                                            | TODO          | TODO            | TODO  |
+| Region           | University                                    | Ambassador                   | Discord Username | Github Username |
+| ---------------- | --------------------------------------------- | ---------------------------- | ---------------- | --------------- |
+| Australia        | --                                            | Dr. Bruno Woltzenlogel Paleo | @b.wp            | @Zahnentferner  |
+| Australia        | Australian National University (ANU)          | Dr. Bruno Woltzenlogel Paleo | @b.wp            | @Zahnentferner  |
+| Austria          | --                                            | TODO                         | TODO             | TODO            |
+| Austria          | Vienna University of Technology (TU-Wien)     | Dr. Bruno Woltzenlogel Paleo | @b.wp            | @Zahnentferner  |
+| Argentina        | --                                            | TODO                         | TODO             | TODO            |
+| Brazil           | --                                            | Dr. Bruno Woltzenlogel Paleo | @b.wp            | @Zahnentferner  |
+| Brazil           | Instituto Tecnológico de Aeronáutica (ITA)    | Dr. Bruno Woltzenlogel Paleo | @b.wp            | @Zahnentferner  |
+| Canada           | --                                            | TODO                         | TODO             | TODO            |
+| Germany          | --                                            | TODO                         | TODO             | TODO            |
+| Germany          | Dresden University of Technology (TU-Dresden) | Dr. Bruno Woltzenlogel Paleo | @b.wp            | @Zahnentferner  |
+| Egypt            | --                                            | TODO                         | TODO             | TODO            |
+| India            | Bennett University                            | Madhav Gupta                 | @m4dhav          | @M4dhav         |
+| Slavic Countries | --                                            | TODO                         | TODO             | TODO            |
+| Sri Lanka        | --                                            | TODO                         | TODO             | TODO            |
 
 If you are eligible and would like to apply to be an ambassador, create a PR adding your name to the table above.
 
