@@ -36,7 +36,7 @@ We want our landing pages to elegantly express AOSSIE's brand and each project's
 
 ## Mentors
 
-* GitHub: TODO; Discord: TODO
+* GitHub: @M4dhav; Discord: @m4dhav
 * GitHub: TODO; Discord: TODO
 
 ## Communication Channel

@@ -28,7 +28,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 ## Mentors
 
-* GitHub: TODO; Discord: TODO
+* GitHub: @M4dhav; Discord: @m4dhav
 * GitHub: TODO; Discord: TODO
 
 ## Communication Channel
