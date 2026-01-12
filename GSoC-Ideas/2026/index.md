@@ -17,7 +17,7 @@ Project-Specific Ideas, grouped by theme:
   - [Gluon](Gluon.md)
   - [Djed](Djed.md)
   - [StablePay](StablePay.md)
-  - [Fate](TODO)
+  - [Fate](Fate.md)
   - [Orb](Orb.md)
   - [Porting our Projects from EVM to Ergo](Ergo.md)
   - [Zplit](Zplit.md)
