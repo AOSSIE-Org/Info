@@ -7,10 +7,10 @@ Another part of this program are Evangelists, who are University Students respon
 ## Eligibility to be an AOSSIE Evangelist
 
 To be an evangelist, you must:
-* be a part of a university which has an AOSSIE Ambassador.
+* be a part of a university with atleast an year of active education remaining.
 * have had contributed to AOSSIE's projects atleast once and have relevant experience of helping to manage a student community.
-* must be a part of an active student community related to Open Source as recognised by your university.
-* be a student at the university with atleast an year of active education remaining, for which you are evangelist. 
+* must be an active organizing/managing member of an open-source student community or club recognized by your university.
+
 
 You do not need to be an active contributor or mentor.
 
@@ -24,7 +24,7 @@ As an Evangelist, you should:
 All communication between you and contributors or prospective contributors from your university must happen publicly in AOSSIE's discord servers.
 
 
-## List of Current Ambassadors
+## List of Current Evangelists
 
 | Region           | University | Student Club name | Evangelist | Discord Username | Github Username |
 | ---------------- | ---------- | ----------------- | ---------- | ---------------- | --------------- |
@@ -39,9 +39,7 @@ All communication between you and contributors or prospective contributors from 
 | Slavic Countries | --         | TODO              | TODO       | TODO             | TODO            |
 | Sri Lanka        | --         | TODO              | TODO       | TODO             | TODO            |
 
-If you are eligible and would like to apply to be an evangelist, create a PR adding your name to the table above.
+If you are eligible and would like to apply to be an evangelist, create a PR adding your name to the table above and informing the admins about it in Discord.
 
-If you are a prospective contributor from a university or region where AOSSIE still does not have an ambassador, 
-you are welcome to contact any ambassador from the closest university or region. AOSSIE is keen to expand to as many regions as possible. 
-Start contributing and you may eventually fill the gap and become the ambassador/evangelist for your university or region.
+
 
