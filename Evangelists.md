@@ -7,7 +7,7 @@ Another part of this program are Evangelists, who are University Students respon
 ## Eligibility to be an AOSSIE Evangelist
 
 To be an evangelist, you must:
-* be a part of a university with atleast an year of active education remaining.
+* be a part of a university with atleast a year of active education remaining.
 * have had contributed to AOSSIE's projects atleast once and have relevant experience of helping to manage a student community.
 * must be an active organizing/managing member of an open-source student community or club recognized by your university.
 
@@ -21,7 +21,7 @@ As an Evangelist, you should:
 * guide prospective contributors from your university regarding inquiries they might have about AOSSIE.
 * ensure that prospective contributors from your university or region are aware of and respect AOSSIE's rules and guidelines.
 
-All communication between you and contributors or prospective contributors from your university must happen publicly in AOSSIE's discord servers.
+All communication between you and contributors or prospective contributors from your university must happen publicly in AOSSIE's Discord servers.
 
 
 ## List of Current Evangelists
