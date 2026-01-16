@@ -22,9 +22,11 @@ Project-Specific Ideas, grouped by theme:
   - [Porting our Projects from EVM to Ergo](Ergo.md)
   - [Zplit](Zplit.md)
   - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange](OrderBookAuctionExchange.md)
+  - [Decentralized Identity Tokens](DIT.md)
 * AI
   - [Our Own LLM](OurOwnLLM.md)
 * Trust
+  - [Decentralized Identity Tokens](DIT.md)
 * Education
 * Environment
 * Communication
