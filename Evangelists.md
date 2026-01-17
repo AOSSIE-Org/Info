@@ -8,7 +8,7 @@ Another part of this program are Evangelists, who are University Students respon
 
 To be an evangelist, you must:
 * be a part of a university with atleast a year of active education remaining.
-* have had contributed to AOSSIE's projects atleast once and have relevant experience of helping to manage a student community.
+* have relevant experience of helping to manage a student community.
 * must be an active organizing/managing member of an open-source student community or club recognized by your university.
 
 
