@@ -1,18 +1,16 @@
 # Evangelists
 
-AOSSIE is starting an ambassador program in 2026.
-Another part of this program are Evangelists, who are University Students responsible for representing and promoting AOSSIE in various universities and regions of the world along with the Ambassador for that University.
+AOSSIE is starting an evangelist program in 2026.
+Evangelists are University Students responsible for promoting AOSSIE in various universities.
 
 
 ## Eligibility to be an AOSSIE Evangelist
 
 To be an evangelist, you must:
 * be a part of a university with atleast a year of active education remaining.
-* have relevant experience of helping to manage a student community.
-* must be an active organizing/managing member of an open-source student community or club recognized by your university.
+* be an active organizing/managing member of an open-source student community or club recognized by your university.
 
-
-You do not need to be an active contributor or mentor.
+You do not need to be an active contributor or mentor at AOSSIE.
 
 ## Responsibilities of an Evangelist
 
@@ -21,7 +19,6 @@ As an Evangelist, you should:
 * guide prospective contributors from your university regarding inquiries they might have about AOSSIE.
 * ensure that prospective contributors from your university or region are aware of and respect AOSSIE's rules and guidelines.
 
-All communication between you and contributors or prospective contributors from your university must happen publicly in AOSSIE's Discord servers.
 
 
 ## List of Current Evangelists
@@ -39,7 +36,7 @@ All communication between you and contributors or prospective contributors from 
 | Slavic Countries | --         | TODO              | TODO       | TODO             | TODO            |
 | Sri Lanka        | --         | TODO              | TODO       | TODO             | TODO            |
 
-If you are eligible and would like to apply to be an evangelist, create a PR adding your name to the table above and informing the admins about it in Discord.
+If you are eligible and would like to apply to be an evangelist, create a PR adding your name to the table above and inform the admins about it in Discord.
 
 
 
