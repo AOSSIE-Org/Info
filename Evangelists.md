@@ -32,7 +32,7 @@ As an Evangelist, you should:
 | Canada           | --         | TODO              | TODO       | TODO             | TODO            |
 | Germany          | --         | TODO              | TODO       | TODO             | TODO            |
 | Egypt            | --         | TODO              | TODO       | TODO             | TODO            |
-| India            | IKGPTU, Punjab         | Business Incubation Centre, IKGPTU            | Manish Tiwari       |   @manishtiwari_25546           | @predictivemanish           |            |
+| India            | IKGPTU, Punjab         | Business Incubation Centre, IKGPTU            | Manish Tiwari       | @manishtiwari_25546           | @predictivemanish           |            |
 | Slavic Countries | --         | TODO              | TODO       | TODO             | TODO            |
 | Sri Lanka        | --         | TODO              | TODO       | TODO             | TODO            |
 
