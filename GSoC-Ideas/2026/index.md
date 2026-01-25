@@ -18,13 +18,14 @@ Project-Specific Ideas, grouped by theme:
   - [Djed](Djed.md)
   - [StablePay](StablePay.md)
   - [Fate](Fate.md)
+  - [Karma](Karma.md)
   - [Orb](Orb.md)
   - [Porting our Projects from EVM to Ergo](Ergo.md)
   - [Zplit](Zplit.md)
   - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange](OrderBookAuctionExchange.md)
   - [Decentralized Identity Tokens](DIT.md)
 - AI
-  - [Our Own LLM](OurOwnLLM.md)
+  - [End-to-End Open Verifiable LLM](LLM.md)
   - [PictoPy](PictoPy.md)
 - Trust
   - [Decentralized Identity Tokens](DIT.md)
