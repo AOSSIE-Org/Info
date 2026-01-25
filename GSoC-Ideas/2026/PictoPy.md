@@ -1,4 +1,4 @@
-# TODO: PictoPy
+# PictoPy
 
 ## Background and Motivation
 
@@ -26,7 +26,7 @@ With these core systems in place, PictoPy is positioned to evolve from a feature
 
 3. **Application Size Optimization Through Modular AI Model Management**: This task focuses on reducing PictoPy’s final application size by making large AI model downloads optional and on-demand rather than bundled by default. Users will be able to select only the models they require based on their hardware and feature usage. Additional optimizations such as removing unwanted python and Tauri packages will aid in this task.
 
-4. **CI Build Optimization Using Cached Tauri Artifacts and CDN Distribution**: This task focuses on optimizing the [PR build workflow](https://github.com/AOSSIE-Org/PictoPy/blob/main/.github/workflows/pr-check-build.yml) by eliminating repeated compilation of Tauri dependencies across platforms. Precompiled Tauri artifacts will be stored in a CDN and reused during CI runs, with recompilation triggered only when Cargo configuration or dependency files change. The CDN will be automatically updated whenever relevant builds are regenerated to ensure consistency and reliability. This will significantly reduce CI runtime and resource consumption by at least 300%.
+4. **CI Build Optimization Using Cached Tauri Artifacts and CDN Distribution**: This task focuses on optimizing the [PR build workflow](https://github.com/AOSSIE-Org/PictoPy/blob/main/.github/workflows/pr-check-build.yml) by eliminating repeated compilation of Tauri dependencies across platforms. Precompiled Tauri artifacts will be stored in a CDN and reused during CI runs, with recompilation triggered only when Cargo configuration or dependency files change. The CDN will be automatically updated whenever relevant builds are regenerated to ensure consistency and reliability. This will significantly speed up the CI workflow by atleast 300%.
 
 5. **Biweekly Release Management and Codebase Health Maintenance**: This task involves actively contributing to PictoPy’s biweekly release cycle by coordinating feature integration, testing, and versioning. It also focuses on maintaining a clean and reliable codebase through removal of obsolete code, configuring Dependabot for automated dependency updates, and ensuring setup guides remain accurate and error-free. Additionally, tests and documentation will be continuously updated to reflect the latest changes and preserve long-term project stability.
 
