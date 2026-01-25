@@ -2,6 +2,8 @@
 
 ## Background and Motivation
 
+**Project Size: Large**
+
 [PictoPy](https://github.com/AOSSIE-Org/PictoPy) is an open-source, privacy-focused desktop application designed for intelligent photo management using AI-powered face recognition and object detection. Unlike cloud-based solutions , PictoPy processes all data locally, ensuring complete user control while still providing advanced features like face clustering, AI tagging, and smart album management.
 
 Over the past year, the PictoPy project has undergone significant architectural and usability-focused improvements. The 2025 GSoC proposal aimed to transform PictoPy from a prototype into an end-user-ready application by strengthening all major components including backend AI pipelines, frontend UI/UX, database design, and cross-platform packaging. Major focus areas included implementing face collections (named face clusters), optimizing face embedding and clustering performance, upgrading object detection models, enabling GPU-accelerated inference across platforms, redesigning the user interface for modern usability standards, and preparing the application for distribution through major app stores.
