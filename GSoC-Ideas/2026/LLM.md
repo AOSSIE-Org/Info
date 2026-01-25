@@ -21,7 +21,8 @@ to our knowledge, the first end-to-end open-everything verifiable LLM
 
 * Implement a pipeline that could be used to easily train an LLM.
 * Use this pipeline to train LLMs with sizes suitable to be used by our own projects.
-
+* Implement a verification protocol to allow anyone to replicate identical model checkpoints, implying that the model was trained on the said data without any hidden training.
+* Evaluate trained models on bias testing and factual accuracy benchmarks.
 
 ## Requirements
 
@@ -30,7 +31,7 @@ to our knowledge, the first end-to-end open-everything verifiable LLM
 * The training algorithms and pipeline should be deterministic: 
   if two people use the pipeline on the same data, they should obtain exactly the same model. 
   This guarantees that people can independently verify that the LLM was trained on the data on which it is claimed to have been trained.
-* One of the models trained should be small enough to be usable as a local mobel in mobile devices for mobile apps.
+* One of the models trained should be small enough (1B-3B) to be usable as a local mobel in mobile devices for mobile apps.
 
 ## Resources
 
@@ -42,7 +43,7 @@ to our knowledge, the first end-to-end open-everything verifiable LLM
 
 ## Mentors
 
-* GitHub: TODO; Discord: TODO
+* GitHub: @Archit381 ; Discord: @archit381_
 * GitHub: TODO; Discord: TODO
 * GitHub: @Zahnentferner ; Discord: @b.wp
 
