@@ -19,8 +19,13 @@ to our knowledge, the first end-to-end open-everything verifiable LLM
 
 ## Overview of Tasks
 
-* Implement a pipeline that could be used to easily train an LLM.
-* Use this pipeline to train LLMs with sizes suitable to be used by our own projects.
+* Implement a pipeline that could be used to easily train an completely untrained LLM (to ensure complete transparency about training) on publicly available neutral dataset that anyone can access and replicate today establishing a verifiable baseline free from hidden biases or ephemeral datasets.
+* Use this pipeline to train LLMs with sizes suitable to be used by our own projects, including compact models optimized for edge deployment on mobile and resource-constrained devices.
+* Implement a verification protocol to allow anyone to replicate identical model checkpoints, implying that the model was trained on the said data without any hidden training.
+* Evaluate trained models on the following success metrics:
+    - Bias testing
+    - Factual accuracy
+    - Performance on standard benchmarks
 
 
 ## Requirements
@@ -30,7 +35,9 @@ to our knowledge, the first end-to-end open-everything verifiable LLM
 * The training algorithms and pipeline should be deterministic: 
   if two people use the pipeline on the same data, they should obtain exactly the same model. 
   This guarantees that people can independently verify that the LLM was trained on the data on which it is claimed to have been trained.
-* One of the models trained should be small enough to be usable as a local mobel in mobile devices for mobile apps.
+* One of the models trained should be small enough (1B-3B) to be usable as a local mobel in mobile devices for mobile apps.
+* The GSoC applicant must draft a well-formatted proposal on Google Docs. The format will be shared by the organisation at the start of the application period.
+* The proposal must contain proper diagrams to help us understand how you are going to achieve the above tasks. These diagrams should be made in either Excalidraw or Draw.io.
 
 ## Resources
 
@@ -42,7 +49,7 @@ to our knowledge, the first end-to-end open-everything verifiable LLM
 
 ## Mentors
 
-* GitHub: TODO; Discord: TODO
+* GitHub: @Archit381 ; Discord: @archit381_
 * GitHub: TODO; Discord: TODO
 * GitHub: @Zahnentferner ; Discord: @b.wp
 
