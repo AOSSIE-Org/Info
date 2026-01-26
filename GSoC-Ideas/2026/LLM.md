@@ -43,6 +43,10 @@ to our knowledge, the first end-to-end open-everything verifiable LLM
 
 * TODO
 
+## Related conversations
+
+- https://discord.com/channels/1022871757289422898/1105091737522798702/1464155925525823593
+
 ## Ideators
 
 * GitHub: @Zahnentferner ; Discord: @b.wp
@@ -52,6 +56,7 @@ to our knowledge, the first end-to-end open-everything verifiable LLM
 * GitHub: @Archit381 ; Discord: @archit381_
 * GitHub: TODO; Discord: TODO
 * GitHub: @Zahnentferner ; Discord: @b.wp
+* GitHub: @0xf965 ; Discord: @jossemii
 
 ## Communication Channel
 
