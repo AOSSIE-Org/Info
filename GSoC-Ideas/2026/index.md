@@ -3,33 +3,36 @@
 Organization-Wide Ideas:
 
 - [DevOps](DevOps.md)
-- [Discord/Github Bot](Bot.md)
 - [Fundraising and Monetization](FundraisingMonetization.md)
 - [Redundancy and Choice for External Dependencies](Choice.md)
 - [Making our Projects Independent from Cloud Hosting](LessCloud.md)
-- [Improve and Modernize UI/UX of our Projects](UI.md)
+- [Better UI/UX of our Projects](UI.md)
 - [Design and Implement Great-Looking Landing Pages for our Projects](LandingPages.md)
 - [Search-Engine Optimization](SEO.md)
+- TODO: [Operation Phoenix](Phoenix.md)
 
 Project-Specific Ideas, grouped by theme:
 
-- Economic Stability, Cryptocurrencies and Blockchains
+- Stablecoins
   - [Gluon](Gluon.md)
   - [Djed](Djed.md)
   - [StablePay](StablePay.md)
+- Decentralized Economic and Financial Stability
   - [Fate](Fate.md)
   - [Karma](Karma.md)
   - [Orb](Orb.md)
   - [Porting our Projects from EVM to Ergo](Ergo.md)
   - [Zplit](Zplit.md)
   - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange](OrderBookAuctionExchange.md)
-  - [Decentralized Identity Tokens](DIT.md)
+  - ToDo: MiniChain?
 - AI
-  - [End-to-End Open Verifiable LLM](LLM.md)
   - [PictoPy](PictoPy.md)
+  - [End-to-End Open Verifiable LLM](LLM.md)
+  - TODO: Question Answering?
 - Trust
   - [Decentralized Identity Tokens](DIT.md)
 - Education
+  - TODO: [Novel AI-Powered Education-Focused Apps](EduAI.md) 
 - Environment
 - Communication
   - [Resonate](Resonate.md)
