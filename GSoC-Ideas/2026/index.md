@@ -2,7 +2,7 @@
 
 As an umbrella organization since its inception 10 years ago, AOSSIE's projects have evolved mostly independently from each other. However, more recently, we have started a deliberate effort to group these projects by theme and to ensure that knowledge and mentorship propagates efficiently across projects. This year we are taking another step in this direction with the introduction of org-wide ideas.
 
-* [Organization-Wide Ideas](TODO)
+* [Organization-Wide Ideas](index.md#organization-wide-ideas)
 * [Project-Specific Ideas, Grouped by Theme](TODO)
 
 ## Organization-Wide Ideas
