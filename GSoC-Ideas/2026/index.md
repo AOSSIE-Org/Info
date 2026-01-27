@@ -23,40 +23,45 @@ Org-wide ideas are ideas where a single contributor will contribute to many of o
 
 Project-specific ideas are ideas where the contributor is expected to focus on a single project, while taking care of all aspects of the project. These ideas are suitable for contributors who are generalists and interested in using all technical competence areas required by the project.
 
-- Stablecoins
-  - Projects that involve research and development of stablecoin protocols, to construct open source money. 
+The tech-stack needed in each idea is shown in brackets.
+
+- Open Money
+  - Theme goal: research and develop open source money. 
   - [Gluon](Gluon.md) _{Blockchain}_ _{Web}_
-  - [Djed](Djed.md)
-  - [StablePay](StablePay.md)
+  - [Djed](Djed.md) _{Blockchain}_ _{Web}_
+  - [StablePay](StablePay.md) _{Blockchain}_ _{Web}_
+  - [Zplit](Zplit.md) _{Blockchain}_ _{Mobile}_ 
 - Decentralized Economic and Financial Stability
-  - Projects that contribute to economic and financial stability in decentralized financial infra-structure.
-  - [Fate](Fate.md)
-  - [Karma](Karma.md)
-  - [Orb](Orb.md)
-  - [Porting our Projects from EVM to Ergo](Ergo.md)
-  - [Zplit](Zplit.md)
-  - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange](OrderBookAuctionExchange.md)
-  - ToDo: MiniChain?
+  - Theme goal: improve economic and financial stability in DeFi.
+  - [Fate](Fate.md) _{Blockchain}_ _{Web}_
+  - [Karma](Karma.md) _{Blockchain}_ _{Web}_
+  - [Orb](Orb.md) _{Blockchain}_ _{Web}_
+  - [Porting our Projects from EVM to Ergo](Ergo.md) _{Blockchain}_ _{Web}_
+  - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange](OrderBookAuctionExchange.md) _{Blockchain}_ _{Web}_
+  - ToDo: MiniChain? _{Blockchain}_
 - User-Empowering Sunny Tools
-  - Projects that empower users to do localy, in their own devices, what would normally require them to rely on a cloud-based service.
-  - [PictoPy](PictoPy.md)
+  - Theme goal: empower users to do localy, in their own devices, what would normally require them to rely on a cloud-based service.
+  - [PictoPy](PictoPy.md) _{AI}_ _{Desktop}_
 - Trust
-  - Projects that enable us to trust the people and sources of knowledge that we rely on.
-  - [End-to-End Open Verifiable LLM](LLM.md)
+  - Theme goal: enable us to trust the people and sources of knowledge that we rely on.
+  - [End-to-End Open Verifiable LLM](LLM.md) _{AI}_ 
   - TODO: Question Answering?
-  - [Decentralized Identity Tokens](DIT.md)
+  - [Decentralized Identity Tokens](DIT.md) _{Blockchain}_ _{Web}_
 - Education
-  - Projects that help people learn.
-  - TODO: [Novel AI-Powered Education-Focused Apps](EduAI.md) 
+  - Theme goal: help people learn.
+  - TODO: [Novel AI-Powered Education-Focused Apps](EduAI.md) _{AI}_ _{Mobile}_
 - Sustainability
+  - Theme goal: protect the environment and increase awareness about our planet's nature.
   - AOSSIE has many projects related to carbon footprint awareness. These projects have become inactive recently, but sustainability remains a strong focus theme for AOSSIE. Therefore, although we do not have specific ideas within this theme this year so far, our sustainability projects are in scope for our org-wide ideas above and we are open to novel sustainability-related project ideas.
 - Communication
-  - Projects that allow us to communicate with each other more openly, without relying on closed communication services and infra-structure. 
-  - [Resonate](Resonate.md)
+  - Theme goal: build open, free and censorship-resistant communication infra-structure. 
+  - [Resonate](Resonate.md) _{Mobile}_
 - Governance and Management
-  - Projects that ease community governance and teamwork management.
-  - [Org Explorer](OrgExplorer.md)  
-  - [Discord/Github Bot](Bot.md)
+  - Theme goal: ease community and team work.
+  - [Org Explorer](OrgExplorer.md)  _{Web}_
+  - [Discord/Github Bot](Bot.md) _{Bots}_
+
+We are open to proposals that fit into our general themes, even if they don't fit exactly the ideas that are curently listed above. However, if you have such a proposal, discuss it with mentors and other contributors publicly in Discord firstly.
 
 If you are mentor, propose your idea by adding a markdown file
 to [this folder](https://github.com/AOSSIE-Org/Info/tree/main/GSoC-Ideas/2026)
