@@ -33,7 +33,8 @@ Project-Specific Ideas, grouped by theme:
 - Environment
 - Communication
   - [Resonate](Resonate.md)
-- Governance
+- Governance and Management
+  - [Org Explorer](OrgExplorer.md)  
   - [Discord/Github Bot](Bot.md)
 
 If you are mentor, propose your idea by adding a markdown file
