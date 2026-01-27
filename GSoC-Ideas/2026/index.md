@@ -39,8 +39,8 @@ The tech-stack needed in each idea is shown in brackets.
   - [Porting our Projects from EVM to Ergo](Ergo.md) _{Blockchain}_ _{Web}_
   - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange](OrderBookAuctionExchange.md) _{Blockchain}_ _{Web}_
   - ToDo: MiniChain? _{Blockchain}_
-- User-Empowering Sunny Tools
-  - Theme goal: empower users to do localy, in their own devices, what would normally require them to rely on a cloud-based service.
+- User-Empowering "Sunny" Tools
+  - Theme goal: empower users to do localy, in their own devices, what would normally require them to depend on cloud-based service.
   - [PictoPy](PictoPy.md) _{AI}_ _{Desktop}_
 - Trust
   - Theme goal: enable us to trust the people and sources of knowledge that we rely on.
