@@ -32,7 +32,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 ## Mentors
 
 * GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
+* GitHub: @SharkyBytes ; Discord: @sharkybytes_
 * GitHub: TODO; Discord: TODO
 
 ## Communication Channel
