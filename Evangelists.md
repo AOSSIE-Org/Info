@@ -32,7 +32,7 @@ As an Evangelist, you should:
 | Canada           | --         | TODO              | TODO       | TODO             | TODO            |
 | Germany          | --         | TODO              | TODO       | TODO             | TODO            |
 | Egypt            | --         | TODO              | TODO       | TODO             | TODO            |
-| India            | --         | TODO              | TODO       | TODO             | TODO            |
+| India            | IIT Patna | Tech Club | Ankit Kumar | ankit_94329 | ankitkr104 |
 | Slavic Countries | --         | TODO              | TODO       | TODO             | TODO            |
 | Sri Lanka        | --         | TODO              | TODO       | TODO             | TODO            |
 
