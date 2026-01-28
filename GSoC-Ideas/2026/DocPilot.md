@@ -1,0 +1,37 @@
+# DocPilot
+
+## Background and Motivation
+Build a new age EMR application using conversational AI at its best. Existing EMR solutioning is Age-old! Doctors resist the overwhelming software which is high on costs and difficult to operate. Last innovation was made in 1990's. DocPilot listens to the whole consultation conversation between a doctor and patient, and generates a prescription for the doctor to just sign, print and save digitally.
+
+The app should be able to separate out things like symptoms, diagnosis, medications and tests from the conversation it listens to. These are just the basic requirements. Research more on OPD appointments and include them in our solutioning.
+
+## Overview of Tasks
+
+* Conversational AI-powered EMR that listens and auto-generates prescriptions.
+* Eliminates outdated, complex, and costly software for doctors.
+* Affordable and easy to use, reducing resistance from medical professionals.
+* Extracts symptoms, diagnosis, medications, and tests from conversations.
+* Allows doctors to review, sign, print, and save prescriptions digitally.
+* Integrates OPD appointment management for a seamless experience.
+* A modern solution replacing decades-old EMR systems.
+
+## Requirements
+
+* Publishable app to app stores
+
+## Resources
+
+* [Bloc](https://pub.dev/packages/flutter_bloc)
+* [Appwrite](https://appwrite.io/)
+
+## Ideators
+
+* GitHub: @jddeep; Discord: @jddeep
+
+## Mentors
+
+* GitHub: @jddeep; Discord: @jddeep
+
+## Communication Channel
+
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in (https://discord.com/channels/1022871757289422898/1317913663360864346).
