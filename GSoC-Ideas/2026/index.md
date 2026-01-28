@@ -42,6 +42,10 @@ The tech-stack needed in each idea is shown in brackets.
 - User-Empowering "Sunny" Tools
   - Theme goal: empower users to do localy, in their own devices, what would normally require them to depend on cloud-based service.
   - [PictoPy](PictoPy.md) _{AI}_ _{Desktop}_
+- Saas (AI powered)
+  - [Ellena](Ellena.md) _{Web}_ _{AI}_
+- Healthcare
+  - [DocPilot](DocPilot.md) _{Mobile}_ _{AI}_
 - Trust
   - Theme goal: enable us to trust the people and sources of knowledge that we rely on.
   - [End-to-End Open Verifiable LLM](LLM.md) _{AI}_ 
