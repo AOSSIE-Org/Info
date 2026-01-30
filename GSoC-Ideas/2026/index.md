@@ -42,8 +42,6 @@ The tech-stack needed in each idea is shown in brackets.
 - User-Empowering "Sunny" Tools
   - Theme goal: empower users to do localy, in their own devices, what would normally require them to depend on cloud-based service.
   - [PictoPy](PictoPy.md) _{AI}_ _{Desktop}_
-- Saas (AI powered)
-  - [Ellena](Ellena.md) _{Web}_ _{AI}_
 - Healthcare
   - [DocPilot](DocPilot.md) _{Mobile}_ _{AI}_
 - Trust
@@ -64,6 +62,7 @@ The tech-stack needed in each idea is shown in brackets.
   - Theme goal: ease community and team work.
   - [Org Explorer](OrgExplorer.md)  _{Web}_
   - [Discord/Github Bot](Bot.md) _{Bots}_
+  - [Ellena](Ellena.md) _{Web}_ _{AI}_
 
 We are open to proposals that fit into our general themes, even if they don't fit exactly the ideas that are curently listed above. However, if you have such a proposal, discuss it with mentors and other contributors publicly in Discord firstly.
 
