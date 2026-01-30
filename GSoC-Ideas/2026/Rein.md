@@ -15,7 +15,7 @@ While the core functionality is already implemented, several areas require impro
 
 * **Improve cursor handling on Wayland:**
 
-  * Resolve cursor position desynchronization on wayland (eg. KDE).
+  * Resolve cursor position desynchronization on Wayland (e.g., KDE).
   * Investigate virtual input devices or alternative injection methods.
   * Ensure the cursor position is either correctly synced or reliably indicated.
 
