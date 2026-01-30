@@ -65,7 +65,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 ## Resources
 
 * Project repository:
-  [https://github.com/imxade/rein](https://github.com/imxade/rein) [To be tranferred]
+  [https://github.com/imxade/rein](https://github.com/imxade/rein) [To be transferred]
 * Project wiki & specification:
   [https://github.com/imxade/rein/wiki](https://github.com/imxade/rein/wiki)
 * Contribution guidelines:
