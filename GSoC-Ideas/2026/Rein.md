@@ -91,4 +91,4 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 ## Communication Channel
 
-Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in AOSSIE-Discord/Projects/PictoPy.
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in AOSSIE-Discord/Projects/Rein.
