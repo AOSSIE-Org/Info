@@ -24,11 +24,6 @@ We want our landing pages to elegantly express AOSSIE's brand and each project's
 * The pages need to have excellent search engine optimization.
 
 
-## Resources
-
-* 
-
-
 ## Ideators
 
 * GitHub: @Zahnentferner ; Discord: @b.wp
@@ -37,7 +32,8 @@ We want our landing pages to elegantly express AOSSIE's brand and each project's
 ## Mentors
 
 * GitHub: @M4dhav; Discord: @m4dhav
-* GitHub: TODO; Discord: TODO
+* GitHub: @Zahnentferner ; Discord: @b.wp
+* Since this idea involves contributing to multiple projects, you will interact with multiple mentors and the exact mentors will depend on the projects for which you decide to contribute. Look for Mentors with `@Mentor` and `@Contributor-X` role in our discord, where `X` is the name of the project.
 
 ## Communication Channel
 
