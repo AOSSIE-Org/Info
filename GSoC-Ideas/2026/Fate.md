@@ -39,12 +39,13 @@ Fate Protocol is deployed across multiple EVM-compatible networks: Ethereum, Bas
 ## Ideators
 
 * GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
+
 
 ## Mentors
 
-* GitHub: blizet ; Discord: @blizet4910
-* GitHub: TODO; Discord: TODO
+* GitHub: @blizet ; Discord: @blizet4910
+* GitHub: @Zahnentferner ; Discord: @b.wp
+* GitHub: @yogesh0509; Discord: @yogesh0509
 
 ## Communication Channel
 
