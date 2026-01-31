@@ -2,7 +2,7 @@
 
 ## Background and Motivation
 
-Computer are universal machines and software are instructions that make these machines operate as we want. In the context of software, freedom is being able to make the computers operate as we want; and open-source code allows us to see what the software will do to our computers.
+Computers are universal machines and software are instructions that make these machines operate as we want. In the context of software, freedom is being able to make the computers operate as we want; and open-source code allows us to see what the software will do to our computers.
 
 Decades ago, the free and open-source software movement was a reaction to the business model of corporations that restricted these freedoms to know exactly what the software will do and to change the software and execute the software on our machines.
 
@@ -14,7 +14,7 @@ AOSSIE has fallen into this trap. As a result, many of our projects depend on cl
 
 Furthermore, the digital activities of users of cloud-dependent software is under constant surveillance by the companies offering the "cloud" infra-structure and services. And our digital infrastructure becomes fragile, with global outages when any of these cloud monopolies becomes unavailable.
 
-This idea aims to make our projects more local, more "grounded", less "cloudy".
+This idea aims to make our projects more local, more "grounded", less "cloudy", more "sunny".
 
 ## Overview of Tasks
 
@@ -37,19 +37,12 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 * Your proposal should describe clearly which projects you are going to tackle and how, in detail, you are going to make them cloud-free.
 
-## Resources
-
-* 
-
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-
 
 ## Mentors
 
-* GitHub: TODO; Discord: TODO
-* GitHub: TODO; Discord: TODO
+* Since this idea involves contributing to multiple projects, you will interact with multiple mentors and the exact mentors will depend on the projects for which you decide to contribute. Look for Mentors with @Mentor and @Contributor-X role in our discord, where X is the name of the project.
+* GitHub: @Zahnentferner ; Discord: @b.wp
+
 
 ## Communication Channel
 
