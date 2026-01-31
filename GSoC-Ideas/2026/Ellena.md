@@ -23,10 +23,6 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 * Public deployment of Ell-ena
 
-## References
-
-* [Linear](https://linear.app/)
-* [Asana](https://asana.com/)
 
 ## Ideators
 
