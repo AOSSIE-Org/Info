@@ -13,7 +13,7 @@ While the core functionality is already implemented, several areas require impro
 
 ## Overview of Tasks
 
-* **Improve cursor handling on Wayland:**
+* **Improve cursor handling on Wayland:** [Highest Priority]
 
   * Resolve cursor position desynchronization on Wayland (e.g., KDE).
   * Investigate virtual input devices or alternative injection methods.
@@ -32,7 +32,7 @@ While the core functionality is already implemented, several areas require impro
   * Test across operating systems and display protocols.
   * Document platform-specific limitations and behavior.
 
-* Additional (If time permits):
+* Additional: [Low priority]
 
   * Enable stable LAN access without relying on changing IP addresses.
 
