@@ -11,15 +11,8 @@ We need a common standard for our entire orgs in github, and we must ensure that
 * Create templates, standards and default workflows/actions, according to the latest state-of-the-art and to the needs of our orgs
 * Update all our repos to conform to the created templates and standards and to utilize the created default workflows/actions
 
-Candidates are expected to refine these tasks in their GSoC proposals.
+Candidates are expected to refine these tasks in their GSoC proposals. Please detail which workflows, templates and standards you will create.
 
-## Requirements
-
-* 
-
-## Resources
-
-* 
 
 ## Ideators
 
@@ -29,7 +22,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 ## Mentors
 
 * GitHub: @M4dhav; Discord: @m4dhav
-* GitHub: TODO; Discord: TODO
+* GitHub: @Zahnentferner ; Discord: @b.wp
 
 ## Communication Channel
 
