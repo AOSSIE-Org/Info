@@ -34,6 +34,7 @@ Depending on the complexity of the project, it may be possible to port more than
 
 * GitHub: @0xf965; Discord: @jossemii
 * GitHub: @kii-dot; Discord: @kii8888
+* GitHub: @ldgaetano; Discord: @ldgaetano
 
 ## Communication Channel
 
