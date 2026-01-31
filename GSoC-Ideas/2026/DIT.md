@@ -41,13 +41,9 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 * [TNT](https://github.com/StabilityNexus/TNT)
 * Also, read articles about decentralized digital identities (a.k.a. DIDs) and self-sovereign identities.
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-
-
 ## Mentors
 
+* Look for mentors with the roles @Contributor-StabilityNexus in AOSSIE's Discord and the @TNT and @VouchMe roles in the Discord of teh Stability Nexus.
 * GitHub: @KanishkSogani; Discord: @kanishk11
 * GitHub: @Zahnentferner ; Discord: @b.wp
 
