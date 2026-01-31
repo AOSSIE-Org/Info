@@ -21,9 +21,6 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 * The bot should be capable of keeping track of contributions of users and assign scores/tokens to users based on these contributions.
 * The bot should be configurable and generable enough so that it is useful not only to our own orgs, but to other open-source orgs.
 
-## Resources
-
-* 
 
 ## Ideators
 
