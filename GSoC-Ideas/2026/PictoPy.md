@@ -58,16 +58,13 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 - Tauri: https://tauri.app/
 - FastAPI: https://fastapi.tiangolo.com/
 
-## Ideators
-
-- GitHub: @Zahnentferner ; Discord: @b.wp
-- GitHub: @rahulharpal1603; Discord: @rahulharpal
-- GitHub: @Pranav0-0Aggarwal; Discord: @.pranav0_0
 
 ## Mentors
 
+- Look for mentors with the `@Contributor-PictoPy` role in AOSSIE's Discord
 - GitHub: @rahulharpal1603; Discord: @rahulharpal
 - GitHub: @Pranav0-0Aggarwal; Discord: @.pranav0_0
+- GitHub: @Zahnentferner ; Discord: @b.wp
 
 ## Communication Channel
 
