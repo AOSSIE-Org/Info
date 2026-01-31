@@ -24,15 +24,13 @@ The composed oracle should be implemented as a standalone smart contract that re
 * [StablePay](https://github.com/DjedAlliance/StablePay) – example consumer of composed feeds
 * [Djed overview](/stablecoins/djed-overview) – showcases how oracle quality impacts collateralized stablecoins
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
 
 ## Mentors
 
+* Look for mentors with the `@Orb` role in the Discord of the Stability Nexus
+* GitHub: @Zahnentferner ; Discord: @b.wp
 * GitHub: DengreSarthak ; Discord: @sarthak_09385
-* GitHub: TODO; Discord: TODO
+
 
 ## Communication Channel
 
