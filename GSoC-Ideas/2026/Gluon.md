@@ -30,12 +30,13 @@ Because Gluon spans Solidity contracts plus the Reactor creation web UI, the sel
 ## Ideators
 
 * GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
 
 ## Mentors
 
-* GitHub: DengreSarthak ; Discord: @sarthak_09385
-* GitHub: TODO; Discord: TODO
+* GitHub: @DengreSarthak ; Discord: @sarthak_09385
+* GitHub: @Zahnentferner ; Discord: @b.wp
+* GitHub: @ldgaetano; Discord: @ldgaetano
+  
 
 ## Communication Channel
 
