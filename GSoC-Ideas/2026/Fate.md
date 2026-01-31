@@ -43,6 +43,7 @@ Fate Protocol is deployed across multiple EVM-compatible networks: Ethereum, Bas
 
 ## Mentors
 
+* Look for people with the role @Fate in the Discord of the Stability Nexus
 * GitHub: @blizet ; Discord: @blizet4910
 * GitHub: @Zahnentferner ; Discord: @b.wp
 * GitHub: @yogesh0509; Discord: @yogesh0509
