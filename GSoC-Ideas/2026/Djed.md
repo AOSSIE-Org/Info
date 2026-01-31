@@ -40,12 +40,11 @@ The roadmap introduces two streamlined protocol versions:
 ## Ideators
 
 * GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
 
 ## Mentors
 
 * GitHub: DengreSarthak ; Discord: @sarthak_09385
-* GitHub: TODO; Discord: TODO
+* GitHub: @yogesh0509; Discord: @yogesh0509
 
 ## Communication Channel
 
