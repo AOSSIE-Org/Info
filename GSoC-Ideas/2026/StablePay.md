@@ -25,16 +25,13 @@ StablePay currently processes payments only for Djed Osiris, even though Solidit
 * [Djed overview](/stablecoins/djed-overview) and individual protocol repos (Djed-Solidity, Djed-Solidity-ERC20BaseCoin) for contract interfaces
 
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
-
 ## Mentors
 
-* GitHub: DengreSarthak ; Discord: @sarthak_09385
-* GitHub: TODO; Discord: TODO
+* Look for mentors with the `@StablePay` role in the discord of the Stability Nexus
+* GitHub: @DengreSarthak ; Discord: @sarthak_09385
+* Discord: @anya714
+* GitHub: @Zahnentferner ; Discord: @b.wp
 
 ## Communication Channel
 
-Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in #development.
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in https://discord.com/channels/995968619034984528/1283781801751351418.
