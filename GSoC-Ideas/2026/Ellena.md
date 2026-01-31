@@ -21,16 +21,13 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 ## Requirements
 
-* Public deployment of Ell-ena
-
-
-## Ideators
-
-* GitHub: @jddeep; Discord: @jddeep
+* Ell-ena should become ready to be publicly deployed
 
 ## Mentors
 
+* Look for mentors with the roles @Mentor and @Contributor-Ellena in AOSSIE's Discord
 * GitHub: @jddeep; Discord: @jddeep
+* Discord: sharkybytes_
 
 ## Communication Channel
 
