@@ -35,17 +35,13 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 * [Riverpod](https://riverpod.dev/)
 * [Appwrite](https://appwrite.io/)
 
-## Ideators
-
-* GitHub: @chandansgowda; Discord: @chandansgowda
-* GitHub: @jddeep; Discord: @jddeep
-* GitHub: @Aarush-Acharya; Discord: @aarush_acharya
-* GitHub: @M4dhav; Discord: @m4dhav
 
 ## Mentors
 
+* Look for mentors with the `@Contributor-Resonate` role in AOSSIE's Discord.
 * GitHub: @M4dhav; Discord: @m4dhav
 * GitHub: @chandansgowda; Discord: @chandansgowda
+* GitHub: @Aarush-Acharya; Discord: @aarush_acharya
 * GitHub: @jddeep; Discord: @jddeep
 
 ## Communication Channel
