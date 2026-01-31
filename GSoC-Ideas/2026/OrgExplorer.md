@@ -34,16 +34,10 @@ on any backend and can be easily run on any browser.
 * Fetched data should be cached locally, to avoid exceeding GitHub's API limits.
 
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-
-
 ## Mentors
 
+* Look for mentors with the `@Admin` role in AOSSIE's discord
 * GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
-* GitHub: TODO; Discord: TODO
 
 ## Communication Channel
 
