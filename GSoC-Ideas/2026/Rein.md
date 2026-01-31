@@ -61,6 +61,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
   * Evaluate decisions and tech stack against alternatives.
   * Maintain cross-platform behavior and compatibility.
   * Record demo/tutorial.
+  * Documentation with diagram and architecture.
   * Help gain user base through social means.
 
 ## Resources
