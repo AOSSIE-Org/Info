@@ -60,6 +60,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
   * Take ownership and work autonomously.
   * Evaluate decisions and tech stack against alternatives.
   * Maintain cross-platform behavior and compatibility.
+  * Record demo/tutorial.
   * Help gain user base through social means.
 
 ## Resources
