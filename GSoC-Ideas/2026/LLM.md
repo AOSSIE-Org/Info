@@ -38,15 +38,14 @@ to our knowledge, the first end-to-end open-everything verifiable LLM
 * One of the models trained should be small enough (1B-3B) to be usable as a local model in mobile devices for mobile apps.
 
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
 
 ## Mentors
 
-* GitHub: @Archit381 ; Discord: @archit381_
-* GitHub: TODO; Discord: TODO
+* Look for mentors with roles `@Mentor` and `Contributor-X` where X is a project that has been using AI
 * GitHub: @Zahnentferner ; Discord: @b.wp
+* GitHub: @Archit381 ; Discord: @archit381_
+* GitHub: @0xf965; Discord: @jossemii
+* Discord: @rmvfsx
 
 ## Communication Channel
 
