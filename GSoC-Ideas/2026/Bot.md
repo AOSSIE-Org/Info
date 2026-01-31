@@ -6,9 +6,13 @@ As our organizations are becoming larger, it is becoming increasingly more time-
 
 We need a bot capable of automating what we do in both Discord and GitHub and, especialy, in the interaction between the two.
 
+Although there are many discord bots and many github apps, we are not aware of any bot/app that integrates the two in a way that satisfies our needs.
+
+We believe this bot would be useful for other large organizations as well.
+
 ## Overview of Tasks
 
-* Implement a Discord/Github bot.
+* Implement a Discord/Github bot that is simple to use and that automates synchronization between the two.
 
 Candidates are expected to refine these tasks in their GSoC proposals.
 
@@ -22,15 +26,11 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 * The bot should be configurable and generable enough so that it is useful not only to our own orgs, but to other open-source orgs.
 
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-
 ## Mentors
 
+* People with the @Admin role in our Discord.
 * GitHub: @Zahnentferner ; Discord: @b.wp
 * GitHub: @SharkyBytes ; Discord: @sharkybytes_
-* GitHub: TODO; Discord: TODO
 
 ## Communication Channel
 
