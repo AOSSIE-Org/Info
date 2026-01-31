@@ -34,14 +34,12 @@ Here is a non-exhaustive list of tasks related to this idea:
 
 * Social Share Button: https://github.com/AOSSIE-Org/SocialShareButton
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
 
 ## Mentors
 
-* GitHub: TODO; Discord: TODO
-* GitHub: TODO; Discord: TODO
+* Since this idea involves contributing to multiple projects, you will interact with multiple mentors and the exact mentors will depend on the projects for which you decide to contribute. Look for mentors with `@Mentor` and `@Contributor-X` role in AOSSIE's discord and `X` role in the discord of the Stability Nexus, where X is the name of the project.
+* GitHub: @Zahnentferner ; Discord: @b.wp
+
 
 ## Communication Channel
 
