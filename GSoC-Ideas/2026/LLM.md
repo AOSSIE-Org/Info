@@ -37,9 +37,6 @@ to our knowledge, the first end-to-end open-everything verifiable LLM
   This guarantees that people can independently verify that the LLM was trained on the data on which it is claimed to have been trained.
 * One of the models trained should be small enough (1B-3B) to be usable as a local model in mobile devices for mobile apps.
 
-## Resources
-
-* TODO
 
 ## Ideators
 
