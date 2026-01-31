@@ -15,7 +15,7 @@ Org-wide ideas are ideas where a single contributor will contribute to many of o
 - [Making our Projects Independent from Cloud Hosting](LessCloud.md)
 - [Better UI/UX of our Projects](UI.md)
 - [Design and Implement Great-Looking Landing Pages for our Projects](LandingPages.md)
-- [Search-Engine Optimization](SEO.md)
+- [SEO, Social Sharing and Marketing](SEO.md)
 - TODO: [Operation Phoenix](Phoenix.md)
 
 
