@@ -38,15 +38,13 @@ Fate Protocol is deployed across multiple EVM-compatible networks: Ethereum, Bas
 * [Oracle Design Patterns](https://ethereum.org/en/developers/docs/oracles/)
 * [Prediction Market Mechanisms](https://en.wikipedia.org/wiki/Prediction_market)
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
 
 ## Mentors
 
-* GitHub: blizet ; Discord: @blizet4910
-* GitHub: TODO; Discord: TODO
+* Look for mentors with the roles `@Fate`, `@Orb` and `@Gluon` in the Discord of the Stability Nexus
+* GitHub: @blizet ; Discord: @blizet4910
+* GitHub: @yogesh0509; Discord: @yogesh0509
+* GitHub: @Zahnentferner ; Discord: @b.wp
 
 ## Communication Channel
 
