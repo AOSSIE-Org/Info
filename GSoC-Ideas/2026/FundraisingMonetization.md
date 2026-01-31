@@ -27,12 +27,9 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 * Look for inspiration in what other umbrella organizations and open-source projects do to raise funds and sustain themselves.
   
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-
 ## Mentors
 
+* Since this idea involves contributing to multiple projects, you will interact with multiple mentors and the exact mentors will depend on the projects for which you decide to contribute. Look for Mentors with @Mentor and @Contributor-X role in AOSSIE's discord and @Knight and @X in the Discord of the Stability Nexus, where X is the name of the project.
 * GitHub: @Zahnentferner ; Discord: @b.wp
 * GitHub: @M4dhav ; Discord: @m4dhav
 
