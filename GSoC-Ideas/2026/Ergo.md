@@ -32,6 +32,7 @@ Depending on the complexity of the project, it may be possible to port more than
 
 ## Mentors
 
+* Look for people with the role `@X`, where X is the project you are interested in porting, in the Discord of the Stability Nexus
 * GitHub: @0xf965; Discord: @jossemii
 * GitHub: @kii-dot; Discord: @kii8888
 * GitHub: @ldgaetano; Discord: @ldgaetano
