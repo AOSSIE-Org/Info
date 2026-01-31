@@ -17,20 +17,13 @@ The app should be able to separate out things like symptoms, diagnosis, medicati
 
 ## Requirements
 
-* Publishable app to app stores
+* The app should be ready to publish to app stores
 
-## Resources
-
-* [Bloc](https://pub.dev/packages/flutter_bloc)
-* [Appwrite](https://appwrite.io/)
-
-## Ideators
-
-* GitHub: @jddeep; Discord: @jddeep
 
 ## Mentors
 
 * GitHub: @jddeep; Discord: @jddeep
+* Discord: @sharkybytes_
 
 ## Communication Channel
 
