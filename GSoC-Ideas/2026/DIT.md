@@ -49,6 +49,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 ## Mentors
 
 * GitHub: @KanishkSogani; Discord: @kanishk11
+* GitHub: @Zahnentferner ; Discord: @b.wp
 
 
 ## Communication Channel
