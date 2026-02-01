@@ -66,7 +66,7 @@ Org-wide ideas are ideas where a single contributor will contribute to many of o
 - [Better UI/UX of our Projects](UI.md)
 - [Design and Implement Great-Looking Landing Pages for our Projects](LandingPages.md)
 - [SEO, Social Sharing and Marketing](SEO.md)
-- TODO: [Operation Phoenix](Phoenix.md)
+- [Operation Phoenix](Phoenix.md)
 
 
 ---
