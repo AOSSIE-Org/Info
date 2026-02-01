@@ -57,6 +57,7 @@ The tech-stack needed in each idea is shown in brackets.
 - Communication
   - Theme goal: build open, free and censorship-resistant communication infra-structure. 
   - [Resonate](Resonate.md) _{Mobile}_
+  - [Rein](Rein.md) _{Networks}_
 - Governance and Management
   - Theme goal: ease community and team work.
   - [Org Explorer](OrgExplorer.md)  _{Web}_
