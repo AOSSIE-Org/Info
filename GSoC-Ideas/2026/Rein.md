@@ -59,7 +59,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
   * Maintain cross-platform behavior and compatibility.
   * Record demo/tutorial.
   * Documentation with diagram and architecture.
-  * Help gain user base and raise funds via social means.
+  * Help gain user base and suggest fund raising ideas via social means.
 
 ## Resources
 
