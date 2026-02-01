@@ -18,15 +18,11 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 * TODO
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
-
 ## Mentors
 
 * GitHub: TODO; Discord: TODO
 * GitHub: TODO; Discord: TODO
+* Look for mentors with the role `@TODO` in our discord servers
 
 ## Communication Channel
 
