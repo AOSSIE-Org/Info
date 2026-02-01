@@ -4,7 +4,7 @@
 ## Background and Motivation
 
 
-[Rein](https://github.com/imxade/rein) is a **cross-platform, LAN-based remote input controller**. It allows touchscreen devices to act as a trackpad and keyboard for a desktop system through a locally served web interface.
+[Rein](https://github.com/AOSSIE-Org/Rein) is a **cross-platform, LAN-based remote input controller**. It allows touchscreen devices to act as a trackpad and keyboard for a desktop system through a locally served web interface.
 
 While the core functionality is already implemented, several areas require improvement to ensure consistent behavior across operating systems, display protocols, and input methods.
 
@@ -59,12 +59,12 @@ Candidates are expected to refine these tasks in their GSoC proposals.
   * Maintain cross-platform behavior and compatibility.
   * Record demo/tutorial.
   * Documentation with diagram and architecture.
-  * Help gain user base through social means.
+  * Help gain user base and raise funds via social means.
 
 ## Resources
 
 * Project repository:
-  [https://github.com/imxade/rein](https://github.com/imxade/rein) [To be transferred]
+  [https://github.com/imxade/rein](https://github.com/AOSSIE-Org/Rein)
 * Project wiki & specification:
   [https://github.com/imxade/rein/wiki](https://github.com/imxade/rein/wiki)
 * Contribution guidelines:
