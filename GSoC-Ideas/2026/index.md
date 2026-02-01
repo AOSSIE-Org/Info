@@ -2,21 +2,9 @@
 
 As an umbrella organization since its inception 10 years ago, AOSSIE's projects have evolved mostly independently from each other. However, more recently, we have started a deliberate effort to group these projects by theme and to ensure that knowledge and mentorship propagates efficiently across projects. This year we are taking another step in this direction with the introduction of org-wide ideas.
 
-* [Organization-Wide Ideas](index.md#organization-wide-ideas)
+
 * [Project-Specific Ideas, Grouped by Theme](index.md#project-specific-ideas-grouped-by-theme)
-
-## Organization-Wide Ideas
-
-Org-wide ideas are ideas where a single contributor will contribute to many of our projects, but focusing on a single aspect in every project. These ideas are particularly suitable for contributors who prefer to specialize in a single technical competence area and who have the soft skills to interact effectively with contributors and mentors from many projects.
-
-- [DevOps](DevOps.md)
-- [Fundraising and Monetization](FundraisingMonetization.md)
-- [Redundancy and Choice for External Dependencies](Choice.md)
-- [Making our Projects Independent from Cloud Hosting](LessCloud.md)
-- [Better UI/UX of our Projects](UI.md)
-- [Design and Implement Great-Looking Landing Pages for our Projects](LandingPages.md)
-- [SEO, Social Sharing and Marketing](SEO.md)
-- TODO: [Operation Phoenix](Phoenix.md)
+* [Organization-Wide Ideas](index.md#organization-wide-ideas)
 
 
 ## Project-Specific Ideas, Grouped by Theme
@@ -65,6 +53,24 @@ The tech-stack needed in each idea is shown in brackets.
   - [Ellena](Ellena.md) _{Web}_ _{AI}_
 
 We are open to proposals that fit into our general themes, even if they don't fit exactly the ideas that are curently listed above. However, if you have such a proposal, discuss it with mentors and other contributors publicly in Discord firstly.
+
+
+## Organization-Wide Ideas
+
+Org-wide ideas are ideas where a single contributor will contribute to many of our projects, but focusing on a single aspect in every project. These ideas are particularly suitable for contributors who prefer to specialize in a single technical competence area and who have the soft skills to interact effectively with contributors and mentors from many projects.
+
+- [DevOps](DevOps.md)
+- [Fundraising and Monetization](FundraisingMonetization.md)
+- [Redundancy and Choice for External Dependencies](Choice.md)
+- [Making our Projects Independent from Cloud Hosting](LessCloud.md)
+- [Better UI/UX of our Projects](UI.md)
+- [Design and Implement Great-Looking Landing Pages for our Projects](LandingPages.md)
+- [SEO, Social Sharing and Marketing](SEO.md)
+- TODO: [Operation Phoenix](Phoenix.md)
+
+
+---
+
 
 If you are mentor, propose your idea by adding a markdown file
 to [this folder](https://github.com/AOSSIE-Org/Info/tree/main/GSoC-Ideas/2026)
