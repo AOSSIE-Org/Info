@@ -65,6 +65,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 - GitHub: @rahulharpal1603; Discord: @rahulharpal
 - GitHub: @Pranav0-0Aggarwal; Discord: @.pranav0_0
 - GitHub: @Zahnentferner ; Discord: @b.wp
+- GitHub: @imxade; Discord: @Rituraj
 
 ## Communication Channel
 
