@@ -28,7 +28,7 @@ The tech-stack needed in each idea is shown in brackets.
   - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange](OrderBookAuctionExchange.md) _{Blockchain}_ _{Web}_
   - ToDo: MiniChain? _{Blockchain}_
 - User-Empowering "Sunny" Tools
-  - Theme goal: empower users to do localy, in their own devices, what would normally require them to depend on cloud-based service.
+  - Theme goal: empower users to do localy, in their own devices, what would normally require them to depend on cloud-based services.
   - [PictoPy](PictoPy.md) _{AI}_ _{Desktop}_
   - [DocPilot](DocPilot.md) _{Mobile}_ _{AI}_
 - Trust
