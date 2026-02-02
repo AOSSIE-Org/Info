@@ -80,7 +80,7 @@ The skillset needed in each idea is shown in brackets.
   - [Discord/Github Bot](Bot.md) _{Bots}_
   - [Ellena](Ellena.md) _{Web}_ _{AI}_
 
-We are open to proposals that fit into our general themes, even if they don't fit exactly the ideas that are curently listed above. However, if you have such a proposal, discuss it with mentors and other contributors publicly in Discord firstly.
+We are open to proposals that fit into our general themes, even if they don't fit exactly the ideas that are currently listed above. However, if you have such a proposal, discuss it with mentors and other contributors publicly in Discord firstly.
 
 
 ## Organization-Wide Ideas
