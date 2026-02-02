@@ -7,30 +7,38 @@ As an umbrella organization since its inception 10 years ago, AOSSIE's projects 
 * [Organization-Wide Ideas](index.md#organization-wide-ideas)
 
 
-## Project-Specific Ideas, Grouped by Theme
+## Project-Specific Ideas, Grouped by Theme and Tagged by Skillset
 
 Project-specific ideas are ideas where the contributor is expected to focus on a single project, while taking care of all aspects of the project. These ideas are suitable for contributors who are generalists and interested in using all technical competence areas required by the project.
 
-The tech-stack needed in each idea is shown in brackets.
+The skillset needed in each idea is shown in brackets.
 
 ### Theme: Open Money
 
-  - Theme goal: research and develop open source money. 
+**Theme goal:** research and develop open source money. 
+
+**Ideas:**
   - [Gluon](Gluon.md) _{Blockchain}_ _{Web}_
   - [Djed](Djed.md) _{Blockchain}_ _{Web}_
   - [StablePay](StablePay.md) _{Blockchain}_ _{Web}_
   - [Zplit](Zplit.md) _{Blockchain}_ _{Mobile}_
 
-### Theme: 
+### Theme: Decentralized Economic and Financial Stability
 
-- Decentralized Economic and Financial Stability
-  - Theme goal: improve economic and financial stability in DeFi.
+**Theme goal:** improve economic and financial stability in DeFi.
+
+**Ideas:**
   - [Fate](Fate.md) _{Blockchain}_ _{Web}_
   - [Karma](Karma.md) _{Blockchain}_ _{Web}_
   - [Orb](Orb.md) _{Blockchain}_ _{Web}_
   - [Porting our Projects from EVM to Ergo](Ergo.md) _{Blockchain}_ _{Web}_
   - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange](OrderBookAuctionExchange.md) _{Blockchain}_ _{Web}_
   - ToDo: MiniChain? _{Blockchain}_
+
+
+### Theme: 
+
+
 - User-Empowering "Sunny" Tools
   - Theme goal: empower users to do localy, in their own devices, what would normally require them to depend on cloud-based services.
   - [PictoPy](PictoPy.md) _{AI}_ _{Desktop}_
