@@ -1,6 +1,6 @@
 # Fate Protocol: Bull/Bear Coins as Native Oracles
 
-Fate Protocol is a decentralized, perpetual prediction market that operates continuously without expiration. It replaces traditional order books with a dual-vault system—where users buy and sell **bullCoins** and **bearCoins**—enabling speculation on market trends in a fluid, always-on ecosystem.
+Fate Protocol is a decentralized, perpetual prediction market that operates continuously without expiration. It replaces traditional order books with a dual-vault system—where users buy and sell **bullCoins** and **bearCoins**—enabling hedging against market trends in a fluid, always-on ecosystem.
 
 ## Current State
 
