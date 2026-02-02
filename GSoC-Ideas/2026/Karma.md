@@ -1,33 +1,39 @@
-# Karma Protocol: Combining Fate and Orb into a new two-token Oracle Protocol
-
-TODO
-
-Fate Protocol is a decentralized, perpetual prediction market that operates continuously without expiration. It replaces traditional order books with a dual-vault system—where users buy and sell **bullCoins** and **bearCoins**—enabling speculation on market trends in a fluid, always-on ecosystem.
-
-## Current State
-
-Fate Protocol currently enables users to:
-
-* Trade bullCoins (betting on price increases) and bearCoins (betting on price decreases)
-* Create perpetual prediction pools for any asset pair
-* Use external oracles (Chainlink, Hebeswap) for price feeds
-* Participate in decentralized price prediction markets across multiple chains
-
-Fate Protocol is deployed across multiple EVM-compatible networks: Ethereum, Base, BNB Smart Chain, Ethereum Classic, and Polygon. The protocol uses a dual-vault system with separate vaults for bullCoins and bearCoins, featuring dynamic fee structures and automated reserve balancing.
+# Karma Protocol: Combining Fate and Orb into a new two-token Oracle/Prediction Protocol
 
 
-## Proposed GSoC Tasks
+## Background and Motivation
 
-1. **Oracle Interface Implementation** – Design and implement `IFateOracle` interface compatible with Chainlink's `AggregatorV3Interface`. Extend bull/bear coin contracts to expose price data in standardized format. Add price history tracking with round-based system. Implement `getLatestPrice()` and `getLatestRoundData()` functions.
+Fate Protocol is a decentralized, perpetual prediction market that operates continuously without expiration. It allows users to buy bullCoins, if the think that a given price will go up and bearCoins, if they think that the give price will go down. It currently depends on external oracles to know whether the given price is going up or down.
 
-2. **Price Derivation Mechanism** – Develop price calculation formulas using bull/bear coin reserves and supply. Implement sentiment-based price adjustment: `oraclePrice = f(bullPrice, bearPrice, basePrice)`. Add volume-weighted price aggregation for accuracy. Create time-decay mechanisms for historical price relevance.
+This idea aims to create a new protocol, called Karma, that works like Fate, but allows bullCoin and bearCoin holders themselves to submit price values. Thus Karma will be independent from external oracles and will be able to serve as a decentralized oracle itself.
 
-3. **Oracle Adapter Contract** – Build `FateOracleAdapter` contract wrapping bull/bear coins. Provide Chainlink-compatible interface for easy DeFi integration. Handle price normalization and formatting. Support multiple price derivation strategies (direct, implied, weighted).
+Of course, if we do this in a naive way, the token holders would submit wrong values that benefit themselves (e.g. bullCoin holders would submit higher values and bearCoin holders would submit lower values). But we can weigh the prices submitted by the token holders according to how neutral their positions are.
 
-4. **Testing** – Write unit/integration/fuzz tests to prove numerical correctness, to guard against overflow/precision loss, and to ensure Fate oracles gracefully handle low liquidity, stale data, and paused pools.
+Orb is an oracle protocol that allows token holders to submit values and weighs their submitted values by their token balance. Karma can be seen as a generalization of Orb, but taking into account the balances of two tokens (bullCoins and bearCoins) instead of just one token into account for computing the weight of an oracle operator.
 
-5. **Documentation** – Document the oracle interface and integration guide with clear explanations of the implementation so that new users can understand how Fate oracles work and integrate them correctly.
+We have previously implemented a function that calculates the weight of a tokenholder of two tokens in one of our implementations of Gluon. This weight function can be reutilized for Karma.
 
+
+## Overview of Tasks
+
+* Implement the smart contracts of Karma:
+   * Start from Fate's contract.
+   * Add Orb's decayed price averaging functions.
+   * Add Gluon's two-token weights.
+ 
+* Implement a frontend for Karma:
+  * Start from the frontend for Fate.
+  * Add functionality to allow token holders to submit prices.
+
+* Implement an off-chain poster script to submit prices at regular intervals:
+  * Orb's poster script could be adapted to Karma.
+
+
+## Requirements
+
+* Smart contracts must be deployed on the EVM blockchains that we support (Ethereum Classic, Ethereum, Polygon, Base, BSC).
+* There should be comprehensive and meaningful tests for the smart contracts.
+* The frontend should be lean and backend-free.
 
 
 ## Resources
@@ -37,6 +43,10 @@ Fate Protocol is deployed across multiple EVM-compatible networks: Ethereum, Bas
 * [Chainlink Oracle Documentation](https://docs.chain.link/)
 * [Oracle Design Patterns](https://ethereum.org/en/developers/docs/oracles/)
 * [Prediction Market Mechanisms](https://en.wikipedia.org/wiki/Prediction_market)
+* [Orb Poster](https://github.com/StabilityNexus/OrbOracle-Poster)
+* [Orb Frontend](https://github.com/StabilityNexus/OrbOracle-EVM-Frontend)
+* [Orb Smart Contracts](https://github.com/StabilityNexus/OrbOracle-Solidity)
+* [Gluon Weighting Formula](https://github.com/StabilityNexus/Gluon-Solidity/blob/main/src/GluonReactor.sol)
 
 
 ## Mentors
@@ -44,8 +54,9 @@ Fate Protocol is deployed across multiple EVM-compatible networks: Ethereum, Bas
 * Look for mentors with the roles `@Fate`, `@Orb` and `@Gluon` in the Discord of the Stability Nexus
 * GitHub: @blizet ; Discord: @blizet4910
 * GitHub: @yogesh0509; Discord: @yogesh0509
+* Github: @DengreSarthak; Discord: @DenSarthak
 * GitHub: @Zahnentferner ; Discord: @b.wp
 
 ## Communication Channel
 
-Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in development.
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in `#development`.
