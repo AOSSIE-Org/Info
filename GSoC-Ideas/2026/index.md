@@ -33,7 +33,7 @@ The skillset needed in each idea is shown in brackets.
   - [Orb](Orb.md) _{Blockchain}_ _{Web}_
   - [Porting our Projects from EVM to Ergo](Ergo.md) _{Blockchain}_ _{Web}_
   - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange](OrderBookAuctionExchange.md) _{Blockchain}_ _{Web}_
-  - ToDo: MiniChain? _{Blockchain}_
+  - [MiniChain](MiniChain.md) _{Blockchain}_
 
 
 ### Theme: User-Empowering "Sunny" Tools
@@ -50,7 +50,6 @@ The skillset needed in each idea is shown in brackets.
 
 **Ideas:**
   - [End-to-End Open Verifiable LLM](LLM.md) _{AI}_ 
-  - TODO: Question Answering?
   - [Decentralized Identity Tokens](DIT.md) _{Blockchain}_ _{Web}_
 
 ### Theme: Education
