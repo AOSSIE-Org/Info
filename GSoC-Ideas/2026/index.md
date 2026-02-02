@@ -1,6 +1,6 @@
 # AOSSIE's Idea List for Google Summer of Code 2026
 
-As an umbrella organization since its inception 10 years ago, AOSSIE's projects have evolved mostly independently from each other. However, more recently, we have started a deliberate effort to group these projects by theme and to ensure that knowledge and mentorship propagates efficiently across projects. This year we are taking another step in this direction with the introduction of org-wide ideas.
+As an umbrella organization since its inception 10 years ago, AOSSIE's projects have evolved mostly independently from each other. More recently, we have started a deliberate effort to group these projects by theme and skillset and to ensure that knowledge and mentorship propagates efficiently across projects of the same themes and with the same skillset. This year we are taking another step in this direction with the introduction of org-wide ideas.
 
 
 * [Project-Specific Ideas, Grouped by Theme](index.md#project-specific-ideas-grouped-by-theme)
@@ -13,12 +13,16 @@ Project-specific ideas are ideas where the contributor is expected to focus on a
 
 The tech-stack needed in each idea is shown in brackets.
 
-- Open Money
+### Theme: Open Money
+
   - Theme goal: research and develop open source money. 
   - [Gluon](Gluon.md) _{Blockchain}_ _{Web}_
   - [Djed](Djed.md) _{Blockchain}_ _{Web}_
   - [StablePay](StablePay.md) _{Blockchain}_ _{Web}_
-  - [Zplit](Zplit.md) _{Blockchain}_ _{Mobile}_ 
+  - [Zplit](Zplit.md) _{Blockchain}_ _{Mobile}_
+
+### Theme: 
+
 - Decentralized Economic and Financial Stability
   - Theme goal: improve economic and financial stability in DeFi.
   - [Fate](Fate.md) _{Blockchain}_ _{Web}_
