@@ -58,7 +58,7 @@ The skillset needed in each idea is shown in brackets.
 **Theme goal:** help people learn.
 
 **Ideas*:* 
-  - TODO: [Novel AI-Powered Education-Focused Apps](EduAI.md) _{AI}_ _{Mobile}_
+  - [Novel AI-Powered Education-Focused Apps](EduAI.md) _{AI}_ _{Mobile}_
 
 ### Theme: Sustainability
 
