@@ -22,6 +22,7 @@ The skillset needed in each idea is shown in brackets.
   - [Djed](Djed.md) _{Blockchain}_ _{Web}_
   - [StablePay](StablePay.md) _{Blockchain}_ _{Web}_
   - [Zplit](Zplit.md) _{Blockchain}_ _{Mobile}_
+  - [MiniChain](MiniChain.md) _{Blockchain}_
 
 ### Theme: Decentralized Economic and Financial Stability
 
@@ -33,7 +34,6 @@ The skillset needed in each idea is shown in brackets.
   - [Orb](Orb.md) _{Blockchain}_ _{Web}_
   - [Porting our Projects from EVM to Ergo](Ergo.md) _{Blockchain}_ _{Web}_
   - [An Order-Book Variation of the Maelstrom Auction-Based Decentralized Exchange](OrderBookAuctionExchange.md) _{Blockchain}_ _{Web}_
-  - [MiniChain](MiniChain.md) _{Blockchain}_
 
 
 ### Theme: User-Empowering "Sunny" Tools
