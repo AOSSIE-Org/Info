@@ -14,7 +14,7 @@ There are are few reasons why this is a good moment to do so and why AOSSIE is a
   Simply forking their codebases is not an optimal option for starting a new chain.
 
 * MiniChain will be focused on research. Its primary purpose is not to be yet another blockchain
-  trying to be the one blockchain to kill them all, but rather to serve as clean codebase that can serve as benchmark for research of
+  trying to be the one blockchain to kill them all, but rather to serve as a clean codebase that can be a benchmark for research of
   variations of the technology. (We hope that MiniChain will be as valuable for blockchain research as, for instance,
   MiniSat was valuable for satisfiability and automated reasoning research. MiniSat had less than 600 lines of C++ code.)
 
@@ -37,7 +37,7 @@ There are are few reasons why this is a good moment to do so and why AOSSIE is a
 * Develop a fully functional minimal blockchain in Python, with all the expected components:
   peer-to-peer networking, consensus, mempool, ledger, ...
 
-* Bonus task: add Python-based smart contracts to the blockchain. 
+* Bonus task: add smart contracts to the blockchain. 
 
 Candidates are expected to refine these tasks in their GSoC proposals. 
 It is encouraged that you develop an initial prototype during the application phase.
@@ -49,6 +49,7 @@ It is encouraged that you develop an initial prototype during the application ph
 * Implement Proof-of-Work as the consensus protocol.
 * Use accounts (instead of UTxO) as the accounting model for the ledger.
 * Use as few lines of code as possible without compromising readability and understandability.
+* For the bonus task, make Python itself be the language used for smart contracts, but watch out for security concerns related to executing arbitrary code from untrusted sources.
 
 
 ## Mentors
