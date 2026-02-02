@@ -36,30 +36,47 @@ The skillset needed in each idea is shown in brackets.
   - ToDo: MiniChain? _{Blockchain}_
 
 
-### Theme: 
+### Theme: User-Empowering "Sunny" Tools
 
+**Theme goal:** empower users to do localy, in their own devices, what would normally require them to depend on cloud-based services.
 
-- User-Empowering "Sunny" Tools
-  - Theme goal: empower users to do localy, in their own devices, what would normally require them to depend on cloud-based services.
+**Ideas:**
   - [PictoPy](PictoPy.md) _{AI}_ _{Desktop}_
   - [DocPilot](DocPilot.md) _{Mobile}_ _{AI}_
-- Trust
-  - Theme goal: enable us to trust the people and sources of knowledge that we rely on.
+
+### Theme: Trust
+
+**Theme goal:** enable us to trust the people and sources of knowledge that we rely on.
+
+**Ideas:**
   - [End-to-End Open Verifiable LLM](LLM.md) _{AI}_ 
   - TODO: Question Answering?
   - [Decentralized Identity Tokens](DIT.md) _{Blockchain}_ _{Web}_
-- Education
-  - Theme goal: help people learn.
+
+### Theme: Education
+
+**Theme goal:** help people learn.
+
+**Ideas*:* 
   - TODO: [Novel AI-Powered Education-Focused Apps](EduAI.md) _{AI}_ _{Mobile}_
-- Sustainability
-  - Theme goal: protect the environment and increase awareness about our planet's nature.
+
+### Theme: Sustainability
+
+**Theme goal:** protect the environment and increase awareness about our planet's nature.
+  
+**Ideas:**   
   - AOSSIE has many projects related to carbon footprint awareness. These projects have become inactive recently, but sustainability remains a strong focus theme for AOSSIE. Therefore, although we do not have specific ideas within this theme this year so far, our sustainability projects are in scope for our org-wide ideas above and we are open to novel sustainability-related project ideas.
-- Communication
-  - Theme goal: build open, free and censorship-resistant communication infra-structure. 
+
+### Theme: Communication
+
+**Theme goal:** build open, free and censorship-resistant communication infra-structure. 
   - [Resonate](Resonate.md) _{Mobile}_
   - [Rein](Rein.md) _{Networks}_
-- Governance and Management
-  - Theme goal: ease community and team work.
+
+
+### Theme: Governance and Management
+
+**Theme goal:** ease community and team work.
   - [Org Explorer](OrgExplorer.md)  _{Web}_
   - [Discord/Github Bot](Bot.md) _{Bots}_
   - [Ellena](Ellena.md) _{Web}_ _{AI}_
