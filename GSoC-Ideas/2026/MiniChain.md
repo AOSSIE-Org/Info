@@ -51,6 +51,9 @@ It is encouraged that you develop an initial prototype during the application ph
 * Use as few lines of code as possible without compromising readability and understandability.
 * For the bonus task, make Python itself be the language used for smart contracts, but watch out for security concerns related to executing arbitrary code from untrusted sources.
 
+## Resources
+
+* Read this book:  https://www.marabu.dev/blockchain-foundations.pdf 
 
 ## Mentors
 
