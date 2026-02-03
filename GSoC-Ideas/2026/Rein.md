@@ -82,7 +82,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 * Project wiki & specification:
   https://github.com/AOSSIE-Org/Rein/wiki
 * Contribution guidelines:
-  https://github.com/AOSSIE-Org/Rein/wiki/contribution
+  https://github.com/AOSSIE-Org/Rein/wiki/contribute
 
 ---
 
