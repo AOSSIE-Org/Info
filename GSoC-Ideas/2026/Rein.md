@@ -78,11 +78,11 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 ## Resources
 
 * Project repository:
-  [https://github.com/AOSSIE-Org/Rein](https://github.com/AOSSIE-Org/Rein)
+  https://github.com/AOSSIE-Org/Rein
 * Project wiki & specification:
-  [https://github.com/imxade/rein/wiki](https://github.com/imxade/rein/wiki)
+  https://github.com/AOSSIE-Org/Rein/wiki
 * Contribution guidelines:
-  [https://github.com/imxade/rein/wiki/contribution](https://github.com/imxade/rein/wiki/contribution)
+  https://github.com/AOSSIE-Org/Rein/wiki/contribution
 
 ---
 
