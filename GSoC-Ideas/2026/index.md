@@ -53,12 +53,15 @@ The skillset needed in each idea is shown in brackets.
   - [End-to-End Open Verifiable LLM](LLM.md) _{AI}_ 
   - [Decentralized Identity Tokens](DIT.md) _{Blockchain}_ _{Web}_
 
+
 ### Theme: Education
 
 **Theme goal:** help people learn.
 
 **Ideas*:* 
+  - [Interactive Quizz Experience for EduAid](EduAid.md) _{AI}_ _{Web}_
   - [Novel AI-Powered Education-Focused Apps](EduAI.md) _{AI}_ _{Mobile}_
+
 
 ### Theme: Sustainability
 
