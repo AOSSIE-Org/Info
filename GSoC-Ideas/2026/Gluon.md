@@ -27,15 +27,15 @@ Because Gluon spans Solidity contracts plus the Reactor creation web UI, the sel
 * [Chainlink Data Feeds docs](https://docs.chain.link/data-feeds)
 * Djed adapter references (ask Yogesh / see Djed-Solidity repositories) for multi-oracle patterns
 
-## Ideators
 
-* GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
 
 ## Mentors
 
-* GitHub: DengreSarthak ; Discord: @sarthak_09385
-* GitHub: TODO; Discord: TODO
+* Look for mentors with the `@Gluon` role in the Discord of the Stability Nexus
+* GitHub: @DengreSarthak ; Discord: @sarthak_09385
+* GitHub: @Zahnentferner ; Discord: @b.wp
+* GitHub: @ldgaetano; Discord: @ldgaetano
+  
 
 ## Communication Channel
 

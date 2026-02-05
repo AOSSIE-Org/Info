@@ -31,10 +31,10 @@ Candidates are expected to refine above tasks in their GSoC proposals.
 - [Maelstrom Contracts](https://github.com/StabilityNexus/Maelstrom-Solidity)
 - [Maelstrom WebUI](https://github.com/StabilityNexus/Maelstrom-WebUI)
 
-## Ideators
-- Github: @Zahnentferner; Discord: @b.wp
 
 ## Mentors
+
+- Look for mentors with the roles `@Hammer` and `@Maelstrom` in the Discord of the Stability Nexus
 - Github: @Zahnentferner; Discord: @b.wp
 - Github: @kaneki003; Discord: @kaneki003
 

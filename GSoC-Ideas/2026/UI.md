@@ -22,19 +22,14 @@ Do this for as many of our projects as possible.
 * UIs should be clean and minimalistic.
 * UIs/UXs should be easy to maintain and update. We don't want to have to throw away and redo interfaces every year.
 
-## Resources
 
-* 
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-  
 
 ## Mentors
 
+* Since this idea involves contributing to multiple projects, you will interact with multiple mentors and the exact mentors will depend on the projects for which you decide to contribute. Look for mentors with @Mentor and @Contributor-X role in AOSSIE's discord and X role in the discord of the Stability Nexus, where X is the name of the project.
 * GitHub: @M4dhav; Discord: @m4dhav
-* GitHub: TODO; Discord: TODO
+* GitHub: @Zahnentferner ; Discord: @b.wp
 
 ## Communication Channel
 

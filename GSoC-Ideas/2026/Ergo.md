@@ -12,7 +12,7 @@ with higher priority for DeFi-related projects.
 
 ## Overview of Tasks
 
-* For any of our EVM projects, redo the smart contracts in Ergo script and redo the frontends.
+* For any of our EVM projects, redo the smart contracts in Ergo script and adapt the frontends.
 
 Candidates are expected to refine these tasks in their GSoC proposals. 
 Depending on the complexity of the project, it may be possible to port more than
@@ -32,8 +32,10 @@ Depending on the complexity of the project, it may be possible to port more than
 
 ## Mentors
 
-* GitHub: 0xf965; Discord: jossemii
-* GitHub: TODO; Discord: TODO
+* Look for people with the role `@X`, where X is the project you are interested in porting, in the Discord of the Stability Nexus
+* GitHub: @0xf965; Discord: @jossemii
+* GitHub: @kii-dot; Discord: @kii8888
+* GitHub: @ldgaetano; Discord: @ldgaetano
 
 ## Communication Channel
 

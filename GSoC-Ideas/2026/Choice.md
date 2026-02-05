@@ -21,19 +21,12 @@ Candidates are expected to refine these tasks in their GSoC proposals and clearl
 * The settings chosen by the user should be stored in local storage.
 * If necessary/applicable, the user should be guided to configure the project's setting when the user uses the project for the first time.
 
-## Resources
-
-* 
-
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-
 
 ## Mentors
 
+* Since this idea involves contributing to multiple projects, you will interact with multiple mentors and the exact mentors will depend on the projects for which you decide to contribute. Look for mentors with @Mentor and @Contributor-X role in our discord, where X is the name of the project.
 * GitHub: @M4dhav; Discord: @m4dhav
-* GitHub: TODO; Discord: TODO
+* GitHub: @Zahnentferner ; Discord: @b.wp
 
 ## Communication Channel
 

@@ -54,13 +54,10 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 * [BLoC Documentation](https://bloclibrary.dev/)
 * [pub.dev](pub.dev)
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: @M4dhav; Discord: @m4dhav
 
 ## Mentors
 
+* Look for mentors with the `@Contributor-Zplit` and `@Mentor` roles in AOSSIE's Discord.
 * GitHub: @Zahnentferner ; Discord: @b.wp
 * GitHub: @M4dhav; Discord: @m4dhav
 

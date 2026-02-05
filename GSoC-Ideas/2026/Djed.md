@@ -37,15 +37,13 @@ The roadmap introduces two streamlined protocol versions:
 * [OrbOracle EVM frontend](https://github.com/StabilityNexus/OrbOracle-EVM-Frontend)
 * StablePay apps: [Core Widget](https://github.com/DjedAlliance/StablePay), [Merchant Website Demo](https://github.com/DjedAlliance/StablePay-MerchantWebsiteDemo), [Merchant Dashboard](https://github.com/DjedAlliance/StablePay-MerchantDashboard), [Landing Page](https://github.com/DjedAlliance/StablePay-LandingPage)
 
-## Ideators
-
-* GitHub: @Zahnentferner ; Discord: @b.wp
-* GitHub: TODO; Discord: TODO
 
 ## Mentors
 
-* GitHub: DengreSarthak ; Discord: @sarthak_09385
-* GitHub: TODO; Discord: TODO
+* Look for mentors with the @Djed role in the Discord server of the Stability Nexus.
+* GitHub: @Zahnentferner ; Discord: @b.wp
+* GitHub: @DengreSarthak ; Discord: @sarthak_09385
+* GitHub: @yogesh0509; Discord: @yogesh0509
 
 ## Communication Channel
 
