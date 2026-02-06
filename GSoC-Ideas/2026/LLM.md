@@ -46,6 +46,7 @@ to our knowledge, the first end-to-end open-everything verifiable LLM
 * GitHub: @Archit381 ; Discord: @archit381_
 * GitHub: @0xf965; Discord: @jossemii
 * Discord: @rmvfsx
+* GitHub: @manavsarkar ; Discord: @manavsarkar
 
 ## Communication Channel
 
