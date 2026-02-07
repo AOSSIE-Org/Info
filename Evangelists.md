@@ -43,6 +43,7 @@ As an Evangelist, You can be assigned one of 3 states - Active, Inactive, Suspen
 | Canada           | --         | TODO              | TODO       | TODO   | TODO             | TODO            |
 | Germany          | --         | TODO              | TODO       | TODO   | TODO             | TODO            |
 | Egypt            | --         | TODO              | TODO       | TODO   | TODO             | TODO            |
+| India            |IIT Patna   | Tech Club         | Ankit kumar| Active | ankit_94329      | ankitkr104      |
 | India            | --         | TODO              | TODO       | TODO   | TODO             | TODO            |
 | Slavic Countries | --         | TODO              | TODO       | TODO   | TODO             | TODO            |
 | Sri Lanka        | --         | TODO              | TODO       | TODO   | TODO             | TODO            |
