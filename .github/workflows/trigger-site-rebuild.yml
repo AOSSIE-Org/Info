@@ -1,6 +1,7 @@
 name: Trigger Website Rebuild on Ideas Update
 
 on:
+  workflow_dispatch:  # Allow manual triggering of the workflow
   push:
     branches:
       - main
