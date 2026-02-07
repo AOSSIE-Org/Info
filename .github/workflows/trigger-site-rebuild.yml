@@ -1,5 +1,7 @@
 name: Trigger Website Rebuild on Ideas Update
 
+# Required: WEBSITE_REBUILD_TOKEN secret must have "Actions: Write" permission on AOSSIE-Org/website
+
 on:
   workflow_dispatch:  # Allow manual triggering of the workflow
   push:
@@ -23,10 +25,10 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.WEBSITE_REBUILD_TOKEN }}" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
-            https://api.github.com/repos/AOSSIE-Org/website/dispatches \
-            -d '{"event_type":"ideas-updated","client_payload":{"updated_by":"${{ github.actor }}","commit":"${{ github.sha }}"}}')
+            https://api.github.com/repos/AOSSIE-Org/website/actions/workflows/rebuild-on-ideas-update.yml/dispatches \
+            -d '{"ref":"main","inputs":{"source":"gsoc-ideas","updated_by":"${{ github.actor }}","commit":"${{ github.sha }}"}}')
           
-          # Verify the request was successful (204 is expected for repository_dispatch)
+          # Verify the request was successful (204 is expected for workflow_dispatch)
           if [ "$HTTP_STATUS" -eq 204 ]; then
             echo "✓ Successfully triggered website rebuild (HTTP $HTTP_STATUS)"
           else
