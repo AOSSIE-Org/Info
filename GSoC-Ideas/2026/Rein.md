@@ -36,10 +36,12 @@ While the core functionality is already implemented, several areas require impro
 
   * Make the interface more intuitive and easier to use.
 
+<!-- Added complexity might not be worth it, will reconsider this in future
 * **Improve LAN accessibility**
 
   * Enable stable LAN access without relying on changing IP addresses, which currently requires re-scanning.
   * This'll help when system input fails and the app is configured to auto-start.
+-->
 
 Candidates are expected to refine these tasks in their GSoC proposals.
 
