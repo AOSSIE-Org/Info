@@ -33,6 +33,10 @@ While the core functionality is already implemented, several areas require impro
   * Automate creation of distributables for all supported platforms
     (Linux must be distributed as a Flatpak).
   * Document platform-specific limitations and behavior.
+ 
+* **Screen mirror**
+
+  * Explore possibility of screen mirroring on the trackpad region.
 
 * **Improve UI/UX**
 
