@@ -17,9 +17,11 @@ While the core functionality is already implemented, several areas require impro
   * Investigate virtual input devices or alternative input injection methods.
   * Ensure the cursor position is either correctly synced or reliably indicated.
 
+<!-- Already done
 * **Improve keyboard input handling**
 
   * Ensure consistent multi-character input (e.g., glide typing, voice input).
+-->
 
 * **Complete and normalize key mappings**
 
@@ -64,6 +66,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 * Demonstrates understanding of current limitations and the **end-to-end flow** of proposed solutions.
 * Includes decision points and actions, ideally supported with **diagrams**.
 * Identifies where alternative libraries could improve reliability or compatibility.
+* Justifies the planned work, utilizing the entire GSoC period
 * Discusses potential future improvements and scope.
 
 ### General Abilities
