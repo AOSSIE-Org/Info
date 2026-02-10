@@ -17,9 +17,11 @@ While the core functionality is already implemented, several areas require impro
   * Investigate virtual input devices or alternative input injection methods.
   * Ensure the cursor position is either correctly synced or reliably indicated.
 
+<!-- Already done
 * **Improve keyboard input handling**
 
   * Ensure consistent multi-character input (e.g., glide typing, voice input).
+-->
 
 * **Complete and normalize key mappings**
 
@@ -31,15 +33,29 @@ While the core functionality is already implemented, several areas require impro
   * Automate creation of distributables for all supported platforms
     (Linux must be distributed as a Flatpak).
   * Document platform-specific limitations and behavior.
+ 
+* **Authentication**
+
+  * Use an authentication token passed via URL (link and QR code).
+
+  * Persist tokens on the server after successful connection.
+
+  * Expire tokens after a defined period of inactivity.
+ 
+* **Screen mirror**
+
+  * Explore possibility of screen mirroring on the trackpad region.
 
 * **Improve UI/UX**
 
   * Make the interface more intuitive and easier to use.
 
+<!-- Added complexity might not be worth it, will reconsider this in future
 * **Improve LAN accessibility**
 
   * Enable stable LAN access without relying on changing IP addresses, which currently requires re-scanning.
   * This'll help when system input fails and the app is configured to auto-start.
+-->
 
 Candidates are expected to refine these tasks in their GSoC proposals.
 
@@ -62,6 +78,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 * Demonstrates understanding of current limitations and the **end-to-end flow** of proposed solutions.
 * Includes decision points and actions, ideally supported with **diagrams**.
 * Identifies where alternative libraries could improve reliability or compatibility.
+* Justifies the planned work, utilizing the entire GSoC period
 * Discusses potential future improvements and scope.
 
 ### General Abilities
