@@ -1,6 +1,35 @@
 import os
 import re
 
+#-------------------emedding-pipeline-chunking concept
+from rag_mvp.pipelines.embedding_pipeline import EmbeddingPipeline
+
+def demo_embeddings_pipeline():
+    pipeline = EmbeddingPipeline()
+
+    note_text = """
+    Python is a programming language.
+    It is widely used in AI and machine learning projects.
+    Smart Notes helps users organize knowledge using embeddings.
+    """
+
+    chunks, embeddings = pipeline.process_notes(note_text)
+
+    print("\n--- Chunks Created ---")
+    for i, c in enumerate(chunks):
+        print(f"[{i}] {c}")
+
+    query = "What is Python used for?"
+    results = pipeline.semantic_search(query)
+
+    print("\n--- Search Results ---")
+    for r in results:
+        print("-", r)
+#-------------------------------------------------
+
+
+
+
 QUESTION_WORDS = {
     "what", "where", "who", "when", "which",
     "is", "are", "was", "were", "the", "a", "an",
@@ -54,6 +83,9 @@ def search_notes(query, notes):
 
 
 if __name__ == "__main__":
+
+    demo_embeddings_pipeline()      # Temporary demo for embeddings pipeline
+
     notes = load_notes()
 
     print("Ask questions about your notes (type 'exit' to quit)\n")

@@ -40,3 +40,45 @@ Artificial Intelligence (AI) is the simulation of human intelligence in machines
 how is machine learning used
 difference between AI and ML
 
+
+
+
+
+# Smart Notes – RAG MVP (Embeddings & FAISS)
+
+This project is a simple **Retrieval-Augmented Generation (RAG)** pipeline for Smart Notes.  
+It allows users to store notes, convert them into embeddings, and search relevant notes using vector similarity.
+
+---
+
+## 🚀 Features
+
+- Convert notes into embeddings using Sentence Transformers
+- Store and search embeddings using FAISS (CPU)
+- CLI tool to ask questions about your notes
+- Simple chunking for text files
+- Works fully offline after model download
+
+---
+
+## 🧠 Tech Stack
+
+- Python 3.10+
+- sentence-transformers  
+- FAISS (faiss-cpu)  
+- HuggingFace Transformers
+
+---
+
+## 📁 Project Structure
+
+```bash
+smart-notes/
+├── rag_mvp/
+│   ├── embed.py        # Embedding logic
+│   ├── index.py        # FAISS index creation
+│   ├── qa_cli.py       # CLI for asking questions
+│   └── utils.py        # Helper functions
+├── notes/              # Put your .txt notes here
+├── requirements.txt
+└── README.md
