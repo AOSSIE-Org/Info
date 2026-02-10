@@ -34,6 +34,14 @@ While the core functionality is already implemented, several areas require impro
     (Linux must be distributed as a Flatpak).
   * Document platform-specific limitations and behavior.
  
+* **Authentication**
+
+  * Use an authentication token passed via URL (link and QR code).
+
+  * Persist tokens on the server after successful connection.
+
+  * Expire tokens after a defined period of inactivity.
+ 
 * **Screen mirror**
 
   * Explore possibility of screen mirroring on the trackpad region.
