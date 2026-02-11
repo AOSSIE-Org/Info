@@ -63,4 +63,4 @@ It is encouraged that you develop an initial prototype during the application ph
 ## Communication Channel
 
 Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) 
-and discuss this idea in the #development channel of the discord of Stability Nexus.
+and discuss this idea in this channel (https://discord.com/channels/995968619034984528/1471163521877410045) of the discord of Stability Nexus.
