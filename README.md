@@ -8,6 +8,19 @@ in AOSSIE projects or programs such as **Google Summer of Code (GSoC)**.
 
 ---
 
+## 📑 Table of Contents
+
+- [Who Should Use This Repository?](#-who-should-use-this-repository)
+- [Guidance for Contributors](#-guidance-for-contributors)
+- [Guidance for Mentors](#-guidance-for-mentors)
+- [Guidance for Admins](#-guidance-for-admins)
+- [Guidance for Ambassadors](#-guidance-for-ambassadors)
+- [Document Index](#-document-index)
+- [Important Notes](#-important-notes)
+- [Final Note](#-final-note)
+
+---
+
 ## 📌 Who Should Use This Repository?
 
 - 🧑‍💻 Contributors (including GSoC applicants)
@@ -25,13 +38,13 @@ This section applies to **all contributors**, including **newcomers** and
 ### Required Reading (Before Contributing)
 
 - **Communication rules and community behavior**  
-  👉 [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md)
+  👉 [Communication Guidelines and Rules](CommunicationGuidelinesAndRules.md)
 
 - **Social media usage and representation guidelines**  
-  👉 [Social Media Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/SocialMediaGuidelines.md)
+  👉 [Social Media Guidelines](SocialMediaGuidelines.md)
 
 - **Copyright and licensing information**  
-  👉 [Copyright Information](https://github.com/AOSSIE-Org/Info/blob/main/COPYRIGHT.md)
+  👉 [Copyright Information](COPYRIGHT.md)
 
 ### Contribution Expectations
 
@@ -40,10 +53,21 @@ This section applies to **all contributors**, including **newcomers** and
 - Avoid spam, low-effort, or automated contributions
 - Follow repository-specific contribution instructions
 
+### 🛠 How to Contribute to This Repository
+
+1. Fork this repository
+2. Create a new branch (`git checkout -b branch-name`)
+3. Make your changes
+4. Commit with a meaningful message
+5. Push your branch to your fork
+6. Open a Pull Request and reference the related issue
+
+Please ensure changes are meaningful and follow AOSSIE guidelines.
+
 ### For GSoC Contributors
 
 - **Mandatory reading before applying**  
-  👉 [Google Summer of Code Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/GoogleSummerOfCode.md)
+  👉 [Google Summer of Code Guidelines](GoogleSummerOfCode.md)
 
 - Make meaningful contributions **before** proposal submission
 - Interact with mentors publicly via GitHub or Discord
@@ -65,7 +89,7 @@ This section applies to **project mentors and co-mentors**.
 ### GSoC Mentors
 
 - Follow all policies defined in  
-  👉 [Google Summer of Code Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/GoogleSummerOfCode.md)
+  👉 [Google Summer of Code Guidelines](GoogleSummerOfCode.md)
 
 - Avoid conflicts of interest
 - Provide regular evaluations and progress reviews
@@ -106,10 +130,10 @@ Ambassadors represent AOSSIE in public forums and platforms.
 ### Required Reading
 
 - **Ambassador roles and responsibilities**  
-  👉 [Ambassadors Program Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/Ambassadors.md)
+  👉 [Ambassadors Program Guidelines](Ambassadors.md)
 
 - **Social media policies**  
-  👉 [Social Media Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/SocialMediaGuidelines.md)
+  👉 [Social Media Guidelines](SocialMediaGuidelines.md)
 
 ### Expectations
 
@@ -123,11 +147,11 @@ Ambassadors represent AOSSIE in public forums and platforms.
 
 | Document | Description |
 |--------|-------------|
-| [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md) | Community rules and communication standards |
-| [Google Summer of Code Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/GoogleSummerOfCode.md) | GSoC-specific policies and expectations |
-| [Social Media Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/SocialMediaGuidelines.md) | Rules for social media usage |
-| [Ambassadors Program](https://github.com/AOSSIE-Org/Info/blob/main/Ambassadors.md) | Ambassador roles and responsibilities |
-| [Copyright Information](https://github.com/AOSSIE-Org/Info/blob/main/COPYRIGHT.md) | Copyright and ownership details |
+| [Communication Guidelines and Rules](CommunicationGuidelinesAndRules.md) | Community rules and communication standards |
+| [Google Summer of Code Guidelines](GoogleSummerOfCode.md) | GSoC-specific policies and expectations |
+| [Social Media Guidelines](SocialMediaGuidelines.md) | Rules for social media usage |
+| [Ambassadors Program Guidelines](Ambassadors.md) | Ambassador roles and responsibilities |
+| [Copyright Information](COPYRIGHT.md) | Copyright and ownership details |
 
 ---
 
@@ -142,8 +166,10 @@ Ambassadors represent AOSSIE in public forums and platforms.
 
 ## 🤝 Final Note
 
-AOSSIE is built on **transparency, collaboration, and responsibility**.
+AOSSIE is built on **transparency, collaboration, and responsibility**.  
 All members are expected to contribute in good faith and follow the
 guidelines outlined in this repository.
 
-Happy contributing 🚀
+Happy contributing 🚀  
+
+_Last updated: February 2026_
