@@ -10,14 +10,14 @@ in AOSSIE projects or programs such as **Google Summer of Code (GSoC)**.
 
 ## 📑 Table of Contents
 
-- [Who Should Use This Repository?](#-who-should-use-this-repository)
-- [Guidance for Contributors](#-guidance-for-contributors)
-- [Guidance for Mentors](#-guidance-for-mentors)
-- [Guidance for Admins](#-guidance-for-admins)
-- [Guidance for Ambassadors](#-guidance-for-ambassadors)
-- [Document Index](#-document-index)
-- [Important Notes](#-important-notes)
-- [Final Note](#-final-note)
+- [Who Should Use This Repository?](#who-should-use-this-repository)
+- [Guidance for Contributors](#guidance-for-contributors)
+- [Guidance for Mentors](#guidance-for-mentors)
+- [Guidance for Admins](#guidance-for-admins)
+- [Guidance for Ambassadors](#guidance-for-ambassadors)
+- [Document Index](#document-index)
+- [Important Notes](#important-notes)
+- [Final Note](#final-note)
 
 ---
 
