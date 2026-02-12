@@ -12,6 +12,7 @@ in AOSSIE projects or programs such as **Google Summer of Code (GSoC)**.
 - [Who Should Use This Repository?](#who-should-use-this-repository)
 - [Guidance for Contributors](#guidance-for-contributors)
 - [Required Reading (Before Contributing)](#required-reading-before-contributing)
+- [How to Contribute](#how-to-contribute)
 
 ## 📌 Who Should Use This Repository?
 
@@ -37,6 +38,18 @@ This section applies to **all contributors**, including **newcomers** and
 
 - **Copyright and licensing information**  
   👉 [Copyright Information](COPYRIGHT.md)
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork this repository
+2. Create a new branch
+3. Make documentation improvements
+4. Commit with clear messages
+5. Open a Pull Request
+
+Please keep formatting consistent with existing documents.
 
 ### Contribution Expectations
 
