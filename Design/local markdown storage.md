@@ -127,7 +127,7 @@ Works well even with thousands of notes
 
 ### 10. Trade-offs & Risks (IMPORTANT PART)
 
-* TRADE-OFFS
+* TRADE-OFFS 
 
 Using local .md files as the primary storage keeps data transparent and portable, but it means we rely on the operating system’s file system guarantees instead of having full transactional safety like a database.
 
