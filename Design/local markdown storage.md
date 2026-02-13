@@ -122,45 +122,50 @@ Why this helps:
 
 Faster app startup
 Smooth UI
-Works well even with thousands of notes
+Works well even with thousands of notes 
 ---
 
 ### 10. Trade-offs & Risks (IMPORTANT PART)
 
 * TRADE-OFFS
 
-Using plain markdown files keeps things simple and transparent, but we lose strong database-like guarantees (no transactions or atomic writes).
+Using local .md files as the primary storage keeps data transparent and portable, but it means we rely on the operating system’s file system guarantees instead of having full transactional safety like a database.
 
-File watching behaves differently across operating systems, so edge cases can appear on Windows, macOS, or Linux.
+The file watcher is lightweight and real-time, but behavior can vary slightly across Windows, macOS, and Linux due to OS-level differences in file system events.
 
-Parsing frontmatter on every file adds a small performance cost.
+Storing metadata in frontmatter keeps notes portable, but requires parsing files on change, which adds a small performance cost during large batch updates.
 
-Very large folders can make the first scan slower when the app starts.
----------------------------------------
+Initial indexing can be slower on first launch for users with very large existing note folders, since the app builds its index from disk.
+
+
+
 * RISKS
 
-Files may get out of sync if the user edits the same note in multiple apps at the same time.
+If the same note is edited simultaneously in the app and an external editor, content conflicts may occur.
 
-Symlinks and file permission issues can cause unexpected errors.
+Some file system features (like symlinks or restricted permissions) can cause watcher errors or skipped files.
 
-Users might accidentally delete or move important folders.
+Users can accidentally move or delete folders outside the app, causing missing notes until the index is rebuilt.
 
-Invalid or broken markdown/frontmatter can break parsing.
+Malformed frontmatter or corrupted markdown files can break metadata parsing.
 
-Performance may degrade for extremely large note collections (10k+ files).
-----------------------------------------
+Performance may degrade for extremely large workspaces (10k+ files) on low-end machines.
+
+
+
 * MITIGATIONS
 
-Handle file and parse errors gracefully instead of crashing the app.
+Detect and surface conflicts instead of silently overwriting changes.
 
-Rebuild indexes in the background to avoid blocking the UI.
+Gracefully handle watcher and file permission errors with user-friendly warnings.
 
-Ignore unsupported or broken files safely.
+Automatically trigger a safe background re-index when unexpected file changes are detected.
 
-Allow users to limit which folders are watched.
+Validate frontmatter before parsing and skip broken files without crashing.
 
-Fall back to a full re-scan if the file watcher misses events.
---------------------------------------------
+Allow users to exclude heavy folders from watching and indexing.
+
+
 
 ### 12. Summary
 This architecture treats the local file system as the source of truth for markdown notes.
