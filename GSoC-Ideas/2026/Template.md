@@ -4,6 +4,8 @@
 
 ## Overview of Tasks
 
+(Note to those filling this template: if the idea is for a pre-existing project of ours, it is not sufficient to just describe the project. This idea file should clearly describe significantly large tasks that will take the development of the project forward.)
+
 * TODO
 * TODO
 
