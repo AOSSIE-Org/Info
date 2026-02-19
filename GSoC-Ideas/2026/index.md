@@ -44,6 +44,7 @@ The skillset needed in each idea is shown in brackets.
   - [PictoPy](PictoPy.md) _{AI}_ _{Desktop}_
   - [DocPilot](DocPilot.md) _{Mobile}_ _{AI}_
   - [Smart Notes](SmartNotes.md) _{AI}_ _{Desktop}_
+  - [Neurotrack](Neurotrack.md) _{Mobile}_ _{AI}_
 
 ### Theme: Trust
 
