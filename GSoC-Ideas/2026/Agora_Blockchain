@@ -1,31 +1,61 @@
-# TODO: Idea Title
+## Agora Blockchain: Decentralized Cross-Chain Voting & Governance Platform
 
-## Background and Motivation
+### Background and Motivation
 
-## Overview of Tasks
+Agora Blockchain is a decentralized voting platform built to improve electoral integrity, transparency, and accessibility. Traditional voting systems, both online and offline, suffer from centralization, limited auditability, and trust issues. Even existing blockchain-based voting solutions often lack flexibility in voting mechanisms, cross-chain participation, and user-friendly onboarding.
 
-(Note to those filling this template: if the idea is for a pre-existing project of ours, it is not sufficient to just describe the project. This idea file should clearly describe significantly large tasks that will take the development of the project forward.)
+Agora addresses these gaps by leveraging smart contracts and Chainlink CCIP to enable tamper-proof, verifiable, and cross-chain elections. While the core system is functional, there is significant scope to enhance privacy, scalability, analytics, and user experience to make Agora suitable for real-world governance, DAOs, and institutional elections.
 
-* TODO
-* TODO
+This project focuses on strengthening Agora’s smart contracts, expanding cross-chain capabilities, improving the frontend experience, and adding meaningful analytics—while preserving decentralization and trust guarantees.
 
-Candidates are expected to refine these tasks in their GSoC proposals.
+---
 
-## Requirements
+### Overview of Tasks
 
-* TODO
-* TODO
+* **Smart contract improvements**
 
-## Resources
+  * Improve private/confidential elections using cryptographic techniques
+  * Optimize election factory and voting contracts for lower gas consumption
 
-* TODO
+* **Cross-chain voting expansion**
 
-## Mentors
+  * Extend Chainlink CCIP integration to enable voting across multiple blockchains
+  * Design secure message passing and result aggregation across chains
 
-* GitHub: TODO; Discord: TODO
-* GitHub: TODO; Discord: TODO
-* Look for mentors with the role `@TODO` in our discord servers
+* **Analytics and insights**
 
-## Communication Channel
+  * Develop a real-time dashboard for election statistics
+  * Track voter participation, turnout, and engagement metrics
 
-Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in TODO.
+* **Feedback and iteration**
+
+  * Gather community feedback
+  * Refine usability, performance, and security based on real-world usage
+
+Candidates are expected to refine and prioritize these tasks in their GSoC proposals.
+
+---
+
+### Requirements
+
+* Strong understanding of **Solidity** and smart contract development
+* Experience with **Hardhat** for testing and deployment
+* Familiarity with **Chainlink CCIP** or cross-chain communication concepts
+* Frontend experience using **Next.js**, **Wagmi**, and wallet integrations (MetaMask)
+* Knowledge of modern frontend tooling (**TailwindCSS**, **Zustand**)
+* Ability to work with existing decentralized systems and extend them incrementally
+* Interest in governance, DAOs, and blockchain-based voting systems
+
+---
+
+### Mentors
+
+* GitHub: @therealhamad; Discord: @therealhamad
+
+---
+
+### Communication Channel
+
+* Join the Agora Blockchain community Discord (shared by mentors)
+* Discuss this idea and proposal drafts in the designated Agora channels
+
