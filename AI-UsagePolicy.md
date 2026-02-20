@@ -23,8 +23,9 @@ Please respect the following rules, which are derived from the principles above:
     I think that B is the most promising approach for reasons R and S." is acceptable. 
     But "For solving problem P, I suggest that we try A, B and C." 
     (when A, B and C were suggested by AI model M) is not acceptable.
-  - This rule applies for messages in our communication channels.
-  - This rule also applies for project proposals (e.g. GSoC proposals).
+  - This rule applies to any form of communication. In particular, it also applies for:
+     - messages in our communication channels.
+     - project proposals (e.g. GSoC proposals).
 
 * Please test any AI-generated code locally before submitting a PR.
   - We encorage you to use AI tools not only to generate code, 
