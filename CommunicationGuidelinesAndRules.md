@@ -15,3 +15,5 @@
     * If you suspect that this rule is being violated by others, please inform them about these guidelines and contact the admins.
  
 * Any attempt to harass or offend any participant in our communication channels will lead to banning from these channels.
+
+* Please adhere to our [AI Usage Policy](AI-UsagePolicy.md).
