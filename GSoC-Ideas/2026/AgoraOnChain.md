@@ -1,6 +1,6 @@
-## Agora Blockchain: Decentralized Cross-Chain Voting & Governance Platform
+# Agora Blockchain: Decentralized Cross-Chain Voting & Governance Platform
 
-### Background and Motivation
+## Background and Motivation
 
 Agora Blockchain is a decentralized voting platform built to improve electoral integrity, transparency, and accessibility. Traditional voting systems, both online and offline, suffer from centralization, limited auditability, and trust issues. Even existing blockchain-based voting solutions often lack flexibility in voting mechanisms, cross-chain participation, and user-friendly onboarding.
 
@@ -8,9 +8,7 @@ Agora addresses these gaps by leveraging smart contracts and Chainlink CCIP to e
 
 This project focuses on strengthening Agora’s smart contracts, expanding cross-chain capabilities, improving the frontend experience, and adding meaningful analytics—while preserving decentralization and trust guarantees.
 
----
-
-### Overview of Tasks
+## Overview of Tasks
 
 * **Smart contract improvements**
 
@@ -34,9 +32,8 @@ This project focuses on strengthening Agora’s smart contracts, expanding cross
 
 Candidates are expected to refine and prioritize these tasks in their GSoC proposals.
 
----
 
-### Requirements
+## Requirements
 
 * Strong understanding of **Solidity** and smart contract development
 * Experience with **Hardhat** for testing and deployment
@@ -48,14 +45,14 @@ Candidates are expected to refine and prioritize these tasks in their GSoC propo
 
 ---
 
-### Mentors
+## Mentors
 
 * GitHub: @therealhamad; Discord: @therealhamad
 * GitHub: @Ronnieraj37; Discord: @ronnieraj37
 
 ---
 
-### Communication Channel
+## Communication Channel
 
 * Join the AOSSIE community Discord: https://discord.gg/yFTZ92BD
 * Discuss this idea and proposal drafts in the designated Agora channels
