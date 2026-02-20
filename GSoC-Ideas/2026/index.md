@@ -84,6 +84,7 @@ The skillset needed in each idea is shown in brackets.
   - [Org Explorer](OrgExplorer.md)  _{Web}_
   - [Discord/Github Bot](Bot.md) _{Bots}_
   - [Ellena](Ellena.md) _{Web}_ _{AI}_
+  - [Agora Voting on Chain](AgoraOnChain.md) _{Web}_ _{Blockchain}_
 
 We are open to proposals that fit into our general themes, even if they don't fit exactly the ideas that are currently listed above. However, if you have such a proposal, discuss it with mentors and other contributors publicly in Discord firstly.
 
@@ -105,7 +106,7 @@ Org-wide ideas are ideas where a single contributor will contribute to many of o
 ---
 
 
-If you are mentor, propose your idea by adding a markdown file
+If you are mentor, propose your idea by using our [Idea Template](../Template.md)
 to [this folder](https://github.com/AOSSIE-Org/Info/tree/main/GSoC-Ideas/2026)
 and then add a link to your file in the list above. Inform the admins in Discord.
 Admins may modify or remove your ideas.
