@@ -55,7 +55,7 @@ This is AOSSIE's general policy. Each project by AOSSIE may have its own
 AI Usage Policies that may extend or override AOSSIE's general policy. 
 Look for `AI-UsagePolicy.md` files in each project's repo.
 
--- 
+--- 
 
 If you create derived versions of this AI Usage Policy, 
 we would appreciate attribution and a link back to this original policy.
