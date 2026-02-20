@@ -20,6 +20,8 @@ Contributions to repos in any of these spaces count for GSoC selection.
 
 ## Selection Criteria
 
+Please read our [AI Usage Policy](AI-UsagePolicy.md) carefully and adhere to its principles and rules.
+
 The main selection criteria are:
 
 * Pull Requests made to projects in any of the above-mentioned github spaces.
