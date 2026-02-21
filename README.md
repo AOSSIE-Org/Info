@@ -1,5 +1,23 @@
 # AOSSIE Information & Guidance Repository
 
+<p align="center">
+  <a href="https://www.youtube.com/@AOSSIE-Org">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/hjUhu33uAn">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/aossie_org">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/aossie/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 This repository contains **official guidance, policies, and rules** for
 **AOSSIE contributors, mentors, admins, and ambassadors**.
 
@@ -24,14 +42,11 @@ This section applies to **all contributors**, including **newcomers** and
 
 ### Required Reading (Before Contributing)
 
-- **Communication rules and community behavior**  
-  👉 [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md)
+- **Communication rules and community behavior** 👉 [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md)
 
-- **Social media usage and representation guidelines**  
-  👉 [Social Media Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/SocialMediaGuidelines.md)
+- **Social media usage and representation guidelines** 👉 [Social Media Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/SocialMediaGuidelines.md)
 
-- **Copyright and licensing information**  
-  👉 [Copyright Information](https://github.com/AOSSIE-Org/Info/blob/main/COPYRIGHT.md)
+- **Copyright and licensing information** 👉 [Copyright Information](https://github.com/AOSSIE-Org/Info/blob/main/COPYRIGHT.md)
 
 ### Contribution Expectations
 
@@ -42,8 +57,7 @@ This section applies to **all contributors**, including **newcomers** and
 
 ### For GSoC Contributors
 
-- **Mandatory reading before applying**  
-  👉 [Google Summer of Code Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/GoogleSummerOfCode.md)
+- **Mandatory reading before applying** 👉 [Google Summer of Code Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/GoogleSummerOfCode.md)
 
 - Make meaningful contributions **before** proposal submission
 - Interact with mentors publicly via GitHub or Discord
@@ -105,11 +119,9 @@ Ambassadors represent AOSSIE in public forums and platforms.
 
 ### Required Reading
 
-- **Ambassador roles and responsibilities**  
-  👉 [Ambassadors Program Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/Ambassadors.md)
+- **Ambassador roles and responsibilities** 👉 [Ambassadors Program Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/Ambassadors.md)
 
-- **Social media policies**  
-  👉 [Social Media Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/SocialMediaGuidelines.md)
+- **Social media policies** 👉 [Social Media Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/SocialMediaGuidelines.md)
 
 ### Expectations
 
@@ -147,3 +159,4 @@ All members are expected to contribute in good faith and follow the
 guidelines outlined in this repository.
 
 Happy contributing 🚀
+© 2026 AOSSIE
