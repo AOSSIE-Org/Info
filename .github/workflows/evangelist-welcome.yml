@@ -13,48 +13,24 @@ jobs:
       pull-requests: write
     
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Check lines changed
-        id: check_lines
-        run: |
-          # Get the file diff
-          git fetch origin ${{ github.base_ref }}
-          LINES_CHANGED=$(git diff origin/${{ github.base_ref }}...HEAD -- Evangelists.md | grep -E '^\+|^\-' | grep -v '^\+\+\+' | grep -v '^\-\-\-' | wc -l)
-          echo "lines_changed=$LINES_CHANGED" >> $GITHUB_OUTPUT
-          echo "Lines changed in Evangelists.md: $LINES_CHANGED"
-          
-          # Check if lines changed is <= 2
-          if [ "$LINES_CHANGED" -le 2 ]; then
-            echo "trigger=true" >> $GITHUB_OUTPUT
-          else
-            echo "trigger=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Get PR author
-        id: pr_author
-        if: steps.check_lines.outputs.trigger == 'true'
-        run: |
-          echo "author=${{ github.event.pull_request.user.login }}" >> $GITHUB_OUTPUT
-
       - name: Post welcome comment
-        if: steps.check_lines.outputs.trigger == 'true'
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const author = '${{ steps.pr_author.outputs.author }}';
+            const linesChanged = context.payload.pull_request.additions +
+                                 context.payload.pull_request.deletions;
+            if (linesChanged > 2) { return; }
+
+            const author = context.payload.pull_request.user.login;
             const message = `Hey @${author}, welcome to the Evangelists Program. Please answer the following questions to move forward with your application:
-            
+
             1. What student community are you a part of (With links to verifiable sources)?
             2. What is your role in the student community?
             3. What is your motivation for applying to the AOSSIE Evangelist program?
             4. What is your vision/what do you intend to do and achieve as an AOSSIE Evangelist?`;
-            
-            github.rest.issues.createComment({
+
+            await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
