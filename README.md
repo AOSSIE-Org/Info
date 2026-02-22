@@ -1,22 +1,33 @@
 # AOSSIE Information & Guidance Repository
-
 <p align="center">
-  <a href="https://www.youtube.com/@AOSSIE-Org">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/hjUhu33uAn">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/aossie_org">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/aossie/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://aossie.org">
+    <img src="https://aossie.org/logo1.png" alt="AOSSIE Logo" width="200"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="mailto:aossie.oss@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://gitlab.com/aossie" title="GitLab">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </a>
+  <a href="https://github.com/AOSSIE-Org" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://discord.gg/hjUhu33uAn" title="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://twitter.com/aossie_org" title="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.youtube.com/@AOSSIE-Org" title="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
 
 This repository contains **official guidance, policies, and rules** for
 **AOSSIE contributors, mentors, admins, and ambassadors**.
