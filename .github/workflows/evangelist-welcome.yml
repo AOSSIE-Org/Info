@@ -2,7 +2,7 @@ name: Evangelist Application Welcome
 
 on:
   pull_request_target:
-    types: [opened, synchronize]
+    types: [opened]
     paths:
       - 'Evangelists.md'
 
