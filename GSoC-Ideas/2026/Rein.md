@@ -11,11 +11,14 @@ While the core functionality is already implemented, several areas require impro
 
 ## Overview of Tasks
 
-* **Improve cursor handling on Wayland** *(Highest Priority)*
+* **Evaluate and Replace NutJS with Virtual Input Devices** *(Highest Priority)*
 
   * Resolve cursor position desynchronization on Wayland (e.g., KDE).
   * Investigate virtual input devices or alternative input injection methods.
+  * Ensure native OS handling of cursor movement, scrolling, and gestures.
   * Ensure the cursor position is either correctly synced or reliably indicated.
+ 
+Here is a revised version that reflects evaluation, not just migration:
 
 <!-- Already done
 * **Improve keyboard input handling**
@@ -33,7 +36,8 @@ While the core functionality is already implemented, several areas require impro
   * Automate creation of distributables for all supported platforms
     (Linux must be distributed as a Flatpak).
   * Document platform-specific limitations and behavior.
- 
+
+<!-- Already done
 * **Authentication**
 
   * Use an authentication token passed via URL (link and QR code).
@@ -41,10 +45,11 @@ While the core functionality is already implemented, several areas require impro
   * Persist tokens on the server after successful connection.
 
   * Expire tokens after a defined period of inactivity.
- 
-* **Screen mirror**
+-->
 
-  * Explore possibility of screen mirroring on the trackpad region.
+* **Low Latency Audio & Screen mirror**
+
+  * Explore possibility of screen mirroring on the trackpad region, i.e. cursor movement should be possible over the mirror itself.
 
 * **Improve UI/UX**
 
@@ -57,7 +62,7 @@ While the core functionality is already implemented, several areas require impro
   * This'll help when system input fails and the app is configured to auto-start.
 -->
 
-Candidates are expected to refine these tasks in their GSoC proposals.
+Candidates are expected to refine these tasks in their GSoC proposals and discuss their approaches with peers instead of directly raising PRs.
 
 ---
 
