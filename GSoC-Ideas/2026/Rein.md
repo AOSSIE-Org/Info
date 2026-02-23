@@ -55,6 +55,13 @@ Here is a revised version that reflects evaluation, not just migration:
 
   * Make the interface more intuitive and easier to use.
 
+* **Propose Significant Improvements (Beyond LLM-Generated Suggestions)**
+
+  * Identify areas where unnecessary complexity can be reduced.
+  * Suggest simpler, more maintainable implementations where applicable.
+  * Highlight sections that would benefit from using well-suited libraries instead of custom logic.
+
+
 <!-- Added complexity might not be worth it, will reconsider this in future
 * **Improve LAN accessibility**
 
