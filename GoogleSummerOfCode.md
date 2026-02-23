@@ -60,11 +60,11 @@ AOSSIE is interested in selecting the best contributors according to the criteri
 
 Our rules to prevent conflicts of interests are stricter than Google's. In addition to all the rules by Google, AOSSIE's mentors, contributors and candidates must also respect the following rules to be eligible:
 
-* All communications between mentors and candidates must occur through our communication channels. See our [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md) for more details.
+* All communications between mentors and candidates must occur through our communication channels. See our [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md) for more details. If you are a candidate who had any form of private communication with any mentor, even if not related to GSoC and even if merely coincidental, you must disclose this in your application.
 * A contributor who participated in GSoC in a previous year with AOSSIE is not eligible to apply again for GSoC with AOSSIE.
 * If you are a mentor with any affiliation or relationship, even if temporary and even if unpaid, with any entity from where there might be candidates applying for GSoC with AOSSIE, you must disclose this relationship to an admin prior to the GSoC application phase.
    * Failure to disclose may lead to the ineligibility of candidates from that entity.
-* If you are a mentor, you are welcome and encouraged to talk about GSoC and AOSSIE online (e.g. in YouTube videos) or in local events (e.g. hackathons). However, if you do, you must inform the admins.
+* If you are a mentor, you are welcome and encouraged to talk about GSoC and AOSSIE online (e.g. in YouTube videos) or in local events (e.g. hackathons). However, if you do, you must inform the admins. If you are candidate who attended a talk by an AOSSIE mentor, you must disclose this to admins.
 * Contributors and mentors from the same university or institution, even if already graduated, are considered to have a potential (even if not actual) conflict of interest. Such potential conflicts of interest must be disclosed to admins.
    * Failure to disclose may lead to ineligibility of the candidate.
 * For any other types of potential conflict of interest not explicitly listed above, admins should be informed.
