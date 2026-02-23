@@ -84,12 +84,12 @@ Candidates are expected to refine these tasks in their GSoC proposals and discus
 
 ### Proposal Expectations
 
-* Clear, concise, and easy to understand.
-* Demonstrates understanding of current limitations and the **end-to-end flow** of proposed solutions.
-* Includes decision points and actions, ideally supported with **diagrams**.
-* Identifies where alternative libraries could improve reliability or compatibility.
-* Justifies the planned work, utilizing the entire GSoC period
-* Discusses potential future improvements and scope.
+* Shows strong understanding of current limitations and the **end-to-end solution flow**.
+* Defines decision points and trade-offs, ideally with **diagrams**.
+* Evaluates alternative libraries or approaches for better reliability and compatibility.
+* Provides timeline utilizing the full GSoC period.
+* Outlines future scope and long-term direction.
+* Preferably include a link to a short YouTube video (not GSoC-specific) showcasing the app, its features, overall vision, and a brief explanation of its internal workings.
 
 ### General Abilities
 
@@ -122,5 +122,5 @@ Candidates are expected to refine these tasks in their GSoC proposals and discus
 
 ## Communication Channel
 
-Join our Discord server ([https://discord.gg/xnmAPS7zqB](https://discord.gg/xnmAPS7zqB) and discuss this idea in
+Join our Discord server ([https://discord.gg/xnmAPS7zqB](https://discord.gg/xnmAPS7zqB)) and discuss this idea in
 **AOSSIE-Discord → Projects → Rein**.
