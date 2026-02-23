@@ -17,8 +17,6 @@ While the core functionality is already implemented, several areas require impro
   * Investigate virtual input devices or alternative input injection methods.
   * Ensure native OS handling of cursor movement, scrolling, and gestures.
   * Ensure the cursor position is either correctly synced or reliably indicated.
- 
-Here is a revised version that reflects evaluation, not just migration:
 
 <!-- Already done
 * **Improve keyboard input handling**
