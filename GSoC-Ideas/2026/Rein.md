@@ -89,7 +89,7 @@ Candidates are expected to refine these tasks in their GSoC proposals and discus
 * Evaluates alternative libraries or approaches for better reliability and compatibility.
 * Provides timeline utilizing the full GSoC period.
 * Outlines future scope and long-term direction.
-* Preferably include a link to a short video YouTube (or any public platform) showcasing the app, its features, overall vision, and a brief explanation of its internal workings.
+* Preferably include link to a video (e.g., on YouTube or any public platform) showcasing the app, its features, overall vision, and a brief explanation of its internal workings.
 
 ### General Abilities
 
