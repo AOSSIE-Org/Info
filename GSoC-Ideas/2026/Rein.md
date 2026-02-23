@@ -11,7 +11,7 @@ While the core functionality is already implemented, several areas require impro
 
 ## Overview of Tasks
 
-* **Evaluate and Replace NutJS with Virtual Input Devices** *(Highest Priority)*
+* **Evaluate and Replace NutJS with Better Options** *(Highest Priority)*
 
   * Resolve cursor position desynchronization on Wayland (e.g., KDE).
   * Investigate virtual input devices or alternative input injection methods.
