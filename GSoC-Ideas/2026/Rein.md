@@ -22,11 +22,11 @@ While the core functionality is already implemented, several areas require impro
 * **Improve keyboard input handling**
 
   * Ensure consistent multi-character input (e.g., glide typing, voice input).
--->
 
 * **Complete and normalize key mappings**
 
   * Modifier keys, navigation keys, function keys, and media keys.
+-->
 
 * **Ensure cross-platform compatibility**
 
