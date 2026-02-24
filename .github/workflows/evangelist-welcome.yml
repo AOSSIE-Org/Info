@@ -11,28 +11,57 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
+      issues: write
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Post welcome comment
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            const fs = require('fs');
             const linesChanged = context.payload.pull_request.additions +
                                  context.payload.pull_request.deletions;
             if (linesChanged > 2) { return; }
 
             const author = context.payload.pull_request.user.login;
+            const reviewer = fs.readFileSync('.github/evangelist-reviewer', 'utf8').trim();
             const message = `Hey @${author}, welcome to the Evangelists Program. Please answer the following questions to move forward with your application:
 
             1. What student community are you a part of (With links to verifiable sources)?
             2. What is your role in the student community?
             3. What is your motivation for applying to the AOSSIE Evangelist program?
-            4. What is your vision/what do you intend to do and achieve as an AOSSIE Evangelist?`;
+            4. What is your vision/what do you intend to do and achieve as an AOSSIE Evangelist?
+
+            cc @${reviewer} — please review this application when ready.`;
 
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
               body: message
+            });
+
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['Evangelist applicants']
+            });
+
+            await github.rest.pulls.requestReviewers({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+              reviewers: [reviewer]
+            });
+
+            await github.rest.issues.addAssignees({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              assignees: [author]
             });
