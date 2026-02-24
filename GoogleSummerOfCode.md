@@ -42,7 +42,7 @@ that project does not have capacity to have many contributors simultaenously or 
 
 We appreciate perseverance. We have had many cases of candidates who did not get selected in one year, but continued contributing and got selected in another year. We take into account all your PRs, independently of when they were made. Please list them all in your application.
 
-* Understand the project beyond what an LLM can tell you is important. Do not let LLMs define the "how."
+* Understanding the project beyond what an LLM can tell you is important. Do not let LLMs define the "how."
 * We are looking for long-term maintainers, not just GSoC participants. Your ability to guide and support others matters.
 
 
