@@ -28,7 +28,11 @@ jobs:
             if (linesChanged > 2) { return; }
 
             const author = context.payload.pull_request.user.login;
-            const reviewer = fs.readFileSync('.github/evangelist-reviewer', 'utf8').trim();
+            const reviewers = fs.readFileSync('.github/evangelist-reviewer', 'utf8')
+              .trim()
+              .split('\n')
+              .map(r => r.trim())
+              .filter(Boolean);
             const message = `Hey @${author}, welcome to the Evangelists Program. Please answer the following questions to move forward with your application:
 
             1. What student community are you a part of (With links to verifiable sources)?
@@ -36,7 +40,7 @@ jobs:
             3. What is your motivation for applying to the AOSSIE Evangelist program?
             4. What is your vision/what do you intend to do and achieve as an AOSSIE Evangelist?
 
-            cc @${reviewer} — please review this application when ready.`;
+            cc ${reviewers.map(r => '@' + r).join(' ')} — please review this application when ready.`;
 
             await github.rest.issues.createComment({
               owner: context.repo.owner,
@@ -56,7 +60,7 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               pull_number: context.issue.number,
-              reviewers: [reviewer]
+              reviewers: reviewers
             });
 
             await github.rest.issues.addAssignees({
