@@ -28,11 +28,17 @@ jobs:
             if (linesChanged > 2) { return; }
 
             const author = context.payload.pull_request.user.login;
-            const reviewers = fs.readFileSync('.github/evangelist-reviewer', 'utf8')
-              .trim()
-              .split('\n')
-              .map(r => r.trim())
-              .filter(Boolean);
+            let reviewers = [];
+            try {
+              reviewers = fs.readFileSync('.github/evangelist-reviewer', 'utf8')
+                .trim()
+                .split('\n')
+                .map(r => r.trim())
+                .filter(Boolean);
+            } catch (e) {
+              core.warning(`Could not read evangelist-reviewer file: ${e.message}`);
+            }
+
             const message = `Hey @${author}, welcome to the Evangelists Program. Please answer the following questions to move forward with your application:
 
             1. What student community are you a part of (With links to verifiable sources)?
@@ -49,23 +55,35 @@ jobs:
               body: message
             });
 
-            await github.rest.issues.addLabels({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              labels: ['Evangelist applicants']
-            });
+            try {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: ['evangelist-application']
+              });
+            } catch (e) {
+              core.warning(`addLabels failed: ${e.message}`);
+            }
 
-            await github.rest.pulls.requestReviewers({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: context.issue.number,
-              reviewers: reviewers
-            });
+            try {
+              await github.rest.pulls.requestReviewers({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                reviewers: reviewers
+              });
+            } catch (e) {
+              core.warning(`requestReviewers failed: ${e.message}`);
+            }
 
-            await github.rest.issues.addAssignees({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              assignees: [author]
-            });
+            try {
+              await github.rest.issues.addAssignees({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                assignees: [author]
+              });
+            } catch (e) {
+              core.warning(`addAssignees failed: ${e.message}`);
+            }
