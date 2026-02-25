@@ -7,7 +7,7 @@
 
 * Do not create duplicate issues or duplicate PRs. This indicates unawareness and insufficient project review.
 
-* Comply with our [AI Usage Policy](AI-UsagePolicy).
+* Comply with our [AI Usage Policy](AI-UsagePolicy) in your contributions.
 
 * Clearly state what you plan to work on and how before starting. Collaborate with others working in the same area.
 
