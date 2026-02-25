@@ -13,13 +13,7 @@
     * We recommend that you update your personal privacy settings in Discord to forbid DMs.
     * Violation of this rule may lead to ineligibility of the prospective candidate.
     * If you suspect that this rule is being violated by others, please inform them about these guidelines and contact the admins.
- 
-* Gatekeeping is not appreciated. Instead of trying to grab everything, focus on and address one thing at a time.
-
-* Clearly state what you plan to work on and how before starting. Collaborate with others working in the same area.
-
-* Duplicate issues or PRs indicate unawareness and insufficient project review.
 
 * Any attempt to harass or offend any participant in our communication channels will lead to banning from these channels.
 
-* Please adhere to our [AI Usage Policy](AI-UsagePolicy.md).
+* Please adhere to our [AI Usage Policy](AI-UsagePolicy.md) in your communications.
