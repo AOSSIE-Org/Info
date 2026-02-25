@@ -39,6 +39,8 @@ With these core systems in place, PictoPy is positioned to evolve from a feature
 8. **Evaluation and Integration of Features from PictoPy V2**: [PictoPy V2](https://github.com/imxade/PictoPyV2/wiki) was an independent branch of the project that experimented with some other features in 2024. This task involves systematically reviewing its feature set and selectively porting ideas that are compatible with the current Tauri + FastAPI architecture and the project's privacy-first philosophy. Candidates are expected to audit V2's approach, identify non-overlapping or superior solutions, and propose concrete integration work where applicable.
 
    - **Video Support**: Extend PictoPy to handle video files alongside images. AI models (object detection, face recognition) will run on 1 out of every *X* frames (configurable frame-sampling rate) to generate classification and tagging metadata for the video without processing every frame, keeping inference cost low.
+  
+9. (Optional) Explore packaging from mobile devices with Tauri itself.
 
 Candidates are expected to refine these tasks in their GSoC proposals.
 
