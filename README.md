@@ -1,4 +1,3 @@
-# AOSSIE Information & Guidance Repository
 <p align="center">
   <a href="https://aossie.org">
     <img src="https://aossie.org/logo1.png" alt="AOSSIE Logo" width="200"/>
@@ -8,9 +7,6 @@
 <p align="center">
   <a href="mailto:aossie.oss@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://gitlab.com/aossie" title="GitLab">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
   <a href="https://github.com/AOSSIE-Org" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -28,140 +24,37 @@
 
 ---
 
+This repository contains **official policies, guidelines and rules** for
+**AOSSIE contributors, mentors, evangelists, ambassadors and admins**.
 
-This repository contains **official guidance, policies, and rules** for
-**AOSSIE contributors, mentors, admins, and ambassadors**.
 
-All members are expected to read the relevant sections **before participating**
-in AOSSIE projects or programs such as **Google Summer of Code (GSoC)**.
+## 📌 Who Should Read and Follow the Policies, Guidelines and Rules?
 
----
-
-## 📌 Who Should Use This Repository?
-
-- 🧑‍💻 Contributors (including GSoC applicants)
+- :hatching_chick: Newcomers
+- 🧑‍💻 Contributors
 - 👨‍🏫 Mentors
-- 🛡️ Organization Admins
-- 🌍 Ambassadors & Community Representatives
+- 🌍 Evangelists and Ambassadors
+- 🛡️ Admins
 
----
-
-## 👩‍💻 Guidance for Contributors
-
-This section applies to **all contributors**, including **newcomers** and
-**GSoC aspirants**.
-
-### Required Reading (Before Contributing)
-
-- **Communication rules and community behavior** 👉 [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md)
-
-- **Social media usage and representation guidelines** 👉 [Social Media Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/SocialMediaGuidelines.md)
-
-- **Copyright and licensing information** 👉 [Copyright Information](https://github.com/AOSSIE-Org/Info/blob/main/COPYRIGHT.md)
-
-### Contribution Expectations
-
-- Follow respectful and inclusive communication
-- Use GitHub Issues and Pull Requests properly
-- Avoid spam, low-effort, or automated contributions
-- Follow repository-specific contribution instructions
-
-### For GSoC Contributors
-
-- **Mandatory reading before applying** 👉 [Google Summer of Code Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/GoogleSummerOfCode.md)
-
-- Make meaningful contributions **before** proposal submission
-- Interact with mentors publicly via GitHub or Discord
-- Do not submit plagiarized or generic proposals
-
----
-
-## 👨‍🏫 Guidance for Mentors
-
-This section applies to **project mentors and co-mentors**.
-
-### Mentor Responsibilities
-
-- Guide contributors with constructive and timely feedback
-- Review pull requests consistently
-- Maintain clear and updated project documentation
-- Foster an inclusive and respectful environment
-
-### GSoC Mentors
-
-- Follow all policies defined in  
-  👉 [Google Summer of Code Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/GoogleSummerOfCode.md)
-
-- Avoid conflicts of interest
-- Provide regular evaluations and progress reviews
-- Ensure contributors comply with AOSSIE rules
-
-### Communication
-
-- Use official AOSSIE communication channels
-- Avoid private decision-making that bypasses public discussion
-- Maintain transparency in evaluations and approvals
-
----
-
-## 🛡️ Guidance for Admins
-
-This section applies to **AOSSIE organization administrators**.
-
-### Administrative Responsibilities
-
-- Maintain and update organization-wide policies
-- Oversee mentor onboarding and project approvals
-- Ensure legal and license compliance
-- Handle moderation, disputes, and escalations
-
-### Program Oversight (GSoC & Others)
-
-- Coordinate with program administrators
-- Review project ideas and mentor eligibility
-- Ensure fair and transparent selection processes
-- Maintain accurate documentation and timelines
-
----
-
-## 🌍 Guidance for Ambassadors
-
-Ambassadors represent AOSSIE in public forums and platforms.
-
-### Required Reading
-
-- **Ambassador roles and responsibilities** 👉 [Ambassadors Program Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/Ambassadors.md)
-
-- **Social media policies** 👉 [Social Media Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/SocialMediaGuidelines.md)
-
-### Expectations
-
-- Represent AOSSIE professionally
-- Coordinate announcements with admins
-- Follow branding and communication guidelines
-
----
-
-## 📂 Document Index
-
-| Document | Description |
-|--------|-------------|
-| [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md) | Community rules and communication standards |
-| [Google Summer of Code Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/GoogleSummerOfCode.md) | GSoC-specific policies and expectations |
-| [Social Media Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/SocialMediaGuidelines.md) | Rules for social media usage |
-| [Ambassadors Program](https://github.com/AOSSIE-Org/Info/blob/main/Ambassadors.md) | Ambassador roles and responsibilities |
-| [Copyright Information](https://github.com/AOSSIE-Org/Info/blob/main/COPYRIGHT.md) | Copyright and ownership details |
-
----
-
-## ⚠️ Important Notes
-
-- Ignorance of rules is not an excuse
-- Policies apply to all members equally
+Note that:
+- Ignorance is not an excuse
 - Violations may result in moderation actions
-- Documents may be updated over time
+- Policies, guidelines and rules may be updated over time, and updates are announced in [our Discord's announcement channel](https://discord.com/channels/1022871757289422898/1235508903450775622).
 
----
+
+
+## :open_file_folder:  Index
+
+* [Google Summer of Code](GoogleSummerOfCode.md): rules for GSoC applicants, participants and mentors.
+
+* [Communication Guidelines and Rules](CommunicationGuidelinesAndRules.md): explanation of where and how to communicate within our community.
+* [Contribution Guidelines](ContributionGuidelines.md): guidelines for contributing to our projects.
+* [Social Media Guidelines](SocialMediaGuidelines.md): guidelines for posting about or for AOSSIE in social media.
+* [LinkedIn](LinkedIn): rules for how to declare your affiliation to AOSSIE in LinkedIn.
+* [AI Usage Policy](AI-UsagePolicy.md): rules for effetive and responsible usage of AI.
+* [Evangelists](Evangelists.md): definition of _Evangelist_, eligibility conditions and application instructions, and a list of our current evangelists.
+* [Ambassadors](Ambassadors.md): definition of _Ambassador_, eligibility conditions and application instructions, and a list of our current ambassadors.
+
 
 ## 🤝 Final Note
 
@@ -169,5 +62,6 @@ AOSSIE is built on **transparency, collaboration, and responsibility**.
 All members are expected to contribute in good faith and follow the
 guidelines outlined in this repository.
 
-Happy contributing 🚀
+Happy contributions! 🚀
+
 © 2026 AOSSIE
