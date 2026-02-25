@@ -24,6 +24,7 @@ Please read our [AI Usage Policy](AI-UsagePolicy.md) carefully and adhere to its
 
 The main selection criteria are:
 
+* Understanding the project beyond what an LLM can tell you is a must. Do not let LLMs define the "how."
 * Pull Requests made to projects in any of the above-mentioned github spaces.
    * We take into account the quality, quantity and difficulty of the submitted PRs.
       * Quality of the PR involves not only quality of the code itself, but also of the PR's scope, the PR's description and PR's readiness.
@@ -42,6 +43,7 @@ that project does not have capacity to have many contributors simultaenously or 
 
 We appreciate perseverance. We have had many cases of candidates who did not get selected in one year, but continued contributing and got selected in another year. We take into account all your PRs, independently of when they were made. Please list them all in your application.
 
+We are looking for long-term maintainers, not just GSoC participants. Your ability to guide and support others matters.
 
 # Project Size and Length
 
