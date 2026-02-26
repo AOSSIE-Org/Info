@@ -1,12 +1,12 @@
-# TODO: Idea Title
+# CodingAgent: Open-Source CLI AI Coding Assistant
 
 ## Background and Motivation
-My motivation for building CodingAgent is that there is still no truly good open-source coding agent that works like the best closed-source tools such as Codex, Antigravity, or Claude Code.
-I’ve used all of these extensively and I’m frustrated that I can’t plug my favorite open-source models into a comparable, powerful agent experience.
+Our motivation for building CodingAgent is that there is still no truly good open-source coding agent that works like the best closed-source tools such as Codex, Antigravity, or Claude Code.
+We’ve used all of these extensively and we are frustrated that I can’t plug my favorite open-source models into a comparable, powerful agent experience.
 Key capabilities like robust persistent memory, solid MCP integration, and local vector-based storage for long-term context are either missing or poorly implemented in current open-source options.
-I want to change that by creating an agent that treats memory and context as first-class citizens, not afterthoughts.
+We want to change that by creating an agent that treats memory and context as first-class citizens, not afterthoughts.
 My goal is to build something that operates at the level of serious engineering workflows, not just toy demos.
-In essence, I want to create the “clawdbot for coding” — a scalable, developer-first AI coding agent that is fully open, extensible, and production-ready.
+In essence, We want to create the “clawdbot for coding” — a scalable, developer-first AI coding agent that is fully open, extensible, and production-ready.
 
 ## Overview of Tasks
 * Setup TypeScript CLI skeleton with commander + multi-LLM config
@@ -30,10 +30,8 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 ## Mentors
 
-* GitHub: TODO; Discord: TODO
-* GitHub: TODO; Discord: TODO
-* Look for mentors with the role `@TODO` in our discord servers
+* GitHub: [coderwithsense](https://github.com/coderwithsense/); Discord: rmvfsx
 
 ## Communication Channel
 
-Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in TODO.
+Join our Discord servers (https://discord.gg/xnmAPS7zqB and https://discord.gg/fuuWX4AbJt) and discuss this idea in [general](https://discord.com/channels/1022871757289422898/1180497744666837003).
