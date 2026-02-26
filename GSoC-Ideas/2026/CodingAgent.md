@@ -2,7 +2,7 @@
 
 ## Background and Motivation
 Our motivation for building CodingAgent is that there is still no truly good open-source coding agent that works like the best closed-source tools such as Codex, Antigravity, or Claude Code.
-We’ve used all of these extensively and we are frustrated that I can’t plug my favorite open-source models into a comparable, powerful agent experience.
+We’ve used all of these extensively and we are frustrated that We can’t plug my favorite open-source models into a comparable, powerful agent experience.
 Key capabilities like robust persistent memory, solid MCP integration, and local vector-based storage for long-term context are either missing or poorly implemented in current open-source options.
 We want to change that by creating an agent that treats memory and context as first-class citizens, not afterthoughts.
 My goal is to build something that operates at the level of serious engineering workflows, not just toy demos.
