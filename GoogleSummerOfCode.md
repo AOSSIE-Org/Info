@@ -6,6 +6,12 @@ We abide strictly by all the rules of the GSoC program, to uphold the excellence
 In addition to the rules, terms and conditions required by Google, 
 AOSSIE also requires all mentors and contributors to abide to the guidelines and rules described below.
 
+## Application Form
+
+To apply for GSoC with AOSSIE, please fill our [GSoC Application Form](https://forms.gle/tV7xwJVVrCrqosvD7) and follow all the instructions there.
+
+Please read this whole file carefully before.
+
 
 ## AOSSIE Repos
 
