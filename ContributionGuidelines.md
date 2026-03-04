@@ -5,9 +5,9 @@
 
 * Gatekeeping (i.e. preventing others from contributing) is not appreciated. Instead of trying to solve all issues at once, focus on and completely resolve one issue at a time.
 
-* Use GitHub Issues and Pull Requests properly
+* Use GitHub Issues and Pull Requests properly.
 
-* Avoid spam low-effort contributions
+* Avoid spam low-effort contributions.
 
 * Do not create duplicate issues or duplicate PRs. This indicates unawareness and insufficient project review.
 
