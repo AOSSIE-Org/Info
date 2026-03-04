@@ -44,6 +44,8 @@ Please respect the following rules, which are derived from the principles above:
   maintainer. Note that CodeRabbit is not always right. If you decide to ignore an unsuitable suggestion by CodeRabbit, 
   please justify your decision with a reply to CodeRabbit's comment.
 
+* While AI usage is encouraged, AI slop is highly discouraged. Spamming AI generated messages in our channels or poor AI-generated issues or pull requests in our repos may lead to banning and blocking.
+
 
 A final remark:
 
