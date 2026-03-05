@@ -9,7 +9,18 @@ While the core functionality is already implemented, several areas require impro
 
 ---
 
-## Overview of Tasks
+## Pre-Evaluation Task
+
+It is mandatory to create PoCs for the following issues, as described in them:
+
+* https://github.com/AOSSIE-Org/Rein/issues/130
+* https://github.com/AOSSIE-Org/Rein/issues/208
+
+Add the PoC links to your proposal so they can be tested and evaluated.
+
+Check all open issues labeled **GSoC 2026**. Your proposal should primarily revolve around them. However, only include what you genuinely believe you can deliver. Do not rely on AI to judge your capabilities.
+
+## Overview of Tasks During GSoC period
 
 * **Evaluate and Replace NutJS with Better Options** *(Highest Priority)*
 
