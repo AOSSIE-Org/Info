@@ -13,6 +13,11 @@
     * We recommend that you update your personal privacy settings in Discord to forbid DMs.
     * Violation of this rule may lead to ineligibility of the prospective candidate.
     * If you suspect that this rule is being violated by others, please inform them about these guidelines and contact the admins.
+ 
+* Please use each channel only for its intended purpose.
+   * Do not send messages about one project in another project's channel.
+   * If a project does not yet have its own channel, use one of the general channels.
+   * Do not send messages to general channels about a project that has its own channel.
 
 * Any attempt to harass or offend any participant in our communication channels will lead to banning from these channels.
 
