@@ -47,16 +47,18 @@ Please respect the following rules, which are derived from the principles above:
 * While AI usage is encouraged, AI slop is highly discouraged. Spamming AI generated messages in our channels or poor AI-generated issues or pull requests in our repos may lead to banning and blocking.
 
 
-A final remark:
+Remember:
 
 * AI is your tool. You are not AI's tool.
 * As a contributor, avoid becoming merely an intermediary between maintainers and AI.
 
 
-
 This is AOSSIE's general policy. Each project by AOSSIE may have its own 
 AI Usage Policies that may extend or override AOSSIE's general policy. 
 Look for `AI-UsagePolicy.md` files in each project's repo.
+
+Finally, we strongly recommend checking our [Local AI Setup Guide](Guides/Local-AI-Setup.md), so that you do not become 
+locked into non-free closed AI services.
 
 --- 
 
