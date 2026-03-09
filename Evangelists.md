@@ -31,6 +31,10 @@ As an Evangelist, You can be assigned one of 3 states - Active, Inactive, Suspen
 - Evangelists must conduct atleast 2 events every semester to retain the Active status. Failure will result in a demotion to Inactive status.
 - If an Evangelist retains the inactive status for more than one semester, they will be marked as Suspended, and removed from the Evangelist program.
 
+## Applying to Become an Evangelist
+
+If you are eligible and would like to apply to be an evangelist, create a PR adding your name to the table below and inform the admins about it in Discord.
+
 
 ## List of Current Evangelists
 
@@ -49,7 +53,7 @@ As an Evangelist, You can be assigned one of 3 states - Active, Inactive, Suspen
 | Slavic Countries | --         | TODO              | TODO       | TODO   | TODO             | TODO            |
 | Sri Lanka        | --         | TODO              | TODO       | TODO   | TODO             | TODO            |
 
-If you are eligible and would like to apply to be an evangelist, create a PR adding your name to the table above and inform the admins about it in Discord.
+
 
 
 
