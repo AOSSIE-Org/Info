@@ -64,7 +64,7 @@ If you see any triage action that you consider to be wrong w.r.t. the instructio
 [https://discord.gg/ZAthYGDJPz](Wrong Triage Report Channel).
 
 
-### Applying to Become a Triageur
+## Applying to Become a Triageur
 
 Admins may award the triageur role to any contributor that they deem to be eligible, capable and worthy.
 
