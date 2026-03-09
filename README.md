@@ -54,7 +54,7 @@ Note that:
 * [AI Usage Policy](AI-UsagePolicy.md): rules for effetive and responsible usage of AI.
 * [Evangelists](Evangelists.md): definition of _Evangelist_, eligibility conditions and application instructions, and a list of our current evangelists.
 * [Ambassadors](Ambassadors.md): definition of _Ambassador_, eligibility conditions and application instructions, and a list of our current ambassadors.
-* [Guides](./Guides/): guides on how to setup your coding environment optimally to work with AOSSIE projects.
+* [Guides](./Guides/): tutorials explaining how to setup your coding environment optimally to work with AOSSIE projects.
 
 
 ## 🤝 Final Note
