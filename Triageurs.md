@@ -61,7 +61,7 @@ Do not abuse the powers of the triageur role. In particular, do not do any of th
   through triage more quickly or easily than others.
 
 If you see any triage action that you consider to be wrong w.r.t. the instructions above, report it in the
-[https://discord.gg/ZAthYGDJPz](Wrong Triage Report Channel).
+[Wrong Triage Report Channel](https://discord.gg/ZAthYGDJPz).
 
 
 ## Applying to Become a Triageur
