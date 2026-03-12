@@ -39,7 +39,7 @@ Improve how Ell-ena selects context for summaries and task creation. Instead of 
 Add unit and integration tests to the project to make feature development and bug fixing less error-prone. Set up GitHub Actions workflows to run flutter analyze, tests, and build checks for Android and iOS before merging pull requests.
 
 #### App Store Publishing
-Prepare Ell-ena for public release by publishing the mobile application on the avaialable play store. This includes making sure the app meets store requirements and feels like a complete product rather than just for a Ell-ena developers.
+Prepare Ell-ena for public release by publishing the mobile application on the available play store. This includes making sure the app meets store requirements and feels like a complete product rather than just for a Ell-ena developers.
 
 
 Candidates are expected to refine these tasks in their GSoC proposals.
