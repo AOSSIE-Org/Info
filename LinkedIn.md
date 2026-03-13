@@ -39,4 +39,4 @@ From 1st of October 2026, she may state her role as "Member".
 He manages to have his 1st PR merged on the 10th of February 2025. On the 1st of December 2025,
 he decides to become a mentor and starts mentoring other contributors. He continues to contribute directly to some AOSSIE projects.
 He may state, in his LinkedIn profile, that he was a "Contributor" or "Software Developer" for AOSSIE, from 10th of February 2025 to the present date.
-From 1st of December 2025 to the present, he may additionaly add the "Mentor" role.
+From 1st of December 2025 to the present, he may additionally add the "Mentor" role.
