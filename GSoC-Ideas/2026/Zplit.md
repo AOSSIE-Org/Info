@@ -20,10 +20,10 @@ AOSSIE recently invited contributors to submit designs for Zplit. While Zplit is
 AOSSIE had a discussion about Data Models for Zplit [here](https://github.com/StabilityNexus/Zplit/issues/19). It is required to implement the selected Data Model using `freezed` and codegen, and then implement app-wide State Management using `BLoC`. This should be done in a decoupled manner, with Automated Tests in mind, and should be reliable and robust.
 
 #### Implement Cryptographic signatures
-Zplit will use Cryptographic signatures to sign all data transmitted between devices, to improve security on the platform. These signatures will be made using a combination of device-specific characteristics as well as self-identification information filled in by the user. This allows everyone too verify the source of any data blob recieved by their application, and reduce the risk of financial scams.
+Zplit will use Cryptographic signatures to sign all data transmitted between devices, to improve security on the platform. These signatures will be made using a combination of device-specific characteristics as well as self-identification information filled in by the user. This allows everyone to verify the source of any data blob received by their application, and reduce the risk of financial scams.
 
 #### Write decentralized communication algorithms
-As Zplit uses decentralized methods for all of its data transfer, it is required to write the business logic (aka algorithms) that the application will use to send and recieve data. There will be multiple methods and options for the end user as described in the [Zplit Repo](https://github.com/StabilityNexus/Zplit/blob/main/zplit.md). These will need to be implemented from scratch, preferrably using strongly typed Dart code. Using packages where available is allowed and preferred.
+As Zplit uses decentralized methods for all of its data transfer, it is required to write the business logic (aka algorithms) that the application will use to send and receive data. There will be multiple methods and options for the end user as described in the [Zplit Repo](https://github.com/StabilityNexus/Zplit/blob/main/zplit.md). These will need to be implemented from scratch, preferably using strongly typed Dart code. Using packages where available is allowed and preferred.
 
 #### Implement stablecoin settlement
 Another key feature in Zplit is an option Stablecoin settlement. Contributors are required to implement this, such that users can settle their debts on-app using stablecoins to pay off each other.
@@ -35,7 +35,7 @@ Contributors will be expected to write comprehensive tests for every feature the
 It is necessary to implement CI/CD Pipelines that can automate the build and release process, as well as add a check for every PR to verify that all changes pass the tests. Along with this, other Workflows will also be expected, to improve Developer Experience, like a workflow to check for untranslated strings after every PR. These workflows will be implemented using GitHub Actions.
 
 #### Deploy v1 of Zplit to Play Store
-GSoC 2026 Contributions should conclude with a v1 deployment of Zplit to App Stores, to get the app to real users as soon as possible, and then later iterate on the App with real world feedback from users. AOSSIE already has a Play Store Developer Account, so the Candidate will be required to setup the new application here, along with filling all data safety questionairres etc., and fulfilling all publishing requirements.
+GSoC 2026 Contributions should conclude with a v1 deployment of Zplit to App Stores, to get the app to real users as soon as possible, and then later iterate on the App with real world feedback from users. AOSSIE already has a Play Store Developer Account, so the Candidate will be required to setup the new application here, along with filling all data safety questionnaires etc., and fulfilling all publishing requirements.
 
 Candidates are expected to refine these tasks in their GSoC proposals.
 

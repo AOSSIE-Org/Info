@@ -31,7 +31,7 @@ Please read our [AI Usage Policy](AI-UsagePolicy.md) carefully and adhere to its
 The main selection criteria are:
 
 * Understanding the project beyond what an LLM can tell you is a must. Do not let LLMs define the "how."
-* Pull Requests made to projects in any of the above-mentioned github spaces.
+* Pull Requests made to projects in any of the above-mentioned GitHub spaces.
    * We take into account the quality, quantity and difficulty of the submitted PRs.
       * Quality of the PR involves not only quality of the code itself, but also of the PR's scope, the PR's description and PR's readiness.
       * Submitting PRs with code that was AI-generated is allowed, but you must be responsible for the code. Use AI responsibly.
@@ -45,7 +45,7 @@ The main selection criteria are:
    * Our GSoC ideas are intentionally a bit vague, so that you need to fill many gaps yourself with the help of mentors during the application phase.
 
 We also take mentoring capacity and project capacity into account. So, if too many candidates apply with proposals related to the same project and 
-that project does not have capacity to have many contributors simultaenously or does not have enough mentors, then we may be unable to select even excellent candidates.
+that project does not have capacity to have many contributors simultaneously or does not have enough mentors, then we may be unable to select even excellent candidates.
 
 We appreciate perseverance. We have had many cases of candidates who did not get selected in one year, but continued contributing and got selected in another year. We take into account all your PRs, independently of when they were made. Please list them all in your application.
 
@@ -109,7 +109,7 @@ During the coding period, the selected contributors will be required to **show w
 * Communicate at least once per week with your mentors through messages in the public discord channel of your project.
 * Write a post in Twitter and LinkedIn about your weekly progress.
 
-In order to pass an evaluation, the number of weeks in which you do not do any of these tasks should not be greater than 33% of the weeks preceeding your evaluation, unless you have completed your project ahead of schedule.
+In order to pass an evaluation, the number of weeks in which you do not do any of these tasks should not be greater than 33% of the weeks preceding your evaluation, unless you have completed your project ahead of schedule.
 
 Furthermore, **once during the coding period**, you will have to present your project in one of the weekly meetings.
 
