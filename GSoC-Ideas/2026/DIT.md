@@ -9,12 +9,12 @@ In 2026, we would like to give continuation to this direction by creating a new 
 people to issue their own identity tokens and endorse the identity tokens of others.
 
 In the legacy world, identity documents are issued and endorsed by governments. 
-For example, when you get a passport, the government is endrosing the fact that you, 
+For example, when you get a passport, the government is endorsing the fact that you, 
 the passport holder, has the characteristics described in the passport that identify you 
 (your photo, your date of birth, your nationality, ...).
 
 With identity tokens, anyone can self-issue a token with any characteristics and anybody 
-can endorse that the holder of the token is indeed the entity that has those charcteristics.
+can endorse that the holder of the token is indeed the entity that has those characteristics.
 
 
 ## Overview of Tasks
@@ -43,7 +43,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 ## Mentors
 
-* Look for mentors with the roles @Contributor-StabilityNexus in AOSSIE's Discord and the @TNT and @VouchMe roles in the Discord of teh Stability Nexus.
+* Look for mentors with the roles @Contributor-StabilityNexus in AOSSIE's Discord and the @TNT and @VouchMe roles in the Discord of the Stability Nexus.
 * GitHub: @KanishkSogani; Discord: @kanishk11
 * GitHub: @Zahnentferner ; Discord: @b.wp
 

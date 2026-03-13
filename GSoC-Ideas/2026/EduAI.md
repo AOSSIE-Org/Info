@@ -23,7 +23,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 
 * The AI model should be local and/or the user should be allowed to input his/her own subscription key to a SaaS AI model.
 * We are looking for more than just AI wrappers.
-* There should be no backened or SaaS/Cloud dependencies.
+* There should be no backend or SaaS/Cloud dependencies.
 
 
 ## Mentors

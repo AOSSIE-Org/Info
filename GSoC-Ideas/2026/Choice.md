@@ -14,7 +14,7 @@ For every project of ours that has an external dependency that requires an API k
 
 * Implement a "decentralization of choice" approach. Find alternatives to a given API dependency, and make it possible for the users to choose (in the project's settings), which APIs they want to use. For example, if one of our projects is currently depending on ChatGPT's API, make it possible for the project to use Gemini as well and ensure that the user can choose which one to use.
 
-Candidates are expected to refine these tasks in their GSoC proposals and clearly specify which projects they are going to handle and which approach and which alternaives they are going to use in each project.
+Candidates are expected to refine these tasks in their GSoC proposals and clearly specify which projects they are going to handle and which approach and which alternatives they are going to use in each project.
 
 ## Requirements
 
