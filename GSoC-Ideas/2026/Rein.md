@@ -1,5 +1,7 @@
 
-# Improving Cross-Platform Remote Input Reliability
+# Rein: Improving Cross-Platform Remote Input Reliability
+
+Project Size: Large
 
 ## Background and Motivation
 
@@ -115,6 +117,7 @@ Candidates are expected to refine these tasks in their GSoC proposals and discus
 
 ## Resources
 
+* Proposal requirements: https://discord.com/channels/1022871757289422898/1467370739152846899/1482120370118197350
 * Project repository:
   https://github.com/AOSSIE-Org/Rein
 * Project wiki & specification:
