@@ -12,7 +12,6 @@
     * If you are a mentor and you are contacted by a prospective candidate privately, please instruct them to contact you through one of our official communication channels.
     * We recommend that you update your personal privacy settings in Discord to forbid DMs.
     * Violation of this rule may lead to ineligibility of the prospective candidate.
-    * If you suspect that this rule is being violated by others, please inform them about these guidelines and contact the admins.
  
 * Please use each channel only for its intended purpose.
    * Do not send messages about one project in another project's channel.
@@ -22,3 +21,5 @@
 * Any attempt to harass or offend any participant in our communication channels will lead to banning from these channels.
 
 * Please adhere to our [AI Usage Policy](AI-UsagePolicy.md) in your communications.
+
+If you suspect that these guidelines are being violated by others, please contact mentors, maintainers or admins. Do not message the violating contributor directly.
