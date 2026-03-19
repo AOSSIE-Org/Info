@@ -45,7 +45,7 @@ The main selection criteria are:
    * Our GSoC ideas are intentionally a bit vague, so that you need to fill many gaps yourself with the help of mentors during the application phase.
 
 We also take mentoring capacity and project capacity into account. So, if too many candidates apply with proposals related to the same project and 
-that project does not have capacity to have many contributors simultaenously or does not have enough mentors, then we may be unable to select even excellent candidates.
+that project does not have capacity to have many contributors simultaneously or does not have enough mentors, then we may be unable to select even excellent candidates.
 
 We appreciate perseverance. We have had many cases of candidates who did not get selected in one year, but continued contributing and got selected in another year. We take into account all your PRs, independently of when they were made. Please list them all in your application.
 
