@@ -24,6 +24,7 @@ The app should be able to separate out things like symptoms, diagnosis, medicati
 
 * GitHub: @jddeep; Discord: @jddeep
 * Discord: @sharkybytes_
+* GitHub: @imxade; Discord: @Rituraj
 
 ## Communication Channel
 
