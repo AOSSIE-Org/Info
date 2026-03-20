@@ -38,7 +38,7 @@ The skillset needed in each idea is shown in brackets.
 
 ### Theme: User-Empowering "Sunny" Tools
 
-**Theme goal:** empower users to do localy, in their own devices, what would normally require them to depend on cloud-based services.
+**Theme goal:** empower users to do locally, in their own devices, what would normally require them to depend on cloud-based services.
 
 **Ideas:**
   - [PictoPy](PictoPy.md) _{AI}_ _{Desktop}_
@@ -83,7 +83,7 @@ The skillset needed in each idea is shown in brackets.
 
 **Theme goal:** ease community and team work.
   - [Org Explorer](OrgExplorer.md)  _{Web}_
-  - [Discord/Github Bot](Bot.md) _{Bots}_
+  - [Discord/GitHub Bot](Bot.md) _{Bots}_
   - [Ellena](Ellena.md) _{Web}_ _{AI}_
   - [Agora Voting on Chain](AgoraOnChain.md) _{Web}_ _{Blockchain}_
 
