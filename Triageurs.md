@@ -21,10 +21,10 @@ As a triageur, you should, as frequently as possible, review the new issues and 
 * [https://github.com/DjedAlliance](https://github.com/DjedAlliance)
 
 For convenience, here is a list of links to the lists of open PRs and issues: 
-* [Open PRs at AOSSIE](ttps://github.com/search?q=org%3AAOSSIE-Org++&type=pullrequests&state=open)
+* [Open PRs at AOSSIE](https://github.com/search?q=org%3AAOSSIE-Org++&type=pullrequests&state=open)
 * [Open PRs at Stability Nexus](https://github.com/search?q=org%3AStabilityNexus++&type=pullrequests&state=open)
 * [Open PRs at Djed Alliance](https://github.com/search?q=org%3ADjedAlliance++&type=pullrequests&state=open)
-* [Open Issues at AOSSIE](ttps://github.com/search?q=org%3AAOSSIE-Org++&type=issues&state=open)
+* [Open Issues at AOSSIE](https://github.com/search?q=org%3AAOSSIE-Org++&type=issues&state=open)
 * [Open Issues at Stability Nexus](https://github.com/search?q=org%3AStabilityNexus++&type=issues&state=open)
 * [Open Issues at Djed Alliance](https://github.com/search?q=org%3ADjedAlliance++&type=issues&state=open)
 
