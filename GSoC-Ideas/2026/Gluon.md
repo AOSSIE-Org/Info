@@ -22,7 +22,7 @@ Because Gluon spans Solidity contracts plus the Reactor creation web UI, the sel
 
 * [Gluon-EVM](https://github.com/StabilityNexus/Gluon-EVM) – core contracts and Reactor Factory
 * [Gluon-EVM-WebUI](https://github.com/StabilityNexus/Gluon-EVM-WebUI) – Reactor creation dashboard
-* [OrbOracle Solidity contracts](https://github.com/StabilityNexus/OrbOracle-Solidity) and [Explorer frontend](https://github.com/StabilityNexus/OrbOracle-EVM-Frontend)
+* [OrbOracle Solidity contracts](https://github.com/StabilityNexus/OrbOracle-Solidity) ⚠️ (Currently private/unavailable) and [Explorer frontend](https://github.com/StabilityNexus/OrbOracle-EVM-Frontend) ⚠️ (Currently private/unavailable)
 * [Pyth Network docs](https://docs.pyth.network/)
 * [Chainlink Data Feeds docs](https://docs.chain.link/data-feeds)
 * Djed adapter references (ask Yogesh / see Djed-Solidity repositories) for multi-oracle patterns
