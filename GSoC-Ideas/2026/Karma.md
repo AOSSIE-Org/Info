@@ -36,6 +36,13 @@ We have previously implemented a function that calculates the weight of a tokenh
 * The frontend should be lean and backend-free.
 
 
+## Contributor Notes
+
+- Some linked repositories or related resources may be private, unavailable, or under active development.
+- Contributors are encouraged to verify repository access before relying on a linked resource.
+- For the latest guidance, discuss the idea with mentors and contributors in the project communication channels.
+
+
 ## Resources
 
 * [Fate Protocol Frontend](https://github.com/StabilityNexus/Fate-EVM-Frontend)
