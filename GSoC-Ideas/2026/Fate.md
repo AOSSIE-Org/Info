@@ -31,7 +31,7 @@ Fate Protocol is deployed across multiple EVM-compatible networks: Ethereum, Bas
 ## Resources
 
 * [Fate Protocol Frontend](https://github.com/StabilityNexus/Fate-EVM-Frontend)
-* [Fate Protocol Smart Contracts](https://github.com/StabilityNexus/Fate-Solidity)
+* [Fate Protocol Smart Contracts](https://github.com/StabilityNexus/Fate-Solidity)⚠️ (Currently private/unavailable)
 * [Chainlink Oracle Documentation](https://docs.chain.link/)
 * [Oracle Design Patterns](https://ethereum.org/en/developers/docs/oracles/)
 * [Prediction Market Mechanisms](https://en.wikipedia.org/wiki/Prediction_market)
