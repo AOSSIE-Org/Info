@@ -19,7 +19,7 @@ The composed oracle should be implemented as a standalone smart contract that re
 
 ## Resources
 
-* [OrbOracle Solidity contracts](https://github.com/StabilityNexus/OrbOracle-Solidity)
+* [OrbOracle Solidity contracts](https://github.com/StabilityNexus/OrbOracle-Solidity) ⚠️ (Currently private/unavailable)
 * [OrbOracle EVM frontend](https://github.com/StabilityNexus/OrbOracle-EVM-Frontend)
 * [StablePay](https://github.com/DjedAlliance/StablePay) – example consumer of composed feeds
 * [Djed overview](/stablecoins/djed-overview) – showcases how oracle quality impacts collateralized stablecoins
