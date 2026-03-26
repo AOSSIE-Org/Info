@@ -45,6 +45,7 @@ Candidates should expand on these in their proposals with specific implementatio
 
 - Look for mentors with the `@Contributor-SmartNotes` role in AOSSIE's Discord
 - GitHub: @SharkyBytes; Discord: @sharkybytes_
+- GitHub: @yatikakain ; Discord: @yatikakain
 
 ## Communication Channel
 
