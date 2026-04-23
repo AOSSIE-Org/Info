@@ -39,7 +39,7 @@ The main selection criteria are:
    * We also take into account whether the submitted PRs demonstrate that you have the skill to do what you are proposing.
       * While using AI to generate code is allowed and even encouraged, since it may increase productivity, we are looking for contributors who are more than just "AI pilots".
    * We also take into account your behavior during the PR review process, such as your ability to improve your PR based on feedback in our reviews of your PR.
-   * Pull requests made to any of our projects count, even the project is not related to your proposal or if the project is not going to participate in GSoC. In fact, we like contributors who contribute to our organization as a whole and not just to a single project. 
+   * Pull requests made to any of our projects count, even if the project is not related to your proposal or if the project is not going to participate in GSoC. In fact, we like contributors who contribute to our organization as a whole and not just to a single project. 
 * Quality of the Proposal
    * AI-generated spam proposals will have no chance of acceptance.
    * Our GSoC ideas are intentionally a bit vague, so that you need to fill many gaps yourself with the help of mentors during the application phase.
