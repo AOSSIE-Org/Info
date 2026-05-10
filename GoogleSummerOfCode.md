@@ -122,3 +122,15 @@ Throughout the coding period, keep in mind that mentors are volunteering their t
 Because of this, they may not always be able to check in frequently. It is your responsibility to maintain contact with the mentors.
 The mentors should not have to chase you to find out about your progress.
 Contributors should take ownership of their work and continue making progress even if the mentor is unavailable for a few days.
+
+
+# External Communication about GSoC Selection Procedure
+
+If you contribute to AOSSIE in any way (as an admin, mentor, student, contributor), 
+you are **not** allowed to:
+* share tips on how to be selected for GSoC.
+* engage with any form of communication (such as, non-exhaustively, podcast, interview, video, article or post) in any kind of medium (such as, non-exhaustively, channel, newsletter, publication, course, mentoring organization, ...) that promises people to help them be accepted at GSoC (such as "crack GSoC" and similar statements), even if your engagement itself does not make such promises.
+
+You may talk about AOSSIE and its projects and, if you are asked or if you want to say something about AOSSIE's selection procedure, you may refer people to https://github.com/AOSSIE-Org/Info/edit/main/GoogleSummerOfCode.md and, more generally, https://github.com/AOSSIE-Org/Info/ . This is where all official information about AOSSIE's selection procedure can be found.
+
+This is a very strict rule. If in a doubt about whether some communication of yours might be against this rule, please contact AOSSIE's admins firstly.
