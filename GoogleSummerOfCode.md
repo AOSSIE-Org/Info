@@ -133,4 +133,4 @@ you are **not** allowed to:
 
 You may talk about AOSSIE and its projects and, if you are asked or if you want to say something about AOSSIE's selection procedure, you may refer people to https://github.com/AOSSIE-Org/Info/edit/main/GoogleSummerOfCode.md and, more generally, https://github.com/AOSSIE-Org/Info/ . This is where all official information about AOSSIE's selection procedure can be found.
 
-This is a very strict rule. If in a doubt about whether some communication of yours might be against this rule, please contact AOSSIE's admins firstly.
+This is a very strict rule. If in doubt about whether some communication of yours might be against this rule, please contact AOSSIE's admins firstly.
