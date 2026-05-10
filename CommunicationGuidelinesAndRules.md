@@ -13,6 +13,17 @@
     * We recommend that you update your personal privacy settings in Discord to forbid DMs.
     * Violation of this rule may lead to ineligibility of the prospective candidate.
  
+* Written communication is preferred over audio/video meetings.
+
+* Audio/video meeting must occur in one of the following meeting rooms in our Discord:
+   - Public [Meeting Room](https://discord.com/channels/1022871757289422898/1345795402682859561)
+   - Private [Meeting Room 1](https://discord.com/channels/1022871757289422898/1502185840061841468)
+   - Private [Meeting Room 2](https://discord.com/channels/1022871757289422898/1502186169293865040)
+
+* Any audio/video meeting must be followed by a written summary in one of our channels. Transcript and summarization bots may be used.
+
+* Recurring audio/video meetings must be included in our Discord's event calendar. Please contact an admin for inclusion.
+ 
 * Please use each channel only for its intended purpose.
    * Do not send messages about one project in another project's channel.
    * If a project does not yet have its own channel, use one of the general channels.
