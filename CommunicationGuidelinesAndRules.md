@@ -20,7 +20,7 @@
    - Private [Meeting Room 1](https://discord.com/channels/1022871757289422898/1502185840061841468)
    - Private [Meeting Room 2](https://discord.com/channels/1022871757289422898/1502186169293865040)
 
-* Any audio/video meeting must be followed by a written summary in one of our channels. Transcript and summarization bots may be used.
+* Any audio/video meeting must be followed by a written summary in one of our channels. Transcript and summarization bots (such as [Meetily](https://meetily.ai/)  ) may be used.
 
 * Recurring audio/video meetings must be included in our Discord's event calendar. Please contact an admin for inclusion.
  
