@@ -4,7 +4,7 @@ Social Media Manager are AOSSIE members who have the permission to post on AOSSI
 
 ## Eligibility to be a Social Media Manager
 
-To be a content admin, you must:
+To be a social media manager, you must:
 * be an active AOSSIE student, mentor or admin.
 
 
