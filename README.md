@@ -45,15 +45,18 @@ Note that:
 
 ## :open_file_folder:  Index
 
-* [Google Summer of Code](GoogleSummerOfCode.md): rules for GSoC applicants, participants and mentors.
+* **Rules:** AOSSIE contributors are expected to abide to the following rules, guidelines and policies:
+  * [Google Summer of Code](Rules/GoogleSummerOfCode.md): rules for GSoC applicants, participants and mentors.
 
-* [Communication Guidelines and Rules](CommunicationGuidelinesAndRules.md): explanation of where and how to communicate within our community.
-* [Contribution Guidelines](ContributionGuidelines.md): guidelines for contributing to our projects.
-* [Social Media Guidelines](SocialMediaGuidelines.md): guidelines for posting about or for AOSSIE in social media.
-* [LinkedIn](LinkedIn): rules for how to declare your affiliation to AOSSIE in LinkedIn.
-* [AI Usage Policy](AI-UsagePolicy.md): rules for effetive and responsible usage of AI.
-* [Evangelists](Evangelists.md): definition of _Evangelist_, eligibility conditions and application instructions, and a list of our current evangelists.
-* [Ambassadors](Ambassadors.md): definition of _Ambassador_, eligibility conditions and application instructions, and a list of our current ambassadors.
+  * [Communication Rules](Rules/Communication.md): explanation of where and how to communicate within our community.
+  * [Contribution Guidelines](Rules/Contribution.md): guidelines for contributing to our projects.
+  * [Social Media Guidelines](Rules/SocialMedia.md): guidelines for posting about or for AOSSIE in social media.
+  * [LinkedIn](Rules/LinkedIn): rules for how to declare your affiliation to AOSSIE in LinkedIn.
+  * [AI Usage Policy](Rules/AI.md): rules for effetive and responsible usage of AI.
+* **Roles:** AOSSIE contributors may be assigned various roles, and the following files provide information about their eligibility conditions, application instructions and responsibilities:
+  * [Evangelists](Roles/Evangelists.md)
+  * [Ambassadors](Roles/Ambassadors.md)
+  * [SocialMediaManagers](Roles/SocialMediaManagers.md)
 * [Guides](./Guides/): tutorials explaining how to setup your coding environment optimally to work with AOSSIE projects.
 
 
