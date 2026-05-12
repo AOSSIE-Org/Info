@@ -2,7 +2,7 @@
 
 The following guidelines are designed 
 to maximize the reach of our posts 
-and ensure branding uniformity.
+and ensure brand uniformity.
 
 ## General Guidelines
 
@@ -28,12 +28,9 @@ When posting a tweet about an AOSSIE project:
 3. Retweet your tweet using [@aossie_org](https://x.com/aossie_org)'s account.
    * Please consider waiting at least 6 hours since the last post from AOSSIE's account to post your retweet. 
 
-In order to be able to retweet from AOSSIE's account, please configure your twitter's account to accept delegation invitations
-and ask AOSSIE's admins to delegate access of AOSSIE's account to your twitter account.
+Note that people rarely read the next tweets of a thread beyond the first one. Therefore, it is better to write a single very good short tweet than a long thread.
 
 If you would like to create a Twitter account for your own project, please contact AOSSIE's admins first.
-
-Note that people rarely read the next tweets of a thread beyond the first one. Therefore, it is better to write a single very good short tweet than a long thread.
 
 
 ### List of Relevant Twitter Accounts
@@ -66,15 +63,6 @@ When posting in LinkedIn about an AOSSIE project:
 3. Repost your post using [AOSSIE](https://www.linkedin.com/company/aossie/)'s account.
    * Please consider waiting at least 6 hours since the last post from AOSSIE's account to post your repost. 
 
-In order to be able to post from AOSSIE's LinkedIn account, 
-  * Follow [AOSSIE](https://www.linkedin.com/company/aossie/) on LinkedIn.
-  * Add AOSSIE under your Experience. (Example - GSOC Contributor @AOSSIE)
-    
-     ![image](https://github.com/user-attachments/assets/4b8c776e-0295-4867-a02e-d3d37cdb8f05)
-  * Go to [AOSSIE's LinkedIn Page](https://www.linkedin.com/company/aossie/) and request Admin access.
-    
-     ![image](https://github.com/user-attachments/assets/14923912-61a2-44a3-983a-12b15e040d5b)
-  * Ask AOSSIE's admins to accept your request and add your LinkedIn account as content admin for AOSSIE's account.
 
 ### List of Relevant LinkedIn Accounts
 
