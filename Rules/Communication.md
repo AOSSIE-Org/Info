@@ -15,10 +15,12 @@
  
 * Written communication is preferred over audio/video meetings.
 
-* Audio/video meeting must occur in one of the following meeting rooms in our Discord:
+* Audio/video meetings must occur in one of the following meeting rooms in our Discord:
    - Public [Meeting Room](https://discord.com/channels/1022871757289422898/1345795402682859561)
    - Private [Meeting Room 1](https://discord.com/channels/1022871757289422898/1502185840061841468)
    - Private [Meeting Room 2](https://discord.com/channels/1022871757289422898/1502186169293865040)
+
+* Please create and start an event in Discord for every meeting taking place in our meeting rooms, so that everyone can be informed that it is happening.
 
 * Any audio/video meeting must be followed by a written summary in one of our channels. Transcript and summarization bots (such as [Meetily](https://meetily.ai/)  ) may be used.
 
