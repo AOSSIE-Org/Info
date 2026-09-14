@@ -1,4 +1,4 @@
-# Setting up Local Agentic Coding Setup
+# Setting up Local Agentic Coding
 
 
 If you've been following the AI coding assistant space, you already know that tools like **Claude Code** are genuinely impressive. The way it reasons through codebases, handles multi-step tasks, and operates autonomously is hard to beat. But there's a real catch — that performance comes at a steep token-usage cost.
