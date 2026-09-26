@@ -41,7 +41,7 @@ Note that:
 ## :open_file_folder:  Index
 
 * **Rules:** AOSSIE contributors are expected to abide to the following rules, guidelines and policies:
-  * [Google Summer of Code](Rules/GoogleSummerOfCode.md): rules for GSoC applicants, participants and mentors.
+  * [Google Summer of Code](Programs/GoogleSummerOfCode/): rules for GSoC applicants, participants and mentors.
 
   * [Communication Rules](Rules/Communication.md): explanation of where and how to communicate within our community.
   * [Contribution Guidelines](Rules/Contribution.md): guidelines for contributing to our projects.
