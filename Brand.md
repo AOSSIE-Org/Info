@@ -11,7 +11,7 @@
 
 ## 📖 1. Introduction
 
-Welcome to the **AOSSIE Brand Kit Guidelines**. This guide is designed for everyone in the AOSSIE community — contributors, collaborators, builders, event organizers, and curious minds who want to understand and apply the AOSSIE brand with consistency, clarity, and care.
+Welcome to the **AOSSIE Brand Kit Guidelines**. This guide is designed for everyone in the AOSSIE community - contributors, collaborators, builders, event organizers, and curious minds who want to understand and apply the AOSSIE brand with consistency, clarity, and care.
 
 By sticking to these guidelines, we ensure a unified, professional, and recognizable identity across all digital platforms, media, presentations, and open-source initiatives.
 
@@ -149,12 +149,24 @@ When creating marketing assets, graphics, or UI components for AOSSIE, follow th
 Below is the directory index providing clickable access to all local media assets available inside this repository.
 
 ### 📁 Root Media Directories
-- 📂 **[Brand/Media Assets](./Brand/Media%20Assets/)** — Primary repository media assets folder.
-- 📁 **[Project Icons](./Project%20Icons/)** — Project logos and icons for all AOSSIE sub-projects.
+- 📂 **[Brand/Media Assets](./Brand/Media%20Assets/)** - Primary repository media assets folder.
+- 📁 **[Project Icons SVGs](./Brand/Media%20Assets/Project%20Icons%20SVGs/)** - Project logos and icons for all AOSSIE sub-projects.
+- 📁 **[AOSSIE Intro Video](./Brand/Media%20Assets/AOSSIE%20Intro%20Video)** - The official intro video for AOSSIE provided in Original, 1080p, 720p and gif.
 
 ---
 
-### 🧳 A. Merchandise & Bag Assets
+### 🚀 A. AOSSIE Intro Video
+**Directory Path**: [`Brand/Media Assets/AOSSIE Intro Video`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video)
+
+| Asset Name | Format | Direct Link | Description |
+| :--- | :--- | :--- | :--- |
+| **intro_original** | MP4 | [`intro_original.mp4`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_original.mp4) | Highest Quality Intro Video (Preferred) |
+| **intro_1080p** | MP4 | [`intro_1080p.mp4`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_1080p.mp4) | 1080p Quality Intro Video |
+| **intro_720p** | MP4 | [`intro_720p.mp4`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_720p.mp4) | 720p Quality Intro Video  |
+| **intro_gif** | GIF | [`intro_gif.gif`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_gif.gif) | GIF Intro Video  |
+---
+
+### 🧳 B. Merchandise & Bag Assets
 **Directory Path**: [`Brand/Media Assets/Bag`](./Brand/Media%20Assets/Bag/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -166,7 +178,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 🚩 B. Social Media Banners
+### 🚩 C. Social Media Banners
 **Directory Path**: [`Brand/Media Assets/Banner`](./Brand/Media%20Assets/Banner/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -177,7 +189,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 📹 C. Virtual Meeting Backdrops
+### 📹 D. Virtual Meeting Backdrops
 **Directory Path**: [`Brand/Media Assets/Meeting Backdrops`](./Brand/Media%20Assets/Meeting%20Backdrops/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -189,7 +201,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 🎴 D. Organization Cards
+### 🎴 E. Organization Cards
 **Directory Path**: [`Brand/Media Assets/Organization Card`](./Brand/Media%20Assets/Organization%20Card/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -203,7 +215,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 📱 E. Social Media Post Templates
+### 📱 F. Social Media Post Templates
 **Directory Path**: [`Brand/Media Assets/Social Media Posts`](./Brand/Media%20Assets/Social%20Media%20Posts/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -214,7 +226,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 🏷️ F. Swags & Stickers
+### 🏷️ G. Swags & Stickers
 **Directory Path**: [`Brand/Media Assets/Swags`](./Brand/Media%20Assets/Swags/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -230,7 +242,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 🛠️ G. Useful Assets & Badges
+### 🛠️ H. Useful Assets & Badges
 **Directory Path**: [`Brand/Media Assets/Useful Assets`](./Brand/Media%20Assets/Useful%20Assets/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -243,26 +255,26 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 🎨 H. Project Logos & Icons
-**Directories**: [`Project Icons/PNGs`](./Project%20Icons/PNGs/) | [`Project Icons/SVGs`](./Project%20Icons/SVGs/)
+### 🎨 I. Project Logos & Icons
+**Directories**: [`Project Icons PNGs`](./Brand/Media%20Assets/Project%20Icons%20PNGs/) | [`Project Icons SVGs`](./Brand/Media%20Assets/Project%20Icons%20SVGs/)
 
 | Project Name | PNG Asset | SVG Asset |
 | :--- | :--- | :--- |
-| **AOSSIE Logo (Default)** | [`aossie_logo.png`](./Project%20Icons/PNGs/aossie_logo.png) | [`aossie_logo.svg`](./Project%20Icons/SVGs/aossie_logo.svg) |
-| **AOSSIE Dark Logo** | [`aossie_dark_logo.png`](./Project%20Icons/PNGs/aossie_dark_logo.png) | [`aossie_dark_logo.svg`](./Project%20Icons/SVGs/aossie_dark_logo.svg) |
-| **AOSSIE Light Logo** | [`aossie_light_logo.png`](./Project%20Icons/PNGs/aossie_light_logo.png) | [`aossie_light_logo.svg`](./Project%20Icons/SVGs/aossie_light_logo.svg) |
-| **AOSSIE Logomark** | [`aossie_logomark.png`](./Project%20Icons/PNGs/aossie_logomark.png) | [`aossie_logomark.svg`](./Project%20Icons/SVGs/aossie_logomark.svg) |
-| **Secondary Logo** | [`aossie_secondary_logo.png`](./Project%20Icons/PNGs/aossie_secondary_logo.png) | [`aossie_secondary_logo.svg`](./Project%20Icons/SVGs/aossie_secondary_logo.svg) |
-| **DIT Logo** | [`dit_logo.png`](./Project%20Icons/PNGs/dit_logo.png) | [`dit_logo.svg`](./Project%20Icons/SVGs/dit_logo.svg) |
-| **Djed Alliance Logo** | [`djed_alliance_logo.png`](./Project%20Icons/PNGs/djed_alliance_logo.png) | [`djed_alliance_logo.svg`](./Project%20Icons/SVGs/djed_alliance_logo.svg) |
-| **FATE Logo** | [`fate_logo.png`](./Project%20Icons/PNGs/fate_logo.png) | [`fate_logo.svg`](./Project%20Icons/SVGs/fate_logo.svg) |
-| **PictoPy Logo** | [`pictopy_logo.png`](./Project%20Icons/PNGs/pictopy_logo.png) | [`pictopy_logo.svg`](./Project%20Icons/SVGs/pictopy_logo.svg) |
-| **Resonate Logo** | [`resonate_logo.png`](./Project%20Icons/PNGs/resonate_logo.png) | [`resonate_logo.svg`](./Project%20Icons/SVGs/resonate_logo.svg) |
-| **Skills Logo** | [`skills_logo.png`](./Project%20Icons/PNGs/skills_logo.png) | [`skills_logo.svg`](./Project%20Icons/SVGs/skills_logo.svg) |
-| **Stability Nexus Logo** | [`stability_nexus_logo.png`](./Project%20Icons/PNGs/stability_nexus_logo.png) | [`stability_nexus_logo.svg`](./Project%20Icons/SVGs/stability_nexus_logo.svg) |
-| **StablePay Logo** | [`stablepay_logo.png`](./Project%20Icons/PNGs/stablepay_logo.png) | [`stablepay_logo.svg`](./Project%20Icons/SVGs/stablepay_logo.svg) |
-| **TNT Logo** | [`tnt_logo.png`](./Project%20Icons/PNGs/tnt_logo.png) | [`tnt_logo.svg`](./Project%20Icons/SVGs/tnt_logo.svg) |
-| **Zplit Logo** | [`zplit_logo.png`](./Project%20Icons/PNGs/zplit_logo.png) | [`zplit_logo.svg`](./Project%20Icons/SVGs/zplit_logo.svg) |
+| **AOSSIE Logo (Default)** | [`aossie_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/aossie_logo.png) | [`aossie_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/aossie_logo.svg) |
+| **AOSSIE Dark Logo** | [`aossie_dark_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/aossie_dark_logo.png) | [`aossie_dark_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/aossie_dark_logo.svg) |
+| **AOSSIE Light Logo** | [`aossie_light_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/aossie_light_logo.png) | [`aossie_light_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/aossie_light_logo.svg) |
+| **AOSSIE Logomark** | [`aossie_logomark.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/aossie_logomark.png) | [`aossie_logomark.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/aossie_logomark.svg) |
+| **Secondary Logo** | [`aossie_secondary_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/aossie_secondary_logo.png) | [`aossie_secondary_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/aossie_secondary_logo.svg) |
+| **DIT Logo** | [`dit_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/dit_logo.png) | [`dit_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/dit_logo.svg) |
+| **Djed Alliance Logo** | [`djed_alliance_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/djed_alliance_logo.png) | [`djed_alliance_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/djed_alliance_logo.svg) |
+| **FATE Logo** | [`fate_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/fate_logo.png) | [`fate_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/fate_logo.svg) |
+| **PictoPy Logo** | [`pictopy_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/pictopy_logo.png) | [`pictopy_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/pictopy_logo.svg) |
+| **Resonate Logo** | [`resonate_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/resonate_logo.png) | [`resonate_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/resonate_logo.svg) |
+| **Skills Logo** | [`skills_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/skills_logo.png) | [`skills_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/skills_logo.svg) |
+| **Stability Nexus Logo** | [`stability_nexus_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/stability_nexus_logo.png) | [`stability_nexus_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/stability_nexus_logo.svg) |
+| **StablePay Logo** | [`stablepay_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/stablepay_logo.png) | [`stablepay_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/stablepay_logo.svg) |
+| **TNT Logo** | [`tnt_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/tnt_logo.png) | [`tnt_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/tnt_logo.svg) |
+| **Zplit Logo** | [`zplit_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/zplit_logo.png) | [`zplit_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/zplit_logo.svg) |
 
 ---
 
@@ -271,6 +283,6 @@ Below is the directory index providing clickable access to all local media asset
 - [ ] Check the [AOSSIE Brand Kit Figma](https://www.figma.com/design/ywJ3jFa67bdQsN5XczrHy3/AOSSIE-s-Brand-Kit?node-id=0-1&t=ZhcV3uSoGJkrObo0-1) for live updates.
 - [ ] Use **Golden Wallet** (`#FFCD00`) and **Baggy Green** (`#00843D`) as core brand colors.
 - [ ] Use **Inter** as the default typeface.
-- [ ] Download vector SVGs directly from the [Logos Hub Figma](https://www.figma.com/design/cQCpSQv0M6FAc62ncunx8s/Logos?node-id=0-1&t=8pZG0veAJXDpYwI0-1) or [Project Icons/SVGs](./Project%20Icons/SVGs/).
+- [ ] Download vector SVGs directly from the [Logos Hub Figma](https://www.figma.com/design/cQCpSQv0M6FAc62ncunx8s/Logos?node-id=0-1&t=8pZG0veAJXDpYwI0-1) or [Project Icons/SVGs](./Brand/Media%20Assets/Project%20Icons%20SVGs/).
 - [ ] Access local media assets directly from [Brand/Media Assets](./Brand/Media%20Assets/).
 - [ ] Refer to [Drafts and BackUps Figma](https://www.figma.com/design/t0XXc7r3lTO3Y2m8HnU1Vv/Drafts-and-BackUps?node-id=0-1&t=CGmXm2dMtpXWMG89-1) for raw components and WIP templates.
