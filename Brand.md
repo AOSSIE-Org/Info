@@ -11,7 +11,7 @@
 
 ## 📖 1. Introduction
 
-Welcome to the **AOSSIE Brand Kit Guidelines**. This guide is designed for everyone in the AOSSIE community — contributors, collaborators, builders, event organizers, and curious minds who want to understand and apply the AOSSIE brand with consistency, clarity, and care.
+Welcome to the **AOSSIE Brand Kit Guidelines**. This guide is designed for everyone in the AOSSIE community - contributors, collaborators, builders, event organizers, and curious minds who want to understand and apply the AOSSIE brand with consistency, clarity, and care.
 
 By sticking to these guidelines, we ensure a unified, professional, and recognizable identity across all digital platforms, media, presentations, and open-source initiatives.
 
@@ -149,12 +149,24 @@ When creating marketing assets, graphics, or UI components for AOSSIE, follow th
 Below is the directory index providing clickable access to all local media assets available inside this repository.
 
 ### 📁 Root Media Directories
-- 📂 **[Brand/Media Assets](./Brand/Media%20Assets/)** — Primary repository media assets folder.
-- 📁 **[Project Icons](./Project%20Icons/)** — Project logos and icons for all AOSSIE sub-projects.
+- 📂 **[Brand/Media Assets](./Brand/Media%20Assets/)** - Primary repository media assets folder.
+- 📁 **[Project Icons SVGs](./Brand/Media%20Assets/Project%20Icons%20SVGs/)** - Project logos and icons for all AOSSIE sub-projects.
+- 📁 **[AOSSIE Intro Video](./Brand/Media%20Assets/AOSSIE%20Intro%20Video)** - The official intro video for AOSSIE provided in Original, 1080p, 720p and gif.
 
 ---
 
-### 🧳 A. Merchandise & Bag Assets
+### 🚀 A. AOSSIE Intro Video
+**Directory Path**: [`Brand/Media Assets/AOSSIE Intro Video`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video)
+
+| Asset Name | Format | Direct Link | Description |
+| :--- | :--- | :--- | :--- |
+| **intro_original** | MP4 | [`intro_original.svg`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_original.mp4) | Highest Quality Intro Video (Preferred) |
+| **intro_1080p** | MP4 | [`intro_1080p.png`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_1080p.mp4) | 1080p Quality Intro Video |
+| **intro_720p** | MP4 | [`intro_720p.png`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_720p.mp4) | 720p Quality Intro Video  |
+| **intro_gif** | GIF | [`intro_gif.png`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_gif.gif) | GIF Intro Video  |
+---
+
+### 🧳 B. Merchandise & Bag Assets
 **Directory Path**: [`Brand/Media Assets/Bag`](./Brand/Media%20Assets/Bag/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -166,7 +178,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 🚩 B. Social Media Banners
+### 🚩 C. Social Media Banners
 **Directory Path**: [`Brand/Media Assets/Banner`](./Brand/Media%20Assets/Banner/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -177,7 +189,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 📹 C. Virtual Meeting Backdrops
+### 📹 D. Virtual Meeting Backdrops
 **Directory Path**: [`Brand/Media Assets/Meeting Backdrops`](./Brand/Media%20Assets/Meeting%20Backdrops/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -189,7 +201,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 🎴 D. Organization Cards
+### 🎴 E. Organization Cards
 **Directory Path**: [`Brand/Media Assets/Organization Card`](./Brand/Media%20Assets/Organization%20Card/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -203,7 +215,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 📱 E. Social Media Post Templates
+### 📱 F. Social Media Post Templates
 **Directory Path**: [`Brand/Media Assets/Social Media Posts`](./Brand/Media%20Assets/Social%20Media%20Posts/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -214,7 +226,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 🏷️ F. Swags & Stickers
+### 🏷️ G. Swags & Stickers
 **Directory Path**: [`Brand/Media Assets/Swags`](./Brand/Media%20Assets/Swags/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -230,7 +242,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 🛠️ G. Useful Assets & Badges
+### 🛠️ H. Useful Assets & Badges
 **Directory Path**: [`Brand/Media Assets/Useful Assets`](./Brand/Media%20Assets/Useful%20Assets/)
 
 | Asset Name | Format | Direct Link | Description |
@@ -243,7 +255,7 @@ Below is the directory index providing clickable access to all local media asset
 
 ---
 
-### 🎨 H. Project Logos & Icons
+### 🎨 I. Project Logos & Icons
 **Directories**: [`Project Icons/PNGs`](./Project%20Icons/PNGs/) | [`Project Icons/SVGs`](./Project%20Icons/SVGs/)
 
 | Project Name | PNG Asset | SVG Asset |

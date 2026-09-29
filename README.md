@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://aossie.org">
-    <img src="https://aossie.org/logo1.png" alt="AOSSIE Logo" width="200"/>
+    <img src="./Brand/Media Assets/Project Icons SVGs/aossie_logo.svg" alt="AOSSIE Logo" width="200"/>
   </a>
 </p>
 
