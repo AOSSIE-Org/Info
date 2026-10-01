@@ -91,7 +91,7 @@ Regardless of whether you are producing a Teaser or an Explainer, all official c
 
 1. **Official AOSSIE Intro & Outro**: Every video must prepend the official 2–3 second AOSSIE intro bumper and append the official closing call-to-action end card.
 2. **Duration Budget Includes Bumpers**: The maximum limits (**60s for Teasers**, **120s for Explainers**) apply to the **final exported video** including intro and outro bumpers.
-3. **Strict Copyright Compliance**: Never use commercial music, popular songs, or unverified audio tracks. Always use verified copyright-free / royalty-free sources (e.g., YouTube Audio Library, Pixabay Music).
+3. **Strict Copyright Compliance**: Use only tracks whose licences permit the intended distribution. Check and follow each track's licence terms, including any attribution requirements.
 4. **Watermark-Free**: Videos must not contain third-party editor watermarks upon final submission.
 5. **Technical Export Standards**:
    * Resolution: Full HD `1920x1080` (16:9 widescreen).
