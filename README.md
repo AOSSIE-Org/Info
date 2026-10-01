@@ -63,6 +63,7 @@ Note that:
 * **Guides:**
   * [Local AI Setup](./Guides/Local-AI-Setup.md): setup local agentic coding environment using VS Code and Ollama.
   * [PNG to SVG Logo Conversion & Vector Guidelines](./Guides/PNG-to-SVG-Conversion-Guide.md): guidelines and best practices for creating and converting PNG logos into optimized SVGs.
+  * [Project Video Production Guides](./Brand/Media%20Assets/AOSSIE%20Project%20Video%20Guide/Videos.md): guidelines and best practices for producing project Teaser and Explainer videos.
 
 
 
