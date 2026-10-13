@@ -164,6 +164,8 @@ Below is the directory index providing clickable access to all local media asset
 | **intro_1080p** | MP4 | [`intro_1080p.mp4`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_1080p.mp4) | 1080p Quality Intro Video |
 | **intro_720p** | MP4 | [`intro_720p.mp4`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_720p.mp4) | 720p Quality Intro Video  |
 | **intro_gif** | GIF | [`intro_gif.gif`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_gif.gif) | GIF Intro Video  |
+
+> Refer to the [Project Video Production Guides](./Guides/Videos.md) for step-by-step instructions on creating project Teaser and Explainer videos using official AOSSIE assets.
 ---
 
 ### 🧳 B. Merchandise & Bag Assets
