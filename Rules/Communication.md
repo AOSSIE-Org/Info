@@ -9,7 +9,7 @@
 * Communication through DMs should be avoided, unless in cases that require privacy.
 
 * Communication through DMs between mentors and prospective candidates for funding programs (e.g. GSoC) is strictly forbidden, to avoid biases and conflicts of interest in the selection.
-    * If you are a mentor and you are contacted by a prospective candidate privately, please instruct them to contact you through one of our official communication channels.
+    * If you are a mentor and you are contacted by a prospective candidate privately, please either ignore the contact or instruct them to contact you through one of our official communication channels.
     * We recommend that you update your personal privacy settings in Discord to forbid DMs.
     * Violation of this rule may lead to ineligibility of the prospective candidate.
  
