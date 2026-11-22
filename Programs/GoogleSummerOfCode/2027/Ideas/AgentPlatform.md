@@ -1,6 +1,6 @@
 # Agent Platform: Reusable Chatbots for Projects and Communities
 
-> **Required, living specification:** [Agent platform (chatbot.md)](https://github.com/imxade/idea-proposals/blob/master/ideas/chatbot.md). This is the source of truth for the current architecture, technical stack, platform behavior, deployment and acceptance requirements. Read it before implementation and revisit it as it changes. This idea describes the vision and contributor expectations, not a second technical specification.
+> **Required, living specification:** [Agent platform](https://github.com/imxade/idea-proposals/blob/master/ideas/chatbot.md). This is the source of truth for the current architecture, technical stack, platform behavior, deployment and acceptance requirements. Read it before implementation and revisit it as it changes. This idea describes the vision and contributor expectations, not a second technical specification.
 
 ## Background and Motivation
 
