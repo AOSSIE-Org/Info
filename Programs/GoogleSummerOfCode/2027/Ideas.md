@@ -43,6 +43,15 @@ The skillset needed in each idea is shown in brackets.
 
 **Ideas:**
   - [TODO](TODO.md) _{AI}_ _{Web}_
+  - [Agent Platform: Reusable Chatbots for Projects and Communities](Ideas/AgentPlatform.md) _{AI}_ _{Web}_ _{Bots}_
+
+
+### Theme: Creator Tools and Live Media
+
+**Theme goal:** Make professional live broadcasting and creator tools accessible across desktop and mobile without cloud media relays.
+
+**Ideas:**
+  - [OGH: Local-First Live Streaming for Mobile and Desktop](Ideas/Ogh.md) _{Mobile}_ _{Desktop}_ _{Cloud}_ _{Streaming}_
 
 
 ### Theme: Education
