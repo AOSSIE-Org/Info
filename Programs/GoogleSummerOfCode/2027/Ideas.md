@@ -46,6 +46,13 @@ The skillset needed in each idea is shown in brackets.
   - [Agent Platform: Reusable Chatbots for Projects and Communities](Ideas/AgentPlatform.md) _{AI}_ _{Web}_ _{Bots}_
 
 
+### Theme: Developer Tools and Infrastructure
+
+**Theme goal:** Make code collaboration, automated testing and deployment practical for real production projects.
+
+**Ideas:**
+  - [Harbur: Production-Grade Collaboration and Self-Hosted CI/CD](Ideas/Harbur.md) _{Web}_ _{Cloud}_ _{DevOps}_
+
 ### Theme: Creator Tools and Live Media
 
 **Theme goal:** Make professional live broadcasting and creator tools accessible across desktop and mobile without cloud media relays.
