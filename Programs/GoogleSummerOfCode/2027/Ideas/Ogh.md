@@ -41,7 +41,6 @@ Explain **why, what and how** you built the project. Describe what already works
 
 - [OGH repository and issues](https://github.com/AOSSIE-Org/Ogh)
 - [Cloud interface and feature exploration](https://github.com/AOSSIE-Org/Ogh/issues/25)
-- [Full product proposal (reference with non-final implementation details)](https://github.com/imxade/projects_idea/blob/master/ogh.md)
 
 ## Mentors
 
