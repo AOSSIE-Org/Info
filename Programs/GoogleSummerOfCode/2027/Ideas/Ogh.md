@@ -13,29 +13,31 @@ The linked issues define the scope in more detail. Contributors should consider 
 - **Unified chat:** [assess cross-platform chat](https://github.com/AOSSIE-Org/Ogh/issues/26). Implement locally only if the agreed platforms can be reliably supported on-device, otherwise use the cloud interface.
 - **Cloud and exploration:** [design the provider-neutral interface and build a self-hosted reference service](https://github.com/AOSSIE-Org/Ogh/issues/25). Explore both providers that **implement features** and those that **supply compute/storage resources**, without deciding the architecture beforehand. Investigate platform APIs, restrictions and cloud-dependent features such as moderation, bots, analytics, captions/translation, AI summaries/clips, VTubing, archives and notifications. Explain feasibility, local/cloud placement and trade-offs.
 
-## What You Need to Do During GSoC's Application Phase
+## Pre-Evaluation Requirements (Before Proposal Submission)
 
-Build and demonstrate a **working MVP**, not just a design or a mocked interface:
+Build and demonstrate **working software**, not an architecture-only plan or mockup. The amount completed is **open-ended within OGH's vision and linked issues**. Complete as much of that defined scope as possible, including the full project if feasible. Do not leave features unfinished merely to reserve them for GSoC, and do not expand into unrelated product goals.
 
-1. Prepare **one private GitHub repository** containing the OGH application and the **separately runnable, self-hosted cloud-service project**, with concise build and deployment instructions.
-2. Deliver working **Android, Windows and Linux clients**. Provide an Android APK and Windows/Linux executables produced as **GitHub Actions artifacts**, following the existing build approach.
-3. Demonstrate **real video/audio multistreaming to multiple destinations** and deploy the cloud service on a machine/server. From OGH, open the provider connection, visit its site, sign in/sign up, authorize, return through the callback, discover and enable account capabilities, and **use the implemented cloud features during a live stream**. See [desktop #17](https://github.com/AOSSIE-Org/Ogh/issues/17), [Windows #20](https://github.com/AOSSIE-Org/Ogh/issues/20), [Linux #21](https://github.com/AOSSIE-Org/Ogh/issues/21) and [cloud #25](https://github.com/AOSSIE-Org/Ogh/issues/25).
-4. Record **one clear, narrated walkthrough video** showing Android, Windows and Linux in use, actual live streaming, cloud-server startup/deployment, connection and authorization, and working feature usage rather than simulated screens.
-5. **When submitting the GSoC proposal (not before), invite [@imxade](https://github.com/imxade) as a collaborator** to the private repository. Include its link and the single video link in your proposal.
+1. Deliver working **Android, Windows and Linux clients**. Provide an Android APK and Windows and Linux executables produced as **GitHub Actions artifacts**, following the existing build approach.
+2. Demonstrate **real video and audio multistreaming to multiple destinations** and deploy the separately runnable, self-hosted cloud service on a machine or server. From OGH, open the provider connection, visit its site, sign in or sign up, authorize, return through the callback, discover and enable account capabilities, and **use the implemented cloud features during a live stream**. See [desktop #17](https://github.com/AOSSIE-Org/Ogh/issues/17), [Windows #20](https://github.com/AOSSIE-Org/Ogh/issues/20), [Linux #21](https://github.com/AOSSIE-Org/Ogh/issues/21) and [cloud #25](https://github.com/AOSSIE-Org/Ogh/issues/25).
 
-The MVP is a **minimum, not a limit**. You may complete additional issues, or even the full scope, before applying.
+**Showcase video:** Record one clear, narrated video showing Android, Windows and Linux in use, actual live streaming, the cloud server starting and deploying, connection and authorization, and working cloud features. Show other completed features as well, with real product behavior rather than simulated screens. Protect credentials.
 
-### Requirements and Selection Criteria
+**Repository and submission:** Develop the OGH application and **separately runnable, self-hosted cloud-service project** in **one private GitHub repository** with build, deployment and testing instructions. **You do not need to share repository access before the proposal submission period begins.** When submitting your proposal, invite [@imxade](https://github.com/imxade) as a collaborator and include the private repository link and showcase video link.
+
+**Progress sharing:** You may share short progress videos or tutorials in the project Discord channel while working.
+
+## Requirements and Selection Criteria
+
 
 - **Ownership and autonomy:** understand OGH's vision, take responsibility for the whole product experience, make well-reasoned decisions, work independently and communicate blockers early.
 - **Quality and maintainability:** do not settle for code that merely “works once.” Prioritize clear architecture, careful implementation, usability and UI/UX details. Be able to explain what you built, why it works and its limitations.
 - **Verification at each milestone:** test progressively, including real encoded output, permissions, device/platform behaviour, error paths, security and cleanup. Keep builds reproducible and CI meaningful. See [RTMP tests #16](https://github.com/AOSSIE-Org/Ogh/issues/16) and [cross-platform QA #29](https://github.com/AOSSIE-Org/Ogh/issues/29). Clearly disclose checks you could not run.
-- **Progress communication:** regularly record short demos or tutorials showing features, usage and test results, in addition to the required proposal video.
+- **Progress communication:** communicate implementation progress, test results and blockers clearly throughout development.
 - **Thoughtful exploration:** investigate and try feasible approaches before choosing cloud features or interfaces. AI assistance is acceptable, but understanding, validation and long-term maintainability remain your responsibility.
 
 ## What You Need to Do in Your Proposal
 
-Explain **why, what and how** you built the project. Describe what already works, your exploration findings and architectural choices, what remains, and a realistic, testable milestone plan for the coding period. If you have progressed beyond the MVP, describe the additional work and how you would use the remaining GSoC period. Include the private repository link, narrated demonstration video and build/deployment instructions.
+Explain **why, what and how** you built the project. Describe what already works, your exploration findings and architectural choices, tests performed, what remains, and a realistic, testable milestone plan for the coding period. If much or all of the defined scope is already complete, describe meaningful remaining work **within OGH's vision and linked issues**.
 
 ## Resources
 

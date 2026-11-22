@@ -13,19 +13,22 @@ We want a reusable platform where people can create and configure their own bots
 - Handle **multiple eligible provider/staff destinations** without misrouting or leaking conversations, and **zero available provider destinations** without inventing an escalation, recipient or promised response. The bot should answer what it can from authorized context and clearly disclose what it cannot verify.
 - Make the application useful beyond this example. Additional capabilities should be accessed through documented **external APIs and bot instructions**, not specialized built-in integrations such as a GitHub repository reader. Reuse existing platform/runtime capabilities rather than duplicate them.
 
-## What You Need to Do During GSoC's Application Phase
+## Pre-Evaluation Requirements (Before Proposal Submission)
 
-Deliver a **working, independently deployable minimum MVP** using and validating the technology stack and Kubernetes deployment requirements in the [living specification](https://github.com/imxade/idea-proposals/blob/master/ideas/chatbot.md). It is an application to run and use, not a mockup or an architecture-only proposal.
+Build and demonstrate a **working, independently deployable application** using the technology stack and Kubernetes deployment requirements in the [living specification](https://github.com/imxade/idea-proposals/blob/master/ideas/chatbot.md). The amount completed is **open-ended within that specification and the vision above**. Implement as much of the defined scope as possible, including the full project if feasible. Do not stop at an artificial minimum, leave working features unfinished for GSoC, or add unrelated features. The result must be usable software, not a mockup or architecture-only proposal.
 
-1. Deploy the complete application, then create and configure a real logical bot through its dashboard, including instructions/context and authorized channel connections.
-2. Connect and exercise that bot on **both Discord and WhatsApp Business** with real messages. Show a requester interacting with the bot, an eligible provider/maintainer receiving a question and replying, and the response reaching the requester. Demonstrate provider-initiated communication where the connected platform permits it.
-3. Test the same interaction with **multiple provider routes** and with **no eligible provider route**. Verify correct routing, isolation and truthful no-handoff behavior, including failed or unavailable routes. Do not claim that unsupported WhatsApp groups or unsolicited messaging work.
-4. Change bot configuration and demonstrate the resulting behavior. Verify durable conversations, authorization boundaries, error handling and recovery appropriate to the minimum baseline. Do not add task-specific GitHub readers or other bespoke tools merely for the demonstration.
-5. Record **one comprehensive, clearly explained video** of the actual working product: bot creation/configuration, Discord and WhatsApp interactions in both directions, the multiple-provider and zero-provider cases, configuration changes, and the other completed features. Show observable results from the product itself, not simulated responses or unrelated tooling. Protect credentials and private conversations.
+1. Deploy the application, then create and configure a real logical bot through its dashboard, including instructions, context and authorized channel connections.
+2. Exercise **both Discord and WhatsApp Business** with real messages. Show a requester interacting with the bot, an eligible provider or maintainer receiving a handoff and replying, and the response reaching the requester. Demonstrate provider-initiated communication where the connected platform permits it.
+3. Test multiple eligible provider routes and no eligible provider route, including failed or unavailable destinations. Verify correct routing, isolation and truthful no-handoff behavior. Do not claim that unsupported WhatsApp groups or unsolicited messaging work.
+4. Change bot configuration and demonstrate the resulting behavior. Verify durable conversations, authorization boundaries, error handling and recovery. Do not add task-specific GitHub readers or other bespoke tools merely for the demonstration.
 
-Creating external Discord/WhatsApp accounts and bot identities, completing provider onboarding, and granting server/group access for testing are responsibilities shared by the contributor and the relevant account/server owners. They are **not additional product features**. The platform still needs its own account, bot and connection-management functionality specified in the technical document.
+Creating external Discord and WhatsApp accounts, completing provider onboarding, and granting server or group access for testing involve the relevant account owners. These are **not additional product features**. The application still needs its own account, bot and connection-management functionality from the specification.
 
-The minimum MVP is **a floor, not a ceiling**. You may implement the full specification before submitting a proposal. Do not intentionally leave working features unfinished to reserve them for GSoC. **If ready early, we may start using this project for our own Discord bot to support contributors even before the GSoC period begins.**
+**Showcase video:** Record one comprehensive, clearly explained video of the **actual implemented product**. Show bot creation and configuration, two-way Discord and WhatsApp interactions, multiple-provider and zero-provider cases, configuration changes, and other completed functionality. Show observable results rather than simulated responses or unrelated tooling. Protect credentials and private conversations.
+
+**Repository and submission:** Develop in **one private GitHub repository** with setup, deployment and testing instructions. **You do not need to share repository access before the proposal submission period begins.** When submitting your proposal, invite [@imxade](https://github.com/imxade) as a collaborator and include the private repository link and showcase video link.
+
+**Progress sharing:** You may share short progress videos in the project Discord channel while working. If ready early, the platform may be used for an AOSSIE Discord bot before the GSoC period begins.
 
 ## Requirements and Selection Criteria
 
@@ -33,13 +36,11 @@ The minimum MVP is **a floor, not a ceiling**. You may implement the full specif
 - **Correctness and quality:** Build maintainable, secure, usable software. Prefer integrating existing components over duplicating them. Avoid dead code, unnecessary abstractions and one-off demo hacks. Details and real user experience matter more than the volume of generated code.
 - **Validate every milestone:** Test each meaningful change and integration as it is built, including real platform behavior, configuration, tenant/bot isolation, failures and recovery. Keep evidence of tests and clearly report unsupported behavior.
 - **Use AI deliberately:** Tools such as ChatGPT can review changes, compare implementation against the specification and clarify design questions, but you remain responsible for understanding and verifying the result. When requesting technical guidance, share the [live specification](https://github.com/imxade/idea-proposals/blob/master/ideas/chatbot.md) so discussion is grounded in its latest requirements. Bring unresolved questions to the mentor discussion rather than guessing.
-- **Communicate progress:** Share regular concise updates and short working demonstration videos throughout development, in addition to the required single comprehensive proposal video.
+- **Communicate progress:** Share concise updates, raise unresolved questions and explain completed work as development progresses.
 
 ## What You Need to Do in Your Proposal
 
-Explain the product's **why, what and how**, what you have actually implemented and tested, the important architectural choices and trade-offs, remaining risks, and a concrete, testable plan for anything still to be completed. If you exceed the minimum MVP or finish the full project before GSoC, describe that progress and propose meaningful further work instead of withholding features.
-
-Develop in **one private GitHub repository** with clear setup, deployment and testing instructions. **When submitting your GSoC proposal, invite [@imxade](https://github.com/imxade) as a collaborator** and provide the private repository link, the comprehensive demonstration video link and the proposal itself. The video and repository are the primary evidence of working functionality. The proposal should make your decisions and verification easy to assess.
+Explain the product's **why, what and how**, what you have actually implemented and tested, the important architectural choices and trade-offs, remaining risks, and a concrete, testable plan for anything still to be completed. If much or all of the defined scope is complete before GSoC, describe that progress and propose meaningful further work **within the linked specification and this idea's vision**. Make your decisions and verification easy to assess.
 
 ## Resources
 

@@ -10,7 +10,7 @@ Harbur already has a working external deployment integration. [Nix Ship](https:/
 
 ## Overview of Tasks
 
-This is an **open-ended production-adoption project**, not a limited checklist or an attempt to reproduce GitHub feature for feature. Start with actual user needs and the existing Harbur code. The following areas establish the direction and may be expanded as useful requirements are discovered.
+This is an **open-ended production-adoption project within the scope described here**, not a limited checklist or an attempt to reproduce GitHub feature for feature. Start with actual user needs and the existing Harbur code. Explore additional requirements only when they directly advance this production-readiness vision.
 
 - **Early platform outreach and integration research.** Contact relevant deployment, cloud and CI providers **before finalizing the detailed project proposal**. Explore Vercel, Netlify, AWS, Azure, GCP and other appropriate services. Ask whether they would support Harbur, what integration route they recommend, which changes to APIs, authentication, events, source metadata or deployment flows they require, and whether technical support, CI resources or credits are available. Record actual responses, unanswered inquiries and requested changes in the proposal. Use verified feedback to guide subsequent work and return to providers to validate implemented integrations, without inventing interest or waiting until implementation is complete.
 - **Unified platform APIs.** Expose the same operations available in the UI through documented general-purpose APIs, including identity and access, workspace and repository management, file and snapshot upload/download, issues, discussions, PR diffs/reviews/merges, team settings, activity, CI/CD, deployments, artifacts and releases. Support browser users, scripts, applications and automation through the same authorization rules. No AI-specific API or protocol is needed.
@@ -29,35 +29,35 @@ A project user should be able to upload a snapshot, review its current-base diff
 
 The result must feel like a **production-usable product**, not a collection of isolated prototypes. Preserve Harbur's simple collaboration model and ensure features work together end to end.
 
-## What You Need to Do During GSoC's Application Phase
+## Pre-Evaluation Requirements (Before Proposal Submission)
 
-Build and demonstrate a **working minimum MVP focused on the self-hosted CI/CD service and runners**, rather than a mockup or an architecture-only document.
+Build and demonstrate a **working, self-hosted CI/CD service connected to a Harbur instance and real runners**, rather than a mockup or architecture-only proposal. The amount completed is **open-ended within the production-readiness vision above**. Implement as much of that scope as possible, including the full project if feasible. The CI/CD demonstration is essential evidence of working software, not a limit on how much can be finished. Do not withhold features to reserve them for GSoC or pursue unrelated product goals.
 
-1. **Inspect and run Harbur**, and examine its current integration APIs and workflow conventions. Reach out to relevant platforms early, before settling the integration requirements. Include what was proposed, actual replies or pending status, requested changes and the resulting plan in your proposal.
-2. Build a **separately runnable, durable CI/CD service** and demonstrate the **one-time instance-level connection** to Harbur, including its configuration, authorization and successful connection verification. Connect at least one **self-hosted runner** and exercise a real repository workflow from `.github/workflows/`. A successful build and a deliberately failing run should produce meaningful statuses, logs and error output. Use a real execution path, not simulated job results.
-3. Demonstrate an **end-to-end pipeline** from a Harbur repository snapshot through the runner and back to the user. Show a real downloadable generated artifact. Implement and demonstrate any further capabilities already completed, such as deployment or CI-created releases, rather than reserving them artificially for later.
-4. Verify the essential authorization boundaries and basic recovery behavior of the service, including what happens when a job fails or the runner is unavailable. Supply reproducible setup and testing instructions.
-5. Record **one short MVP showcase video** showing the self-hosted CI/CD server running, **how it is configured and connected to the Harbur instance**, the instance-level connection verification, a connected runner, a real workflow executing, its results and logs, and a generated artifact being downloaded. Demonstrate the actual connection and product behavior rather than slides, fake data or mock responses. Protect credentials.
-6. Develop in **one private GitHub repository** with setup and testing instructions. **When submitting the GSoC proposal**, invite [@imxade](https://github.com/imxade) as a collaborator and include the private repository link and MVP showcase video.
+1. **Inspect and run Harbur**, examining its existing integration APIs and workflow conventions. **Contact relevant deployment, cloud and CI providers before submitting the proposal.** Document who was contacted, their actual replies or pending status, recommended integration paths, requested changes and how these findings shape project priorities. Do not assume a reply or commitment.
+2. Build a **separately runnable, durable CI/CD service**. Demonstrate its **one-time instance-level connection** to Harbur, including configuration, authorization and successful connection verification. Connect at least one **self-hosted runner** and execute a real repository workflow from `.github/workflows/`. Demonstrate both a successful build and a deliberately failing job, with accurate status, logs and errors rather than simulated results.
+3. Demonstrate a pipeline from a Harbur repository snapshot through the runner and back to the user, including a genuine downloadable generated artifact. Also show any further completed capabilities, such as CI-created releases or deployment.
+4. Verify essential authorization boundaries and recovery behavior, including job failure and runner unavailability. Provide reproducible setup and testing instructions.
 
-**The MVP is a floor, not a ceiling.** You may implement more of the production platform, including the full idea, before applying. Do not intentionally hold back useful working functionality to leave work for the GSoC period.
+**Showcase video:** Record one short video showing the self-hosted CI/CD server starting, **how it is configured and connected to the Harbur instance**, authorization and instance-level connection verification, runner connection, real workflow execution, results, logs and artifact download. Include other completed functionality where practical. Show the actual product, not slides, dummy data or mock responses. Protect credentials.
+
+**Repository and submission:** Develop in **one private GitHub repository** with setup, deployment and testing instructions. **You do not need to share repository access before the proposal submission period begins.** When submitting your proposal, invite [@imxade](https://github.com/imxade) as a collaborator and include the private repository link and showcase video link.
+
+**Progress sharing:** You may share short progress videos in the project Discord channel while working.
 
 ## Requirements and Selection Criteria
 
 - **Product ownership:** Understand Harbur's collaboration model and the reasons users choose mature alternatives. Explore genuine adoption gaps and make clear, defensible trade-offs rather than inventing problems or copying Git features.
 - **Working software:** Deliver an independently deployable CI/CD service with actual self-hosted runner execution and observable end-to-end results. Value quality, usability and correctness over a large amount of unverified code.
 - **Engineering quality:** Keep the main application stateless and the CI/CD service explicitly durable. Address least-privilege credentials, isolation of untrusted workflow code, error visibility, restart/retry behavior and realistic operating costs.
-- **Integration judgment:** Research external services early. Distinguish native provider support from an API adapter, and explain what providers actually requested. Lack of a provider reply must not be presented as support.
+- **Integration judgment:** **Early provider outreach is a pre-evaluation priority** because the findings should define substantial implementation work. Distinguish native support from an API adapter and explain requested changes. Evaluate the quality of outreach and technical planning, not the number of replies received. Never present a lack of response as support.
 - **Verification:** Test deterministic behavior, APIs, permissions, failures and recovery as work progresses. Prefer behavioral browser tests over brittle UI selectors. Use real test resources where needed and keep secrets out of source control.
 - **Communication and understanding:** Explain decisions and limitations, report progress and demonstrate working increments. AI tools may help with implementation or review, but understanding and verifying the results remains your responsibility.
 
 ## What You Need to Do in Your Proposal
 
-Explain the project's **why, what and how**, what you have already implemented and tested, the MVP showcase and deployment instructions, the user experience you aim to deliver, and a realistic plan for remaining production work. Include findings from early provider outreach, the **actual response or pending status for each platform**, any requested integration changes and how they affect the proposed design.
+Explain the project's **why, what and how**, what you have already implemented and tested, the intended user experience, deployment instructions, and a realistic plan for remaining production work. Include **early platform outreach findings**, each provider's actual response or pending status, requested integration changes, and how these define and prioritize implementation work.
 
-Describe the instance-wide CI/CD architecture, runner and workflow compatibility, artifact/release handling, API and storage plans, test evidence, constraints and trade-offs. If the MVP or larger scope is already complete, describe what additional meaningful improvements you would pursue instead of withholding features.
-
-Submit the **private GitHub repository link**, access for [@imxade](https://github.com/imxade), and the **short MVP showcase video link** with the proposal.
+Describe the instance-wide CI/CD architecture, runner and workflow compatibility, artifact/release handling, API and storage plans, test evidence, constraints and trade-offs. If much or all of the defined scope is complete, identify meaningful remaining improvements **within the production-readiness vision above**.
 
 ## Resources
 
