@@ -40,8 +40,6 @@ Build and demonstrate a **working, self-hosted CI/CD service connected to a Harb
 
 **Showcase video:** Record one short video showing the self-hosted CI/CD server starting, **how it is configured and connected to the Harbur instance**, authorization and instance-level connection verification, runner connection, real workflow execution, results, logs and artifact download. Include other completed functionality where practical. Show the actual product, not slides, dummy data or mock responses. Protect credentials.
 
-**Repository and submission:** Maintain a GitHub repository with setup, deployment and testing instructions. Follow AOSSIE's organization-wide guidelines for submitting the repository and any access requirements. Include the showcase video link with your proposal.
-
 **Progress sharing:** You may share short progress videos in the project Discord channel while working.
 
 ## Requirements and Selection Criteria

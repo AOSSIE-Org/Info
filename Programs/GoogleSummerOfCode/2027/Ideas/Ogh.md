@@ -22,8 +22,6 @@ Build and demonstrate **working software**, not an architecture-only plan or moc
 
 **Showcase video:** Record one clear, narrated video showing Android, Windows and Linux in use, actual live streaming, the cloud server starting and deploying, connection and authorization, and working cloud features. Show other completed features as well, with real product behavior rather than simulated screens. Protect credentials.
 
-**Repository and submission:** Maintain a GitHub repository for the OGH application and **separately runnable, self-hosted cloud-service project**, with build, deployment and testing instructions. Follow AOSSIE's organization-wide guidelines for submitting the repository and any access requirements. Include the showcase video link with your proposal.
-
 **Progress sharing:** You may share short progress videos or tutorials in the project Discord channel while working.
 
 ## Requirements and Selection Criteria

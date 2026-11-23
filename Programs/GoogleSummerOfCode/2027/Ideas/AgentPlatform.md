@@ -26,8 +26,6 @@ Creating external Discord and WhatsApp accounts, completing provider onboarding,
 
 **Showcase video:** Record one comprehensive, clearly explained video of the **actual implemented product**. Show bot creation and configuration, two-way Discord and WhatsApp interactions, multiple-provider and zero-provider cases, configuration changes, and other completed functionality. Show observable results rather than simulated responses or unrelated tooling. Protect credentials and private conversations.
 
-**Repository and submission:** Maintain a GitHub repository with setup, deployment and testing instructions. Follow AOSSIE's organization-wide guidelines for submitting the repository and any access requirements. Include the showcase video link with your proposal.
-
 **Progress sharing:** You may share short progress videos in the project Discord channel while working. If ready early, the platform may be used for an AOSSIE Discord bot before the GSoC period begins.
 
 ## Requirements and Selection Criteria
