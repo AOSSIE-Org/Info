@@ -26,7 +26,7 @@ The skillset needed in each idea is shown in brackets.
 **Theme goal:** research and develop open source money. 
 
 **Ideas:**
-  - [LLM-Powered Web Apps](LLMPoweredWebApps.md) _{Blockchain}_ _{Web}_
+  -  _{Blockchain}_ _{Web}_
 
 
 ### Theme: Decentralized Economic and Financial Stability
@@ -42,7 +42,7 @@ The skillset needed in each idea is shown in brackets.
 **Theme goal:** enable people to benefit from AI more easily.
 
 **Ideas:**
-  - [TODO](TODO.md) _{AI}_ _{Web}_
+  - [LLM-Powered Web Apps](Ideas/LLMPoweredWebApps.md) _{AI}_ _{Web}_
 
 
 ### Theme: Education
@@ -74,6 +74,7 @@ Org-wide ideas are ideas where a single contributor will contribute to many of o
 
 TODO: The links below are from GSoC 2026. We need to check whether some of tehm are still relevant for GSoC 2027.
 
+- [Security of Smart Contracts](Ideas/SecurityOfSmartContracts.md)
 - [DevOps](DevOps.md)
 - [Fundraising and Monetization](FundraisingMonetization.md)
 - [Redundancy and Choice for External Dependencies](Choice.md)
