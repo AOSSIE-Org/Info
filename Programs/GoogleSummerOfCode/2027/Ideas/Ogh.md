@@ -19,7 +19,7 @@ The linked issues define the scope in more detail. Contributors should consider 
 
 Contributors are strongly encouraged to contact streamers and streaming communities before finalizing their proposals. Ask about problems with current desktop and mobile streaming tools, missing features and requested improvements. Use genuine feedback to guide priorities for local production and cloud features.
 
-Keep screenshots or other evidence of outreach attempts and any replies. Responses are welcome but **not required**. If no one responds, briefly document the attempts made. Do not fabricate feedback or spam communities, and redact personal information where appropriate.
+Approach relevant, active streamers and communities with focused, individual questions rather than mass messages or spam. Keep screenshots of outreach attempts and any replies, showing the platform, date, and identifiable account or contact handles (such as recipient and sender email addresses or social usernames) where appropriate. Redact sensitive personal information while retaining enough context to verify the outreach. Responses are welcome but **not required**. If no one responds, briefly document the attempts made. Do not fabricate feedback.
 
 Build and demonstrate **working software**, not an architecture-only plan or mockup. The amount completed is **open-ended within OGH's vision and linked issues**. Complete as much of that defined scope as possible, including the full project if feasible. Do not leave features unfinished merely to reserve them for GSoC, and do not expand into unrelated product goals.
 
@@ -43,7 +43,7 @@ Build and demonstrate **working software**, not an architecture-only plan or moc
 
 Explain **why, what and how** you built the project. Describe what already works, your exploration findings and architectural choices, tests performed, what remains, and a realistic, testable milestone plan for the coding period. If much or all of the defined scope is already complete, describe meaningful remaining work **within OGH's vision and linked issues**.
 
-Include a brief account of early streamer or community outreach and **screenshots showing the outreach attempts**. Where replies were received, include screenshot evidence of the responses, key problems or feature requests, and how they influenced your proposal. If no replies were received, state that clearly. Outreach is preferred, not a requirement for receiving responses.
+Include a brief account of early streamer or community outreach with **screenshots of outreach attempts** identifying the relevant email or social accounts and platform, where appropriate. Where replies were received, include screenshots identifying the respondent, their feedback and how it influenced the proposal. Redact sensitive information as needed. If no replies were received, state that clearly. Outreach is preferred, and responses are not required.
 
 ## Resources
 
