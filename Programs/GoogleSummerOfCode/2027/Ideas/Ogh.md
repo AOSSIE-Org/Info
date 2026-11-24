@@ -15,11 +15,11 @@ The linked issues define the scope in more detail. Contributors should consider 
 
 ## Pre-Evaluation Requirements (Before Proposal Submission)
 
-### Early Streamer and Community Outreach (Preferred)
+### Early Streamer and Community Outreach
 
 Contributors are strongly encouraged to contact streamers and streaming communities before finalizing their proposals. Ask about problems with current desktop and mobile streaming tools, missing features and requested improvements. Use genuine feedback to guide priorities for local production and cloud features.
 
-Approach relevant, active streamers and communities with focused, individual questions rather than mass messages or spam. **Substantive response evidence is preferred, not required.** Useful responses identify concrete problems, requested features or actionable suggestions. Automated acknowledgments and vague replies such as "we will get back to you" are not meaningful feedback. No screenshots of outreach attempts are needed.
+Approach relevant, active streamers and communities with focused, individual questions rather than mass messages or spam. Receiving responses is not required. Useful responses identify concrete problems, requested features or actionable suggestions. Automated acknowledgments and vague replies such as "we will get back to you" are not meaningful feedback. No screenshots of outreach attempts are needed.
 
 Build and demonstrate **working software**, not an architecture-only plan or mockup. The amount completed is **open-ended within OGH's vision and linked issues**. Complete as much of that defined scope as possible, including the full project if feasible. Do not leave features unfinished merely to reserve them for GSoC, and do not expand into unrelated product goals.
 
@@ -43,7 +43,7 @@ Build and demonstrate **working software**, not an architecture-only plan or moc
 
 Explain **why, what and how** you built the project. Describe what already works, your exploration findings and architectural choices, tests performed, what remains, and a realistic, testable milestone plan for the coding period. If much or all of the defined scope is already complete, describe meaningful remaining work **within OGH's vision and linked issues**.
 
-Briefly summarize any substantive streamer or community feedback and how it influenced your priorities. **Screenshots of specific responses are preferred**, showing the responder's identifiable email address or social handle and the platform. Redact unrelated sensitive information. Do not include generic acknowledgments or screenshots of outreach attempts. Receiving replies is not required.
+Briefly identify the streamers or communities contacted and summarize any substantive feedback and how it influenced your priorities. **If specific responses were received, include screenshots** showing the feedback, the responder's identifiable email address or social handle, and the platform. Redact unrelated sensitive information. Do not include generic acknowledgments or screenshots of outreach attempts. If no replies were received, simply state that.
 
 ## Resources
 

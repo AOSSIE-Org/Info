@@ -15,6 +15,12 @@ We want a reusable platform where people can create and configure their own bots
 
 ## Pre-Evaluation Requirements (Before Proposal Submission)
 
+### Early User and Business Outreach
+
+Before finalizing the proposal, study the platform's vision and identify potential users who could benefit from configurable AI agents. Reach out to relevant small businesses, customer support teams, appointment-based services, booking providers, community managers and other organizations. Ask about current problems, repetitive workflows, desired features and interest in trying or supporting the platform. Possible use cases include customer support, booking and appointment assistance, voice interaction and prompt-configured agents. Use the findings to identify realistic audiences and guide priorities within the project's existing vision and specification.
+
+Focus on personalized outreach to people or organizations with a relevant need and a reasonable likelihood of responding. Avoid mass messaging and spam. Receiving replies is not required. Substantive feedback includes specific problems, feature requests, integration guidance or concrete interest in piloting or supporting the product. Automated acknowledgments and vague promises to follow up do not count as meaningful responses.
+
 Build and demonstrate a **working, independently deployable application** using the technology stack and Kubernetes deployment requirements in the [living specification](https://github.com/imxade/idea-proposals/blob/master/ideas/chatbot.md). The amount completed is **open-ended within that specification and the vision above**. Implement as much of the defined scope as possible, including the full project if feasible. Do not stop at an artificial minimum, leave working features unfinished for GSoC, or add unrelated features. The result must be usable software, not a mockup or architecture-only proposal.
 
 1. **Preferably deploy the complete application on an Oracle Cloud Always Free VPS using K3s**, subject to free-tier availability and sufficient resources, while preserving the Kubernetes-only deployment requirement. Then create and configure a real logical bot through its dashboard, including instructions, context and authorized channel connections.
@@ -39,6 +45,8 @@ Creating external Discord and WhatsApp accounts, completing provider onboarding,
 ## What You Need to Do in Your Proposal
 
 Explain the product's **why, what and how**, what you have actually implemented and tested, the important architectural choices and trade-offs, remaining risks, and a concrete, testable plan for anything still to be completed. If much or all of the defined scope is complete before GSoC, describe that progress and propose meaningful further work **within the linked specification and this idea's vision**. Make your decisions and verification easy to assess.
+
+Briefly identify the audiences contacted and any relevant findings. **If substantive responses were received, include screenshots showing the feedback, the responder's identifiable email address or social handle, and the platform.** Explain how the feedback informed your priorities. Redact unrelated sensitive information. Do not include screenshots of outreach attempts or generic acknowledgments. If nobody responded, simply state that.
 
 ## Resources
 
