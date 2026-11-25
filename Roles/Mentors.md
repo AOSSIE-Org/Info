@@ -12,7 +12,7 @@ This section applies to **project mentors and co-mentors**.
 ### GSoC Mentors
 
 - Follow all policies defined in  
-  👉 [Google Summer of Code Guidelines](https://github.com/AOSSIE-Org/Info/blob/main/GoogleSummerOfCode.md)
+  👉 [Google Summer of Code Guidelines](../Programs/GoogleSummerOfCode/GoogleSummerOfCode.md)
 
 - Avoid conflicts of interest
 - Provide regular evaluations and progress reviews

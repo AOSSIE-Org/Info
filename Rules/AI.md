@@ -57,7 +57,7 @@ This is AOSSIE's general policy. Each project by AOSSIE may have its own
 AI Usage Policies that may extend or override AOSSIE's general policy. 
 Look for `AI-UsagePolicy.md` files in each project's repo.
 
-Finally, we strongly recommend checking our [Local AI Setup Guide](Guides/Local-AI-Setup.md), so that you do not become 
+Finally, we strongly recommend checking our [Local AI Setup Guide](../Guides/Local-AI-Setup.md), so that you do not become 
 locked into non-free closed AI services.
 
 --- 

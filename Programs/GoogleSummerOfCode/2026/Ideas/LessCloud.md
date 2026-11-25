@@ -8,11 +8,11 @@ Decades ago, the free and open-source software movement was a reaction to the bu
 
 The movement was successful, but the corporations switched their business model to software-as-a-service. Under this new model, it doesn't matter if the software is free and open-source, if its execution depends on their servers, on the data on their servers, on APIs for services that can only run on their servers, on the "cloud". 
 
-We are trapped by free credits and by frameworks that make it conveniently easy to develop software that depends on their infra-structure.
+We are trapped by free credits and by frameworks that make it conveniently easy to develop software that depends on their infrastructure.
 
 AOSSIE has fallen into this trap. As a result, many of our projects depend on cloud infrastructure and services that, as a not-for-profit that focuses on code production and not on revenue generation, we can't even afford. Once we were relying on free credits and then suddenly we were faced with a huge unexpected bill and had to shut down one of our projects.
 
-Furthermore, the digital activities of users of cloud-dependent software is under constant surveillance by the companies offering the "cloud" infra-structure and services. And our digital infrastructure becomes fragile, with global outages when any of these cloud monopolies becomes unavailable.
+Furthermore, the digital activities of users of cloud-dependent software is under constant surveillance by the companies offering the "cloud" infrastructure and services. And our digital infrastructure becomes fragile, with global outages when any of these cloud monopolies becomes unavailable.
 
 This idea aims to make our projects more local, more "grounded", less "cloudy", more "sunny".
 

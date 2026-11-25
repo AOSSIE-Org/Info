@@ -26,7 +26,7 @@ Contributions to repos in any of these spaces count for GSoC selection.
 
 ## Selection Criteria
 
-Please read our [AI Usage Policy](AI-UsagePolicy.md) carefully and adhere to its principles and rules.
+Please read our [AI Usage Policy](../../Rules/AI.md) carefully and adhere to its principles and rules.
 
 The main selection criteria are:
 
@@ -68,7 +68,7 @@ AOSSIE is interested in selecting the best contributors according to the criteri
 
 Our rules to prevent conflicts of interests are stricter than Google's. In addition to all the rules by Google, AOSSIE's mentors, contributors and candidates must also respect the following rules to be eligible:
 
-* All communications between mentors and candidates must occur through our communication channels. See our [Communication Guidelines and Rules](https://github.com/AOSSIE-Org/Info/blob/main/CommunicationGuidelinesAndRules.md) for more details. If you are a candidate who had any form of private communication with any mentor, even if not related to GSoC and even if merely coincidental, you must disclose this in your application.
+* All communications between mentors and candidates must occur through our communication channels. See our [Communication Guidelines and Rules](../../Rules/Communication.md) for more details. If you are a candidate who had any form of private communication with any mentor, even if not related to GSoC and even if merely coincidental, you must disclose this in your application.
 * A contributor who participated in GSoC in a previous year with AOSSIE is not eligible to apply again for GSoC with AOSSIE.
 * If you are a mentor with any affiliation or relationship, even if temporary and even if unpaid, with any entity from where there might be candidates applying for GSoC with AOSSIE, you must disclose this relationship to an admin prior to the GSoC application phase.
    * Failure to disclose may lead to the ineligibility of candidates from that entity.

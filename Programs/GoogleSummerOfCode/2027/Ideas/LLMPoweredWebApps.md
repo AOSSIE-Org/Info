@@ -34,7 +34,7 @@ If you would like to work on this idea, you need to:
 ### Requirements and Selection Criteria
 
 * Your web app should be a client-side app, with no server dependency.
-* The LLM used by your app should be either a local LLM in the user's computer (e.g. ollama-based), or a browser-based LLM, or a cloud-based LLM (e.g. Claude, ChatGTP, ...). For cloud-based LLMs, the web app should allow the user to insert his/her own key. 
+* The LLM used by your app should be either a local LLM in the user's computer (e.g. ollama-based), or a browser-based LLM, or a cloud-based LLM (e.g. Claude, ChatGPT, ...). For cloud-based LLMs, the web app should allow the user to insert his/her own key. 
   - Ideally, your web app should support multiple types of LLMs, among the types described above. For instance, it could support a browser-based model for users who don't want to bother about local models or subscriptions, a local model for users who care about privacy, and a cloud-based model for users who need more powerful models.
 * Your web app should be minimalistic, clean and with very intuitive UI/UX. (Otherwise the user would just use an LLM directly.)
 * Your web app should have good design and layout quality. You need to be attentive to details. Your web app should not contain defects, typos, grammar errors, window resizing issues, and so on.

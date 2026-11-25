@@ -48,7 +48,7 @@ Mirrors the structure of well-received past AOSSIE reports. ✍️ = written by 
 ## Work Completed
 
 ### Pull Requests
-<Merged PRs, newest first: "- [#N – title](url) – one-line description". Write the description from the PR title + body_excerpt in contributions.json; keep it factual.>
+<Merged PRs, newest first: "`- [#N – title](url) – one-line description`". Write the description from the PR title + body_excerpt in contributions.json; keep it factual.>
 
 ### Open Pull Requests
 <With "Last GSoC commit: sha (date)" for each.>

@@ -16,7 +16,7 @@ The currently implemented State Management with GetX is not scalable and redunda
 Currently, controllers are closely coupled with the UI, meaning that Business Logic and UI are not exclusive, as they should be. This again reduces robustness and makes automated testing difficult. A decoupling of business logic from the UI is necessary to improve Resonate.
 
 #### Backend Refactor
-Resonate uses Appwrite for it's backend, and when the backend was originally designed, a number of new features didn't exist, like Relationships. For this reason, the architecture of the Backend is unnecessarily complicated and redundant, and can be simplified a lot. This will also reduce load on the backend, as lesser reads will be required for the same data.
+Resonate uses Appwrite for its backend, and when the backend was originally designed, a number of new features didn't exist, like Relationships. For this reason, the architecture of the Backend is unnecessarily complicated and redundant, and can be simplified a lot. This will also reduce load on the backend, as lesser reads will be required for the same data.
 
 #### Improve Test Coverage
 Because of the close coupling of the business and UI Logic, 100% test coverage could not be achieved. After decoupling and the overhaul, this test coverage should be brought up to 100%, to further reduce the risk of errors popping up over time.

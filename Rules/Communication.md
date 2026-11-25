@@ -33,6 +33,6 @@
 
 * Any attempt to harass or offend any participant in our communication channels will lead to banning from these channels.
 
-* Please adhere to our [AI Usage Policy](AI-UsagePolicy.md) in your communications.
+* Please adhere to our [AI Usage Policy](AI.md) in your communications.
 
 If you suspect that these guidelines are being violated by others, please contact mentors, maintainers or admins. Do not message the violating contributor directly.

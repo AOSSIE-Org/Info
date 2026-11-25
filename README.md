@@ -46,8 +46,8 @@ Note that:
   * [Communication Rules](Rules/Communication.md): explanation of where and how to communicate within our community.
   * [Contribution Guidelines](Rules/Contribution.md): guidelines for contributing to our projects.
   * [Social Media Guidelines](Rules/SocialMedia.md): guidelines for posting about or for AOSSIE in social media.
-  * [LinkedIn](Rules/LinkedIn): rules for how to declare your affiliation to AOSSIE in LinkedIn.
-  * [AI Usage Policy](Rules/AI.md): rules for effetive and responsible usage of AI.
+  * [LinkedIn](Rules/LinkedIn.md): rules for how to declare your affiliation to AOSSIE in LinkedIn.
+  * [AI Usage Policy](Rules/AI.md): rules for effective and responsible usage of AI.
 * **Brand Guidelines:**
   * [Brand Kit & Guidelines](Brand.md): official branding guidelines, logo usage, color scheme, typography, and Figma design asset links.
 * **Roles:** AOSSIE contributors may be assigned various roles, and the following files provide information about their eligibility conditions, application instructions and responsibilities:
