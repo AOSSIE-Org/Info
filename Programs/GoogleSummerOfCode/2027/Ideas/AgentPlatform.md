@@ -17,20 +17,43 @@ We want a reusable platform where people can create and configure their own bots
 
 ### Early User and Business Outreach
 
-Before finalizing the proposal, study the platform's vision and identify potential users who could benefit from configurable AI agents. Reach out to relevant small businesses, customer support teams, appointment-based services, booking providers, community managers and other organizations. Ask about current problems, repetitive workflows, desired features and interest in trying or supporting the platform. Possible use cases include customer support, booking and appointment assistance, voice interaction and prompt-configured agents. Use the findings to identify realistic audiences and guide priorities within the project's existing vision and specification.
+Before finalizing the proposal, study the platform's vision and identify potential users who could benefit from configurable AI agents.
 
-Focus on personalized outreach to people or organizations with a relevant need and a reasonable likelihood of responding. Avoid mass messaging and spam. Receiving replies is not required. Substantive feedback includes specific problems, feature requests, integration guidance or concrete interest in piloting or supporting the product. Automated acknowledgments and vague promises to follow up do not count as meaningful responses.
+- **Who to contact:** Relevant small businesses, customer support teams, appointment-based services, booking providers, community managers and other organizations.
+- **What to ask:** Current problems, repetitive workflows, desired features and interest in trying or supporting the platform. Possible use cases include customer support, booking and appointment assistance, voice interaction and prompt-configured agents.
+- **How to approach them:** Focus on personalized outreach to people or organizations with a relevant need and a reasonable likelihood of responding. Avoid mass messaging and spam.
+- **Feedback:** Receiving replies is not required. Substantive feedback includes specific problems, feature requests, integration guidance or concrete interest in piloting or supporting the product. Automated acknowledgments and vague promises to follow up do not count as meaningful responses.
+
+Use the findings to identify realistic audiences and guide priorities within the project's existing vision and specification.
 
 Build and demonstrate a **working, independently deployable application** using the technology stack and Kubernetes deployment requirements in the [living specification](https://github.com/imxade/idea-proposals/blob/master/ideas/chatbot.md). The amount completed is **open-ended within that specification and the vision above**. Implement as much of the defined scope as possible, including the full project if feasible. Do not stop at an artificial minimum, leave working features unfinished for GSoC, or add unrelated features. The result must be usable software, not a mockup or architecture-only proposal.
 
-1. **Preferably deploy the complete application using Oracle Cloud Always Free resources**, prioritizing **(1) an OKE Basic cluster with Always Free-eligible worker nodes**, then **(2) an Always Free ARM VM running K3s** if OKE Basic is not feasible. Check account eligibility, regional availability, resource limits and potential charges while preserving the Kubernetes-only deployment requirement. Then create and configure a real logical bot through its dashboard, including instructions, context and authorized channel connections.
-2. Exercise **both Discord and WhatsApp Business** with real messages. Show a requester interacting with the bot, an eligible provider or maintainer receiving a handoff and replying, and the response reaching the requester. Demonstrate provider-initiated communication where the connected platform permits it.
-3. Test multiple eligible provider routes and no eligible provider route, including failed or unavailable destinations. Verify correct routing, isolation and truthful no-handoff behavior. Do not claim that unsupported WhatsApp groups or unsolicited messaging work.
-4. Change bot configuration and demonstrate the resulting behavior. Verify durable conversations, authorization boundaries, error handling and recovery. Do not add task-specific GitHub readers or other bespoke tools merely for the demonstration.
+1. **Preferably deploy the complete application using Oracle Cloud Always Free resources**.
+   - **First preference:** An OKE Basic cluster with Always Free-eligible worker nodes.
+   - **Second preference:** An Always Free ARM VM running K3s if OKE Basic is not feasible.
+   - Check account eligibility, regional availability, resource limits and potential charges while preserving the Kubernetes-only deployment requirement.
+   - Then create and configure a real logical bot through its dashboard, including instructions, context and authorized channel connections.
+2. Exercise **both Discord and WhatsApp Business** with real messages.
+   - Show a requester interacting with the bot.
+   - Show an eligible provider or maintainer receiving a handoff and replying, and the response reaching the requester.
+   - Demonstrate provider-initiated communication where the connected platform permits it.
+3. Test provider routing.
+   - Test multiple eligible provider routes and no eligible provider route, including failed or unavailable destinations.
+   - Verify correct routing, isolation and truthful no-handoff behavior.
+   - Do not claim that unsupported WhatsApp groups or unsolicited messaging work.
+4. Change bot configuration and demonstrate the resulting behavior.
+   - Verify durable conversations, authorization boundaries, error handling and recovery.
+   - Do not add task-specific GitHub readers or other bespoke tools merely for the demonstration.
 
 Creating external Discord and WhatsApp accounts, completing provider onboarding, and granting server or group access for testing involve the relevant account owners. These are **not additional product features**. The application still needs its own account, bot and connection-management functionality from the specification.
 
-**Showcase video:** Record one comprehensive, clearly explained video of the **actual implemented product**. Show bot creation and configuration, two-way Discord and WhatsApp interactions, multiple-provider and zero-provider cases, configuration changes, and other completed functionality. Show observable results rather than simulated responses or unrelated tooling. Protect credentials and private conversations.
+**Showcase video:** Record one comprehensive, clearly explained video of the **actual implemented product**. Show:
+- Bot creation and configuration.
+- Two-way Discord and WhatsApp interactions.
+- Multiple-provider and zero-provider cases.
+- Configuration changes and other completed functionality.
+
+Show observable results rather than simulated responses or unrelated tooling. Protect credentials and private conversations.
 
 **Progress sharing:** You may share short progress videos in the project Discord channel while working. If ready early, the platform may be used for an AOSSIE Discord bot before the GSoC period begins.
 
@@ -46,7 +69,10 @@ Creating external Discord and WhatsApp accounts, completing provider onboarding,
 
 Explain the product's **why, what and how**, what you have actually implemented and tested, the important architectural choices and trade-offs, remaining risks, and a concrete, testable plan for anything still to be completed. If much or all of the defined scope is complete before GSoC, describe that progress and propose meaningful further work **within the linked specification and this idea's vision**. Make your decisions and verification easy to assess.
 
-Briefly identify the audiences contacted and any relevant findings. **If substantive responses were received, include screenshots showing the feedback, the responder's identifiable email address or social handle, and the platform.** Explain how the feedback informed your priorities. Redact unrelated sensitive information. Do not include screenshots of outreach attempts or generic acknowledgments. If nobody responded, simply state that.
+Include early outreach findings in the proposal:
+- Briefly identify the audiences contacted and any relevant findings. Explain how the feedback informed your priorities.
+- **If substantive responses were received, include screenshots showing the feedback, the responder's identifiable email address or social handle, and the platform.** Redact unrelated sensitive information.
+- Do not include screenshots of outreach attempts or generic acknowledgments. If nobody responded, simply state that.
 
 ## Resources
 
