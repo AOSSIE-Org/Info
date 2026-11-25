@@ -8,7 +8,7 @@ people who have worked at some of the most well-known blockchains.
 With this MiniChain idea, AOSSIE wants to move beyond the smart contract layer of blockchains and 
 start contributing to the core of blockchain development, by building from scratch a minimalistic but functional blockchain: MiniChain.
 
-There are are few reasons why this is a good moment to do so and why AOSSIE is a good organization to do it:
+There are a few reasons why this is a good moment to do so and why AOSSIE is a good organization to do it:
 
 * Most well-known blockchains are now several years old and have accumulated a lot of technical debt.
   Simply forking their codebases is not an optimal option for starting a new chain.

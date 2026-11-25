@@ -26,7 +26,7 @@ The roadmap introduces two streamlined protocol versions:
 
 ## Resources
 
-* [General Djed overview](/stablecoins/djed-overview)
+* [General Djed overview](https://djed.one)
 * [Whiteboard animation](https://www.youtube.com/watch?v=XAalC8F6-SU&t=1s)
 * [First technical talk](https://www.youtube.com/watch?v=zG-rxMCDIa0&t=8367s)
 * [Academic paper](https://eprint.iacr.org/2021/1069)

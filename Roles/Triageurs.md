@@ -30,14 +30,14 @@ For convenience, here is a list of links to the lists of open PRs and issues:
 
 When you review a PR, do the following:
 * If the PR is AI slop, close the PR, leaving a comment that AI slop is not acceptable
-  and instructing the contributor to read our [AI Usage Policy](AI-UsagePolicy.md).
+  and instructing the contributor to read our [AI Usage Policy](../Rules/AI.md).
    * Not all AI-generated code is AI slop. Given the subjectivity of deciding whether AI-generated code is slop, 
      please judge responsibly.
 * If the PR's description does not follow the PR template, close the PR and leave a comment asking
   the contributor to resubmit and follow the PR template.
 * If the PR has been reviewed by CodeRabbit and the contributor has not addressed CodeRabbit's comments,
   submit a review requesting changes and asking the contributor to address CodeRabbit's comments.
-* If the PR has no unadressed CodeRabbit comments, review the PR yourself.
+* If the PR has no unaddressed CodeRabbit comments, review the PR yourself.
 * If you approve the PR and you deem the PR to be simple enough that it could be quickly merged by any maintainer or admin,
   send a message to the [channel of simple PRs ready to be merged](https://discord.gg/zJb7avQr8R) with a link to the PR.
 * If you approve the PR and you deem the PR to require thorough further review by a maintainer of the respective project,
@@ -46,7 +46,7 @@ When you review a PR, do the following:
 
 When you review an issue, do the following:
 * If the issue is AI slop generated merely for the sake of getting assignments and increasing PR count,
-  close the issue with a comment containing a link to our [AI Usage Policy](AI-UsagePolicy.md).
+  close the issue with a comment containing a link to our [AI Usage Policy](../Rules/AI.md).
 * If the issue is genuine and valuable, inform the maintainer of the project by tagging him/her in the PR
   or by informing him in the respective project channel.
   If the maintainer is unreachable or inactive, send a message to the [channel of valuable issues ready for assignment](https://discord.gg/ng4YwHSTYE) with a link to the issue.

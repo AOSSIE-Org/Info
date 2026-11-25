@@ -49,7 +49,7 @@ If you would like to work on this idea, you need to some (though not necessarily
 
 * As discussed above for items 1, 2 and 3, do not spam us with AI stuff that can be easily generated. Don't be just a mere "meat proxy" between us and your AI agent.
 * For items 1, 2 and 3, what matters is quality, not quantity.
-* Your prototype in item 4 above should be a client-side app, with no server dependency. The LLM used by it should be either a local LLM in the user's computer (e.g. ollama-based), or a browser-based LLM, or a cloud-based LLM (e.g. Claude, ChatGTP, ...). For cloud-based LLMs, the web app should allow the user to insert his/her own key. 
+* Your prototype in item 4 above should be a client-side app, with no server dependency. The LLM used by it should be either a local LLM in the user's computer (e.g. ollama-based), or a browser-based LLM, or a cloud-based LLM (e.g. Claude, ChatGPT, ...). For cloud-based LLMs, the web app should allow the user to insert his/her own key. 
 
 
 

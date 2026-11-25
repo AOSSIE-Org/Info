@@ -52,7 +52,7 @@ Candidates are expected to refine these tasks in their GSoC proposals.
 * [Zplit.md](https://github.com/StabilityNexus/Zplit/blob/main/zplit.md)
 * [Zplit README](https://github.com/StabilityNexus/Zplit/blob/main/README.md)
 * [BLoC Documentation](https://bloclibrary.dev/)
-* [pub.dev](pub.dev)
+* [pub.dev](https://pub.dev)
 
 
 ## Mentors

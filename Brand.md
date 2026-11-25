@@ -173,7 +173,7 @@ Below is the directory index providing clickable access to all local media asset
 
 | Asset Name | Format | Direct Link | Description |
 | :--- | :--- | :--- | :--- |
-| **AOSSIE Logo Vector** | SVG | [`aossie_logo.svg`](./Brand/Media%20Assets/Bag/aossie_logo.svg) | Vector SVG logo for bag printing |
+| **AOSSIE Logo Vector** | SVG | [`aossie_logo.svg`](./Brand/Media%20Assets/aossie_logo.svg) | Vector SVG logo for bag printing |
 | **Bag Design 2** | PNG | [`bag_design2.png`](./Brand/Media%20Assets/Bag/bag_design2.png) | Secondary backpack design render |
 | **Backpack Mockup** | PNG | [`bag_mockup.png`](./Brand/Media%20Assets/Bag/bag_mockup.png) | High-res mockup of AOSSIE backpack |
 | **Bag Strip Accent** | SVG | [`bag_strip.svg`](./Brand/Media%20Assets/Bag/bag_strip.svg) | Vector strip graphic accent |

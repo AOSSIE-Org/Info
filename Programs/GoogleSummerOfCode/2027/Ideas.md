@@ -11,8 +11,8 @@ Clearly a new approach is needed. But the best approach is not known yet. And it
 The key principle stays the same: we want contributions and we want the application phase to be valuable for you, for AOSSIE and for open-source software in general, independently of whether you succeed in getting a spot in GSoC.
 
 
-* [Project-Specific Ideas, Grouped by Theme](index.md#project-specific-ideas-grouped-by-theme)
-* [Organization-Wide Ideas](index.md#organization-wide-ideas)
+* [Project-Specific Ideas, Grouped by Theme](#project-specific-ideas-grouped-by-theme-and-tagged-by-skillset)
+* [Organization-Wide Ideas](#organization-wide-ideas)
 
 
 ## Project-Specific Ideas, Grouped by Theme and Tagged by Skillset
@@ -34,7 +34,7 @@ The skillset needed in each idea is shown in brackets.
 **Theme goal:** improve economic and financial stability in DeFi.
 
 **Ideas:**
-  - [TODO](TODO.md) _{Blockchain}_ _{Web}_
+  - TODO _{Blockchain}_ _{Web}_
 
 
 ### Theme: AI-Powered Apps
@@ -50,19 +50,19 @@ The skillset needed in each idea is shown in brackets.
 **Theme goal:** help people learn.
 
 **Ideas*:* 
-  - [TODO](TODO.md) _{AI}_ _{Web}_
+  - TODO _{AI}_ _{Web}_
 
 
 ### Theme: Communication
 
-**Theme goal:** build open, free and censorship-resistant communication infra-structure. 
-  - [TODO](TODO.md) _{Mobile}_
+**Theme goal:** build open, free and censorship-resistant communication infrastructure. 
+  - TODO _{Mobile}_
 
 
 ### Theme: Governance and Management
 
 **Theme goal:** ease community and team work.
-  - [TODO](TODO.md)  _{Web}_
+  - TODO  _{Web}_
 
 
 ### Theme: TODO
@@ -72,23 +72,23 @@ The skillset needed in each idea is shown in brackets.
 
 Org-wide ideas are ideas where a single contributor will contribute to many of our projects, but focusing on a single aspect in every project. These ideas are particularly suitable for contributors who prefer to specialize in a single technical competence area and who have the soft skills to interact effectively with contributors and mentors from many projects.
 
-TODO: The links below are from GSoC 2026. We need to check whether some of tehm are still relevant for GSoC 2027.
+TODO: The links below are from GSoC 2026. We need to check whether some of them are still relevant for GSoC 2027.
 
 - [Security of Smart Contracts](Ideas/SecurityOfSmartContracts.md)
-- [DevOps](DevOps.md)
-- [Fundraising and Monetization](FundraisingMonetization.md)
-- [Redundancy and Choice for External Dependencies](Choice.md)
-- [Making our Projects Independent from Cloud Services](LessCloud.md)
-- [Better UI/UX for our Projects](UI.md)
-- [Design and Implement Great-Looking Landing Pages for our Projects](LandingPages.md)
-- [SEO, Social Sharing and Marketing](SEO.md)
-- [Operation Phoenix](Phoenix.md)
+- [DevOps](../2026/Ideas/DevOps.md)
+- [Fundraising and Monetization](../2026/Ideas/FundraisingMonetization.md)
+- [Redundancy and Choice for External Dependencies](../2026/Ideas/Choice.md)
+- [Making our Projects Independent from Cloud Services](../2026/Ideas/LessCloud.md)
+- [Better UI/UX for our Projects](../2026/Ideas/UI.md)
+- [Design and Implement Great-Looking Landing Pages for our Projects](../2026/Ideas/LandingPages.md)
+- [SEO, Social Sharing and Marketing](../2026/Ideas/SEO.md)
+- [Operation Phoenix](../2026/Ideas/Phoenix.md)
 
 
 ---
 
 
 If you are mentor, propose your idea by using our [Idea Template](../Template.md)
-to [this folder](https://github.com/AOSSIE-Org/Info/tree/main/GSoC-Ideas/2026)
+to [this folder](Ideas)
 and then add a link to your file in the list above. Inform the admins in Discord.
 Admins may modify or remove your ideas.
